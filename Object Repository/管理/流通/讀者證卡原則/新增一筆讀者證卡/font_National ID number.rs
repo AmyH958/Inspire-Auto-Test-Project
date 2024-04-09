@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>font_National ID number</name>
+   <tag></tag>
+   <elementGuidId>dac252bb-3f21-41a9-889a-0cf289f7ae4c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='6']/font</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#6 > font</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>font</value>
+      <webElementGuid>076c3631-549b-4f6a-818c-eb13b689ff7c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>size</name>
+      <type>Main</type>
+      <value>4px</value>
+      <webElementGuid>8e0fc4cf-deaf-4cd5-966c-25a2677e4177</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>[National ID number]</value>
+      <webElementGuid>8fa41dc8-46fb-4196-a4b8-94ac53d9295c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;6&quot;)/font[1]</value>
+      <webElementGuid>010bae37-c3d0-4ca9-a9db-efc4b8bfa5b7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='6']/font</value>
+      <webElementGuid>bd80656a-8a27-4d9a-a9cd-63d7c5436275</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='[Patron class]'])[2]/following::font[1]</value>
+      <webElementGuid>34272b86-151c-40eb-998b-6ceaebc976fd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='[Location]'])[2]/following::font[2]</value>
+      <webElementGuid>4431ada6-421f-4368-9d3d-10e8061f4931</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='前置碼:'])[2]/preceding::font[1]</value>
+      <webElementGuid>6b477d08-206a-42df-a2b2-3a5d83b80fc5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='館藏地:'])[2]/preceding::font[1]</value>
+      <webElementGuid>24fc06b3-699a-492c-807f-328b6770b225</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/font</value>
+      <webElementGuid>b7316fa4-6065-4d2f-9483-fc555beed90d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//font[(text() = '[National ID number]' or . = '[National ID number]')]</value>
+      <webElementGuid>c182bd43-7985-4b69-bc9b-fbbd9f78bb49</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

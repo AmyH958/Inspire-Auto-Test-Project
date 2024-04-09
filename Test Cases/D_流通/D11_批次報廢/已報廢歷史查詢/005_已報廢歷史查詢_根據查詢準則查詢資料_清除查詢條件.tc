@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>005_已報廢歷史查詢_根據查詢準則查詢資料_清除查詢條件</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5dc4f725-c5e2-4394-ae2f-960f87a36c23</testCaseGuid>
+</TestCaseEntity>

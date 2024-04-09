@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>font_Location</name>
+   <tag></tag>
+   <elementGuidId>a071cefe-6ced-48e9-81cc-2720612d1609</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='4']/font</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#4 > font</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>font</value>
+      <webElementGuid>c30bdbda-57e9-4b61-aeb9-f1668de20117</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>size</name>
+      <type>Main</type>
+      <value>4px</value>
+      <webElementGuid>f2652629-4f4e-47e5-8da7-976627430047</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>[Location]</value>
+      <webElementGuid>ae78cb51-9f7e-47b4-a428-a98714b03e34</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;4&quot;)/font[1]</value>
+      <webElementGuid>fad91d1e-28d4-455f-9c19-8f0f5b9ae345</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='4']/font</value>
+      <webElementGuid>0241b3bf-07a0-45f1-b1b9-ef2fb85f5f71</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='[Number]'])[2]/following::font[1]</value>
+      <webElementGuid>7f543d2d-f588-416d-ba57-b6e4faf60cea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='[Sufix]'])[2]/following::font[2]</value>
+      <webElementGuid>87de7a38-69a5-4283-a3a4-477e32f85f67</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='[Patron class]'])[2]/preceding::font[1]</value>
+      <webElementGuid>720e6b50-6ddc-4c73-8bae-aafe3e9cc001</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='[National ID number]'])[2]/preceding::font[2]</value>
+      <webElementGuid>b7824962-d2ca-4bdf-b825-2da9fd4fd1ee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/font</value>
+      <webElementGuid>d4faec69-de12-472a-a1f2-1b53db1dfe32</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//font[(text() = '[Location]' or . = '[Location]')]</value>
+      <webElementGuid>e0274bf2-f995-47de-a86e-c12072a56ec3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

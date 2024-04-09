@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>b_</name>
+   <tag></tag>
+   <elementGuidId>32a5d02c-c71d-4682-be34-44012b0b40c0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>b</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='DirectLink_1']/font/b</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>b</value>
+      <webElementGuid>d3e708be-c9e3-4ffb-9c06-3dd2a26c8966</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>查詢
+							
+						</value>
+      <webElementGuid>36d81258-2e00-4932-82c3-3e8fbaa3da23</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;DirectLink_1&quot;)/font[1]/b[1]</value>
+      <webElementGuid>cedbdf3c-f24f-4d81-b6dc-8319a4f2654b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id='DirectLink_1']/font/b</value>
+      <webElementGuid>c9f02246-6e7d-4a08-a02e-a9fb63247200</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//b</value>
+      <webElementGuid>ca8fcaf3-8555-418a-aa1d-c27a00599336</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//b[(text() = '查詢
+							
+						' or . = '查詢
+							
+						')]</value>
+      <webElementGuid>241e14f5-37c8-408d-81bf-3d2cee390e6f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

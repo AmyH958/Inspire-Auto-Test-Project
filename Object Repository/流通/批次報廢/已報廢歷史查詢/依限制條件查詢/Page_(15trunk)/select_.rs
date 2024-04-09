@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_</name>
+   <tag></tag>
+   <elementGuidId>11ee96c5-1c47-449c-b04b-0499c07b7fb4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='filterCriteria']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#filterCriteria</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>23d95cda-ecf0-4b66-be5b-a03097a9de62</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>filterCriteria</value>
+      <webElementGuid>540b4f70-2ca5-44e2-9c2b-44a813858ce9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>filterCriteria</value>
+      <webElementGuid>19b0bb55-7ce6-41a7-acaf-97cd45b72292</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+全系統記錄
+圖書
+期刊
+分析款目
+合集
+</value>
+      <webElementGuid>f5158127-a1fa-46cc-9f0e-babe456696f6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;filterCriteria&quot;)</value>
+      <webElementGuid>f5fbe3d5-f301-49c3-8ca2-694a9c0e1dde</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='filterCriteria']</value>
+      <webElementGuid>42ff950d-d319-47d2-9246-092e0f039a10</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//tr[@id='If_47']/td[2]/select</value>
+      <webElementGuid>1b58bf39-9be1-4ff0-829b-3eca2c40b522</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='書目性質:'])[1]/following::select[1]</value>
+      <webElementGuid>53e091b1-1792-49e1-946d-29366ad6884e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='限制條件'])[2]/following::select[1]</value>
+      <webElementGuid>12ca838d-e2ed-4ace-810a-143a8ae1a8b8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='資料類型:'])[1]/preceding::select[1]</value>
+      <webElementGuid>b1a5fd93-74f5-4640-a80b-ccc0a18f8be2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='在OPAC上顯示:'])[1]/preceding::select[2]</value>
+      <webElementGuid>17055400-7324-45e8-b254-cc3dd7d51e52</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[2]/td[2]/select</value>
+      <webElementGuid>75627007-0c3b-4775-aeb1-e1101e5026ea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@name = 'filterCriteria' and @id = 'filterCriteria' and (text() = '
+全系統記錄
+圖書
+期刊
+分析款目
+合集
+' or . = '
+全系統記錄
+圖書
+期刊
+分析款目
+合集
+')]</value>
+      <webElementGuid>72d6dcca-d0f3-4706-b4f4-20d110021fb5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

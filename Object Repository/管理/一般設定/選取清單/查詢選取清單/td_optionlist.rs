@@ -1,0 +1,376 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_optionlist</name>
+   <tag></tag>
+   <elementGuidId>02798082-ce47-42d4-8f91-8c384293a0e9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>td</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[(text() = '
+				代碼檔選項: 
+					
+AuCallNumberGenerator
+AutomaticSuspensionOfSubitems
+BindingColor
+BindingFont
+BindingSize
+BindingType
+BookLabelsFontOption
+CancelOFFromPOReason
+CancelReservReason
+CardStatus
+CheckinStatus
+ClassificationName
+CostCenterSubject
+Course
+ExpenseTypes
+IndexStrategy
+InventoryClass
+ItemCollection
+ItemCurrentStatus
+ItemsFilter
+LANGUAGE
+Language
+MaterialDesignation
+OUType
+Occupation
+OrderStatus
+PaymentCashTypes
+PublicationStatus
+RDA Carrier type
+RDA Content type
+RDA Media type
+Rating
+ReaderStatus
+Recommend_Status
+RejectApproveMess
+RejectPrereqMess
+RejectReasons
+SDI_NOTICE_FREQUENCY
+SMPLocationsSetupCategory1
+SMPLocationsSetupCategory2
+SMPLocationsSetupCategory3
+SchoolTerm
+SchoolYear
+SlaveCardType
+SourceOfSolicitation
+StopOrderMess
+SubjectSystemCodes
+SuspendRightsType
+ser_status
+
+			' or . = '
+				代碼檔選項: 
+					
+AuCallNumberGenerator
+AutomaticSuspensionOfSubitems
+BindingColor
+BindingFont
+BindingSize
+BindingType
+BookLabelsFontOption
+CancelOFFromPOReason
+CancelReservReason
+CardStatus
+CheckinStatus
+ClassificationName
+CostCenterSubject
+Course
+ExpenseTypes
+IndexStrategy
+InventoryClass
+ItemCollection
+ItemCurrentStatus
+ItemsFilter
+LANGUAGE
+Language
+MaterialDesignation
+OUType
+Occupation
+OrderStatus
+PaymentCashTypes
+PublicationStatus
+RDA Carrier type
+RDA Content type
+RDA Media type
+Rating
+ReaderStatus
+Recommend_Status
+RejectApproveMess
+RejectPrereqMess
+RejectReasons
+SDI_NOTICE_FREQUENCY
+SMPLocationsSetupCategory1
+SMPLocationsSetupCategory2
+SMPLocationsSetupCategory3
+SchoolTerm
+SchoolYear
+SlaveCardType
+SourceOfSolicitation
+StopOrderMess
+SubjectSystemCodes
+SuspendRightsType
+ser_status
+
+			')]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/div[1]/div[1]/div[2]/form/div[2]/div/table/tbody/tr/td/text()</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>e7a2fec9-7ca3-40c5-b0f1-cce5d42b39f3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+				代碼檔選項: 
+					
+AuCallNumberGenerator
+AutomaticSuspensionOfSubitems
+BindingColor
+BindingFont
+BindingSize
+BindingType
+BookLabelsFontOption
+CancelOFFromPOReason
+CancelReservReason
+CardStatus
+CheckinStatus
+ClassificationName
+CostCenterSubject
+Course
+ExpenseTypes
+IndexStrategy
+InventoryClass
+ItemCollection
+ItemCurrentStatus
+ItemsFilter
+LANGUAGE
+Language
+MaterialDesignation
+OUType
+Occupation
+OrderStatus
+PaymentCashTypes
+PublicationStatus
+RDA Carrier type
+RDA Content type
+RDA Media type
+Rating
+ReaderStatus
+Recommend_Status
+RejectApproveMess
+RejectPrereqMess
+RejectReasons
+SDI_NOTICE_FREQUENCY
+SMPLocationsSetupCategory1
+SMPLocationsSetupCategory2
+SMPLocationsSetupCategory3
+SchoolTerm
+SchoolYear
+SlaveCardType
+SourceOfSolicitation
+StopOrderMess
+SubjectSystemCodes
+SuspendRightsType
+ser_status
+
+			</value>
+      <webElementGuid>70fc5290-5ed4-4421-b2b0-7bb423c540f3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;pickListNav&quot;)/div[@class=&quot;right_box l&quot;]/div[@class=&quot;search1 l&quot;]/table[@class=&quot;table9&quot;]/tbody[1]/tr[1]/td[1]</value>
+      <webElementGuid>f97b78b7-bd99-4d40-9564-5f665b14559e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='pickListNav']/div[2]/div/table/tbody/tr/td</value>
+      <webElementGuid>6e3013af-1b8b-4cc4-a84b-e77d44a4d8e4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='管理 > 一般設定 > 選取清單'])[1]/following::td[1]</value>
+      <webElementGuid>c727f37d-8bf6-4897-9f19-735104383dba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='電子資源狀況報表'])[1]/following::td[1]</value>
+      <webElementGuid>750fb34b-2db4-4b1b-810e-2c76b0bc7ae4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='代碼'])[1]/preceding::td[1]</value>
+      <webElementGuid>3ecfbe33-aa81-4497-af69-d3c2b60c80c7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='值'])[1]/preceding::td[2]</value>
+      <webElementGuid>ac809c6d-9a0e-471a-b5f8-f0e70cacf224</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='代碼檔選項:']/parent::*</value>
+      <webElementGuid>8c8cd8ef-71fe-4a12-9aac-307dbba6e6cf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td</value>
+      <webElementGuid>bc4ef6e8-2e72-4c33-afeb-a2dbdd30b4f2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = '
+				代碼檔選項: 
+					
+AuCallNumberGenerator
+AutomaticSuspensionOfSubitems
+BindingColor
+BindingFont
+BindingSize
+BindingType
+BookLabelsFontOption
+CancelOFFromPOReason
+CancelReservReason
+CardStatus
+CheckinStatus
+ClassificationName
+CostCenterSubject
+Course
+ExpenseTypes
+IndexStrategy
+InventoryClass
+ItemCollection
+ItemCurrentStatus
+ItemsFilter
+LANGUAGE
+Language
+MaterialDesignation
+OUType
+Occupation
+OrderStatus
+PaymentCashTypes
+PublicationStatus
+RDA Carrier type
+RDA Content type
+RDA Media type
+Rating
+ReaderStatus
+Recommend_Status
+RejectApproveMess
+RejectPrereqMess
+RejectReasons
+SDI_NOTICE_FREQUENCY
+SMPLocationsSetupCategory1
+SMPLocationsSetupCategory2
+SMPLocationsSetupCategory3
+SchoolTerm
+SchoolYear
+SlaveCardType
+SourceOfSolicitation
+StopOrderMess
+SubjectSystemCodes
+SuspendRightsType
+ser_status
+
+			' or . = '
+				代碼檔選項: 
+					
+AuCallNumberGenerator
+AutomaticSuspensionOfSubitems
+BindingColor
+BindingFont
+BindingSize
+BindingType
+BookLabelsFontOption
+CancelOFFromPOReason
+CancelReservReason
+CardStatus
+CheckinStatus
+ClassificationName
+CostCenterSubject
+Course
+ExpenseTypes
+IndexStrategy
+InventoryClass
+ItemCollection
+ItemCurrentStatus
+ItemsFilter
+LANGUAGE
+Language
+MaterialDesignation
+OUType
+Occupation
+OrderStatus
+PaymentCashTypes
+PublicationStatus
+RDA Carrier type
+RDA Content type
+RDA Media type
+Rating
+ReaderStatus
+Recommend_Status
+RejectApproveMess
+RejectPrereqMess
+RejectReasons
+SDI_NOTICE_FREQUENCY
+SMPLocationsSetupCategory1
+SMPLocationsSetupCategory2
+SMPLocationsSetupCategory3
+SchoolTerm
+SchoolYear
+SlaveCardType
+SourceOfSolicitation
+StopOrderMess
+SubjectSystemCodes
+SuspendRightsType
+ser_status
+
+			')]</value>
+      <webElementGuid>d6fef1be-ca08-4161-a9bf-cabecfe46590</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

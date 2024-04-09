@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>007_預約審核_根據查詢準則查詢資料_批次核准</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a7a1d554-08fc-4e75-aff7-9851dec39018</testCaseGuid>
+</TestCaseEntity>

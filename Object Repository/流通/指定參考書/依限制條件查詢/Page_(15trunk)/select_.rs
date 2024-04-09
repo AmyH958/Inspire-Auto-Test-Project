@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_</name>
+   <tag></tag>
+   <elementGuidId>ec81d7e4-259b-48e0-9da9-7ed8ad3f0259</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#PropertySelection_0</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='PropertySelection_0']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>0a6c4353-9d4e-428e-87e5-cfed2f3d640e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>PropertySelection_0</value>
+      <webElementGuid>35759c0c-c0d2-4ef0-aff2-04f57699a552</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>PropertySelection_0</value>
+      <webElementGuid>74f222cb-cb14-49be-82f1-92c0ee87b651</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+
+台中總館
+台中總館視聽區
+</value>
+      <webElementGuid>0c01ca95-61e9-44e5-bf15-bc309133ea69</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;PropertySelection_0&quot;)</value>
+      <webElementGuid>da7ab44b-db16-4afa-b00a-aa1e2a0d5bdb</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='PropertySelection_0']</value>
+      <webElementGuid>a7ff2c16-2d28-433c-b582-29cb875ade79</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//tr[@id='If_33']/td[2]/select</value>
+      <webElementGuid>8d3f0935-fccb-49d2-bd94-497b33d78b3e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='指定館藏地:'])[1]/following::select[1]</value>
+      <webElementGuid>aaa6e085-25f4-4bbd-862d-dee453fd0fe2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='限制條件'])[2]/following::select[1]</value>
+      <webElementGuid>27e33e3b-6b65-473c-906d-68b129c6cf79</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='單位所系:'])[1]/preceding::select[1]</value>
+      <webElementGuid>2ef2f12a-803f-4063-9c07-d49af6b34e1b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='單位所系'])[2]/preceding::select[1]</value>
+      <webElementGuid>92f0a5d7-d419-4371-b5ab-b6317e003620</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[2]/select</value>
+      <webElementGuid>0aec3592-1418-43d7-92df-32168fcfa5af</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@name = 'PropertySelection_0' and @id = 'PropertySelection_0' and (text() = '
+
+台中總館
+台中總館視聽區
+' or . = '
+
+台中總館
+台中總館視聽區
+')]</value>
+      <webElementGuid>a92d9356-621a-47c1-99f9-1406e6e28c53</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label</name>
+   <tag></tag>
+   <elementGuidId>5a66b26e-a039-4b49-9fcb-732639ca2c47</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.expand > label</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='tree-options-box']/div/ul/li/div/label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>3fd80fe1-0498-4da3-87e7-f8e90d926a88</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;tree-options-box&quot;)/div[@class=&quot;tree-options&quot;]/ul[1]/li[1]/div[@class=&quot;expand&quot;]/label[1]</value>
+      <webElementGuid>71fe692b-5681-40e2-b3ae-3a9ee9b7fa39</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='tree-options-box']/div/ul/li/div/label</value>
+      <webElementGuid>c32775db-cd2b-4d32-b798-3f5e5932a494</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='CMUL - 神資圖書館'])[1]/following::label[1]</value>
+      <webElementGuid>b3fcfb8c-1f5d-42d0-8fb0-563660af015a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='取消'])[1]/following::label[1]</value>
+      <webElementGuid>dfc2f98f-a49f-4dde-849a-cf599907d2de</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='AH - 安南醫院'])[1]/preceding::label[5]</value>
+      <webElementGuid>d48d6a75-6e06-4877-8558-6730d25f58a1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='AHGL - 安南圖書區'])[1]/preceding::label[6]</value>
+      <webElementGuid>3f3a4b14-e20b-4d96-9a28-3c16518b70ba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/label</value>
+      <webElementGuid>30aa0c60-dfb8-4521-8f81-d19b8c46a374</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

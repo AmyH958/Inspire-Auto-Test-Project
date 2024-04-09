@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td__1_2_3</name>
+   <tag></tag>
+   <elementGuidId>99fe972a-ac3d-4d5a-9677-d76655dabcca</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='exportDialog_content']/table/tbody/tr[4]/td</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#exportDialog_content > table > tbody > tr:nth-of-type(4) > td</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>f9d70ae5-b149-48a8-ba5d-5064d87755ca</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>限制條件</value>
+      <webElementGuid>d7800780-9afc-4845-930d-0d9cc48eb5b3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;exportDialog_content&quot;)/table[1]/tbody[1]/tr[4]/td[1]</value>
+      <webElementGuid>7c54fa0d-252b-4456-9b53-10977057d59b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='exportDialog_content']/table/tbody/tr[4]/td</value>
+      <webElementGuid>c4daa967-afc4-4e08-a26a-0b1158d351b4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='館藏'])[1]/following::td[2]</value>
+      <webElementGuid>083a3992-c2c6-482b-a63a-f89d75fac26f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='譯碼'])[1]/following::td[4]</value>
+      <webElementGuid>4c68f8df-2d9c-4f31-b5b5-130c9c32a651</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='館藏地'])[2]/preceding::td[2]</value>
+      <webElementGuid>5e72af61-339d-47a5-a3e8-444a301347c2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='館藏地'])[3]/preceding::td[4]</value>
+      <webElementGuid>4a6d66b5-fb44-44b1-b6fb-82e980d218d7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='限制條件']/parent::*</value>
+      <webElementGuid>f4e5057a-510e-430a-bbc2-ffc4aabd6594</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td/div/table/tbody/tr[4]/td</value>
+      <webElementGuid>2d601578-1e7e-413e-b607-52dc0412fa2d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = '限制條件' or . = '限制條件')]</value>
+      <webElementGuid>4ddba1cb-0734-4e80-ae2d-4c21dd8e52d9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

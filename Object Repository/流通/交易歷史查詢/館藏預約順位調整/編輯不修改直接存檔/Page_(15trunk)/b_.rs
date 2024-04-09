@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>b_</name>
+   <tag></tag>
+   <elementGuidId>6463c8ac-6f85-4e46-98f3-be9963a3aa48</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>b</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//body[@id='Body']/div/div/div[2]/div[3]/a/font/b</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>b</value>
+      <webElementGuid>20fb36fd-7721-4bac-881d-0284624aea6f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>查詢 </value>
+      <webElementGuid>56222163-6fe5-49b4-8d73-2cc5c0200180</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;Body&quot;)/div[@class=&quot;wrap&quot;]/div[@class=&quot;main l&quot;]/div[@class=&quot;main_right l&quot;]/div[@class=&quot;right_box l&quot;]/a[1]/font[1]/b[1]</value>
+      <webElementGuid>ec9e22da-fcec-4a10-9626-aa328516b68e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//body[@id='Body']/div/div/div[2]/div[3]/a/font/b</value>
+      <webElementGuid>1d57cbd4-2827-4bb3-a385-ddec1ba876a8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='流通 > 交易歷史查詢 > 館藏預約順位調整'])[1]/following::b[1]</value>
+      <webElementGuid>a36ebfea-46bf-4693-aceb-8bf89b99b373</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='電子資源狀況報表'])[1]/following::b[1]</value>
+      <webElementGuid>1fa72579-73c3-45ce-8d3d-406cf599e22a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='瀏覽'])[1]/preceding::b[1]</value>
+      <webElementGuid>9f326407-0798-4364-bb3b-228037f3fc0c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='查詢條件'])[1]/preceding::b[2]</value>
+      <webElementGuid>e0911c45-2935-4f73-a14b-9396b560ece0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//b</value>
+      <webElementGuid>a3ee4d14-2954-409b-9fd0-7dc935ceef9e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//b[(text() = '查詢 ' or . = '查詢 ')]</value>
+      <webElementGuid>3ea6a1f8-f692-4c9b-9033-4c912e1958ca</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

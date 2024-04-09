@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>001_盤點比對_條碼號查詢_UI介面顯示正確</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>bd645a76-f57d-499e-92d8-b13e9cf88096</testCaseGuid>
+</TestCaseEntity>

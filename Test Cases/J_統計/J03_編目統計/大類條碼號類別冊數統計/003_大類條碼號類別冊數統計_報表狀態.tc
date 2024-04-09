@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>003_大類條碼號類別冊數統計_報表狀態</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>348f7b85-2675-4eb9-927e-c0299291131d</testCaseGuid>
+</TestCaseEntity>

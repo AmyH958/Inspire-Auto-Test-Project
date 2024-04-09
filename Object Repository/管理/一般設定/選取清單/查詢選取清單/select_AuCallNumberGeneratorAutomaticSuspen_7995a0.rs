@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_AuCallNumberGeneratorAutomaticSuspen_7995a0</name>
+   <tag></tag>
+   <elementGuidId>4d971de8-2c38-44f0-8816-d212a6145ecd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#PropertySelection_0</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='PropertySelection_0']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>170324c9-62e5-41d2-9254-a0c8231bdaf0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>PropertySelection_0</value>
+      <webElementGuid>941dca2d-d778-44e5-b6fe-1d0793492a5a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>PropertySelection_0</value>
+      <webElementGuid>12e5e269-507f-41bd-bd70-62fa10c14681</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onchange</name>
+      <type>Main</type>
+      <value>refreshTheList( 'entitySubmit' )</value>
+      <webElementGuid>fcbb3119-644a-4dc7-bb36-7d7eee6ab6df</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+AuCallNumberGenerator
+AutomaticSuspensionOfSubitems
+BindingColor
+BindingFont
+BindingSize
+BindingType
+BookLabelsFontOption
+CancelOFFromPOReason
+CancelReservReason
+CardStatus
+CheckinStatus
+ClassificationName
+CostCenterSubject
+Course
+ExpenseTypes
+IndexStrategy
+InventoryClass
+ItemCollection
+ItemCurrentStatus
+ItemsFilter
+LANGUAGE
+Language
+MaterialDesignation
+OUType
+Occupation
+OrderStatus
+PaymentCashTypes
+PublicationStatus
+RDA Carrier type
+RDA Content type
+RDA Media type
+Rating
+ReaderStatus
+Recommend_Status
+RejectApproveMess
+RejectPrereqMess
+RejectReasons
+SDI_NOTICE_FREQUENCY
+SMPLocationsSetupCategory1
+SMPLocationsSetupCategory2
+SMPLocationsSetupCategory3
+SchoolTerm
+SchoolYear
+SlaveCardType
+SourceOfSolicitation
+StopOrderMess
+SubjectSystemCodes
+SuspendRightsType
+ser_status
+</value>
+      <webElementGuid>97b47850-8529-42dd-a99b-3cc6faf4673a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;PropertySelection_0&quot;)</value>
+      <webElementGuid>f80919e9-5a3f-45f0-a699-dbb5417db65f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='PropertySelection_0']</value>
+      <webElementGuid>50cde7df-1de3-4857-92bb-618fbe91bd98</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='pickListNav']/div[2]/div/table/tbody/tr/td/select</value>
+      <webElementGuid>8afcf34d-e0d7-40f0-adb3-2adff965033c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='管理 > 一般設定 > 選取清單'])[1]/following::select[1]</value>
+      <webElementGuid>45a38a32-c4ac-448e-a861-f4e22cc42a22</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='代碼'])[1]/preceding::select[1]</value>
+      <webElementGuid>088d9c65-746e-4e63-8f65-9edd37ecfc19</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='值'])[1]/preceding::select[1]</value>
+      <webElementGuid>9abc0eee-2ef8-4212-9371-7bc468174aca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td/select</value>
+      <webElementGuid>49a04f6c-701f-4895-af16-27fe24c7bbca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@name = 'PropertySelection_0' and @id = 'PropertySelection_0' and (text() = '
+AuCallNumberGenerator
+AutomaticSuspensionOfSubitems
+BindingColor
+BindingFont
+BindingSize
+BindingType
+BookLabelsFontOption
+CancelOFFromPOReason
+CancelReservReason
+CardStatus
+CheckinStatus
+ClassificationName
+CostCenterSubject
+Course
+ExpenseTypes
+IndexStrategy
+InventoryClass
+ItemCollection
+ItemCurrentStatus
+ItemsFilter
+LANGUAGE
+Language
+MaterialDesignation
+OUType
+Occupation
+OrderStatus
+PaymentCashTypes
+PublicationStatus
+RDA Carrier type
+RDA Content type
+RDA Media type
+Rating
+ReaderStatus
+Recommend_Status
+RejectApproveMess
+RejectPrereqMess
+RejectReasons
+SDI_NOTICE_FREQUENCY
+SMPLocationsSetupCategory1
+SMPLocationsSetupCategory2
+SMPLocationsSetupCategory3
+SchoolTerm
+SchoolYear
+SlaveCardType
+SourceOfSolicitation
+StopOrderMess
+SubjectSystemCodes
+SuspendRightsType
+ser_status
+' or . = '
+AuCallNumberGenerator
+AutomaticSuspensionOfSubitems
+BindingColor
+BindingFont
+BindingSize
+BindingType
+BookLabelsFontOption
+CancelOFFromPOReason
+CancelReservReason
+CardStatus
+CheckinStatus
+ClassificationName
+CostCenterSubject
+Course
+ExpenseTypes
+IndexStrategy
+InventoryClass
+ItemCollection
+ItemCurrentStatus
+ItemsFilter
+LANGUAGE
+Language
+MaterialDesignation
+OUType
+Occupation
+OrderStatus
+PaymentCashTypes
+PublicationStatus
+RDA Carrier type
+RDA Content type
+RDA Media type
+Rating
+ReaderStatus
+Recommend_Status
+RejectApproveMess
+RejectPrereqMess
+RejectReasons
+SDI_NOTICE_FREQUENCY
+SMPLocationsSetupCategory1
+SMPLocationsSetupCategory2
+SMPLocationsSetupCategory3
+SchoolTerm
+SchoolYear
+SlaveCardType
+SourceOfSolicitation
+StopOrderMess
+SubjectSystemCodes
+SuspendRightsType
+ser_status
+')]</value>
+      <webElementGuid>543785e5-51af-49ab-9780-efbf6c5bb652</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

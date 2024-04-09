@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>b__1</name>
+   <tag></tag>
+   <elementGuidId>5e3c1e52-94a9-435d-80c4-3434ce6535aa</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>nobr > font > b</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//td[@id='If_43']/nobr/font/b</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>b</value>
+      <webElementGuid>16f9a352-5033-4f23-89a5-ee52bc7bede9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>瀏覽條件:</value>
+      <webElementGuid>15e4c1dd-9f8f-4ffb-9d42-218d0eb1773f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;If_43&quot;)/nobr[1]/font[1]/b[1]</value>
+      <webElementGuid>348c064e-7a1e-4788-9207-4fe7f8d0406e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//td[@id='If_43']/nobr/font/b</value>
+      <webElementGuid>87973d4e-8879-41da-a6a4-8e33221923da</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='讀者身份類別:'])[1]/following::b[1]</value>
+      <webElementGuid>47802b90-3132-414a-aa00-17603a6922f1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='test777'])[1]/following::b[1]</value>
+      <webElementGuid>64cba735-75a7-49ea-a0b9-4b97d9131bea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='起始以:'])[1]/preceding::b[1]</value>
+      <webElementGuid>851481cb-0a52-470c-bc05-2a627fbe2dd9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='排序條件:'])[1]/preceding::b[2]</value>
+      <webElementGuid>7b0d5132-2232-4985-b00d-0c22ab5d9362</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='瀏覽條件:']/parent::*</value>
+      <webElementGuid>ccd8d084-1de7-41b4-86c5-f95b27c2b1fc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//nobr/font/b</value>
+      <webElementGuid>b195e0cd-32e9-4507-abed-622ab0807f6a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//b[(text() = '瀏覽條件:' or . = '瀏覽條件:')]</value>
+      <webElementGuid>dfdab67c-81af-4f80-9508-5bb615ccc66d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

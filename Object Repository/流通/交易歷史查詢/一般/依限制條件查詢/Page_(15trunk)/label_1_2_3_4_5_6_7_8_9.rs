@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_1_2_3_4_5_6_7_8_9</name>
+   <tag></tag>
+   <elementGuidId>3fb382e1-6776-46eb-a7d4-665906de86d8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.tree-options > ul > li:nth-of-type(29) > div > label</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='tree-options-box']/div[2]/ul/li[29]/div/label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>6f5ed33a-eb1f-4614-9244-11b3b3d75d67</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;tree-options-box&quot;)/div[@class=&quot;tree-options&quot;]/ul[1]/li[29]/div[1]/label[1]</value>
+      <webElementGuid>321421f4-fbe2-4fd1-ac12-7099410f839d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='tree-options-box']/div[2]/ul/li[29]/div/label</value>
+      <webElementGuid>2beac29d-671b-4bdb-99ad-95934d3eacaa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='BOOK - 圖書'])[1]/following::label[1]</value>
+      <webElementGuid>ee9e57c6-0b8c-42d5-b9d1-a4b5358efd04</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='XL - X-ray'])[1]/following::label[2]</value>
+      <webElementGuid>24cb3ced-1edf-404d-bce3-1d81dddbf990</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='AC - 錄音帶'])[1]/preceding::label[1]</value>
+      <webElementGuid>b566907d-818a-4658-8235-a17640a077db</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='APP - 附件'])[1]/preceding::label[2]</value>
+      <webElementGuid>36960217-4ff7-42dd-8e07-b54af507467e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/ul/li[29]/div/label</value>
+      <webElementGuid>0aace07d-2c1e-4d41-8b1e-738a88b95d1c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

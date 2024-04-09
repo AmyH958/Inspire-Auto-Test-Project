@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_</name>
+   <tag></tag>
+   <elementGuidId>9365fc6a-6f60-4c4e-9631-64498049c79a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#PropertySelection_0</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='PropertySelection_0']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>2c64ed42-421c-4e54-bb8e-709400f18cfd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>PropertySelection_0</value>
+      <webElementGuid>f77a2999-f076-422e-8c1f-03f8939b8fd7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>PropertySelection_0</value>
+      <webElementGuid>a07f664f-9cfb-464c-b9f9-483befc563e8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+讀者證號
+讀者姓名
+</value>
+      <webElementGuid>bca73793-fc44-4bf2-9b4c-3775b27342b1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;PropertySelection_0&quot;)</value>
+      <webElementGuid>7ecf5070-a43e-47df-a2a5-ac0c925612a6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='PropertySelection_0']</value>
+      <webElementGuid>8aa5d87f-cccf-43b4-b9e4-955b13d68bee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='searchForm']/table/tbody/tr/td[2]/select</value>
+      <webElementGuid>8ed914a2-537f-4730-94a3-684a9bacaeaf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='讀者:'])[1]/following::select[1]</value>
+      <webElementGuid>891bf3a4-a527-423b-b4f7-502f13677098</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='流通 > 交易紀錄 > 讀者個人違規記錄'])[1]/following::select[1]</value>
+      <webElementGuid>c2447d60-4e5e-417a-8ab4-96793b596995</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='開始日期'])[1]/preceding::select[1]</value>
+      <webElementGuid>4ca4ff70-d742-4d8a-b6f6-41551cccd069</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[2]/select</value>
+      <webElementGuid>1f144308-b8fc-4d6f-9070-861d8620a83b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@name = 'PropertySelection_0' and @id = 'PropertySelection_0' and (text() = '
+讀者證號
+讀者姓名
+' or . = '
+讀者證號
+讀者姓名
+')]</value>
+      <webElementGuid>131aa955-2a4f-4ce5-ba63-450a68580453</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

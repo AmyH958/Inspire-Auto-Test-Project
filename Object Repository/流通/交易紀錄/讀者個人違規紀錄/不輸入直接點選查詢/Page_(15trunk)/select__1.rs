@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select__1</name>
+   <tag></tag>
+   <elementGuidId>dfaf0d23-601c-4db2-b4c0-d3fc38974337</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#PropertySelection_1</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='PropertySelection_1']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>013b391b-7ddd-42be-9811-01b168e7d14e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>PropertySelection_1</value>
+      <webElementGuid>5945fba0-f79b-4512-a280-5619ce51f4fa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>PropertySelection_1</value>
+      <webElementGuid>15017f55-441a-4e15-a341-dcaf8a62c2f4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+
+逾期
+還原證卡
+預約費用
+遺失
+其他罰款
+移送費用
+未知費用
+自動停權轉罰款
+重發證卡
+</value>
+      <webElementGuid>9a25a4f1-7d3f-45c4-8644-ed47a8a36d7d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;PropertySelection_1&quot;)</value>
+      <webElementGuid>108cfa7e-1c59-40e4-8c51-8c7a35e2071d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='PropertySelection_1']</value>
+      <webElementGuid>7079e034-2bd7-4685-9e3a-6c69472d688b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='searchForm']/table/tbody/tr[6]/td[2]/select</value>
+      <webElementGuid>0242eade-4c04-42d4-9f5e-342399a3f837</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='罰款類型:'])[1]/following::select[1]</value>
+      <webElementGuid>1cce5454-8bc9-4060-a209-7ac131fecf52</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='違規註記:'])[1]/following::select[1]</value>
+      <webElementGuid>cd659ae0-17b4-4363-a04a-716dd5885bc5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='是否已付款:'])[1]/preceding::select[1]</value>
+      <webElementGuid>dce73d54-d476-4066-a546-37247e9d820a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[6]/td[2]/select</value>
+      <webElementGuid>34b39e8f-4241-4cb6-9b36-62e9c1c88596</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@name = 'PropertySelection_1' and @id = 'PropertySelection_1' and (text() = '
+
+逾期
+還原證卡
+預約費用
+遺失
+其他罰款
+移送費用
+未知費用
+自動停權轉罰款
+重發證卡
+' or . = '
+
+逾期
+還原證卡
+預約費用
+遺失
+其他罰款
+移送費用
+未知費用
+自動停權轉罰款
+重發證卡
+')]</value>
+      <webElementGuid>6e25be50-017b-4b54-87fb-41e967160b8d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

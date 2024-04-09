@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>005_館藏預約順位調整_清除查詢條件</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e1a81047-2f94-4ed9-8d49-8faf631c208b</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_andornot_1</name>
+   <tag></tag>
+   <elementGuidId>e1b6c6f9-6535-4ae2-9c14-3ff753da3494</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#boolean3</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='boolean3']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>70b1a093-0584-4151-a725-84d8a887ac32</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>boolean3</value>
+      <webElementGuid>bbb8408c-d806-468f-b7bb-185b90b71acc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>boolean3</value>
+      <webElementGuid>8b08f768-93e6-4e03-b233-26bd47f5b897</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+and
+or
+not
+</value>
+      <webElementGuid>c0e87d6e-10ab-41fb-a22b-4ac59a057bec</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;boolean3&quot;)</value>
+      <webElementGuid>d0fb2a85-b479-433e-b8e0-25cd9588bf50</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='boolean3']</value>
+      <webElementGuid>1ce24204-27cc-4059-99c4-4943d177424e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//p[@id='If_13']/select</value>
+      <webElementGuid>16cdaa4c-57ab-444a-8690-cbff2e83b051</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='李世揚'])[1]/following::select[4]</value>
+      <webElementGuid>f9e5f8ed-03e6-4544-b647-7d61a9135f57</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='李世傑'])[1]/following::select[4]</value>
+      <webElementGuid>c88abaf3-6dad-4eaf-803f-efdec97ec3a3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='限制條件'])[1]/preceding::select[6]</value>
+      <webElementGuid>bbf028d9-7189-4441-ae8a-4ba7a0f37ea5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='限制條件'])[2]/preceding::select[6]</value>
+      <webElementGuid>661872bf-70ac-4649-a95f-0f0f67f14ce4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p[5]/select</value>
+      <webElementGuid>44dafdf1-a0b5-4e12-8c16-a30830750568</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@name = 'boolean3' and @id = 'boolean3' and (text() = '
+and
+or
+not
+' or . = '
+and
+or
+not
+')]</value>
+      <webElementGuid>bbd6593a-8687-43ad-af09-d12a9e29bc47</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

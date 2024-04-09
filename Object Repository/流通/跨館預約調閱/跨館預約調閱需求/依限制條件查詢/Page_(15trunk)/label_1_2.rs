@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_1_2</name>
+   <tag></tag>
+   <elementGuidId>7b0d49ec-55a5-4c4d-a435-498f665966d5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='tree-options-box']/div[3]/ul/li[2]/div/label</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.tree-options > ul > li:nth-of-type(2) > div > label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>718dff91-08b7-4ed9-9dda-8e8f78ea5ca8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;tree-options-box&quot;)/div[@class=&quot;tree-options&quot;]/ul[1]/li[2]/div[1]/label[1]</value>
+      <webElementGuid>9712d227-7f4d-4a57-9092-eeed1bfac531</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='tree-options-box']/div[3]/ul/li[2]/div/label</value>
+      <webElementGuid>b5638cbd-4948-434f-b296-770b8e8c504d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='B電子資源'])[1]/following::label[1]</value>
+      <webElementGuid>7722a6eb-ca74-450f-b576-5dd180b2f7b3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='B可借圖書'])[1]/following::label[2]</value>
+      <webElementGuid>7139183c-46ec-49d6-9d8c-8f12b74c401c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='eee'])[1]/preceding::label[1]</value>
+      <webElementGuid>1a183365-3b63-44cd-bff4-d3001c04c12c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='M可借行動設備'])[1]/preceding::label[2]</value>
+      <webElementGuid>bc83d717-5ccc-4468-87f6-ccd54c64b2c1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/ul/li[2]/div/label</value>
+      <webElementGuid>13b11c1b-f761-499d-b3f8-91555e9c36f1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

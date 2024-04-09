@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_15 , 2024</name>
+   <tag></tag>
+   <elementGuidId>2dbea8e4-f751-4664-975a-06758ab9c479</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[6]/div[3]/table/tbody/tr/td/button</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>id(&quot;Body&quot;)/div[@class=&quot;calendar&quot;]/div[@class=&quot;calendarFooter&quot;]/table[@class=&quot;footerTable&quot;]/tbody[1]/tr[1]/td[1]/button[1][count(. | //button[(text() = '15 三月, 2024' or . = '15 三月, 2024')]) = count(//button[(text() = '15 三月, 2024' or . = '15 三月, 2024')])]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>aa92e156-0898-4298-b6ea-de4916c726ab</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>15 三月, 2024</value>
+      <webElementGuid>1bba9643-86e5-4798-ab78-13b08cb9fdfc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;Body&quot;)/div[@class=&quot;calendar&quot;]/div[@class=&quot;calendarFooter&quot;]/table[@class=&quot;footerTable&quot;]/tbody[1]/tr[1]/td[1]/button[1]</value>
+      <webElementGuid>8ff19705-e85e-44b6-baf9-481972711d13</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//body[@id='Body']/div[6]/div[3]/table/tbody/tr/td/button</value>
+      <webElementGuid>20cb4dae-34b0-4473-a0d3-c0eee490d6a2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='星期六'])[2]/following::button[1]</value>
+      <webElementGuid>931f1f50-d2b9-4921-a842-cbb7a333a3fe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='星期五'])[2]/following::button[1]</value>
+      <webElementGuid>e545e9ea-89b6-4582-ba1c-4ec14930c7af</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Clear'])[2]/preceding::button[1]</value>
+      <webElementGuid>7258eb92-c4ee-4756-96b8-7c668b77355e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/div[3]/table/tbody/tr/td/button</value>
+      <webElementGuid>b4e0bd09-6013-47c2-b05d-3561232e220e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = '15 三月, 2024' or . = '15 三月, 2024')]</value>
+      <webElementGuid>bfe09d4f-556d-4fb4-ad16-77fc3c6387b7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td__1_2</name>
+   <tag></tag>
+   <elementGuidId>9778abf4-2f2d-4df6-bc94-13a2c5405f90</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='exportDialog_content']/table/tbody/tr[3]/td</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#exportDialog_content > table > tbody > tr:nth-of-type(3) > td</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>a6c1386e-0fb7-4fb4-b7e9-e81dd4723abd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>館藏</value>
+      <webElementGuid>ed9e7c69-4c01-481e-8b02-8c0b86f6be3f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;exportDialog_content&quot;)/table[1]/tbody[1]/tr[3]/td[1]</value>
+      <webElementGuid>94470660-a9fa-4185-95b2-e8b1df69358b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='exportDialog_content']/table/tbody/tr[3]/td</value>
+      <webElementGuid>30ac3b31-edf3-402d-befa-b47057970738</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='譯碼'])[1]/following::td[2]</value>
+      <webElementGuid>9194149e-1e5e-4f8a-93e5-696e08771846</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='格式'])[1]/following::td[4]</value>
+      <webElementGuid>ca3a523b-0dad-4943-b12b-59f4d45bf393</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='限制條件'])[1]/preceding::td[2]</value>
+      <webElementGuid>8ca779e8-b7a0-44a8-9191-0639de63120f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='館藏地'])[2]/preceding::td[4]</value>
+      <webElementGuid>8007b842-bbfb-4a97-b0df-357c09bb658d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='館藏']/parent::*</value>
+      <webElementGuid>919e42de-1854-49f0-9e85-9c7acc04f74d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td/div/table/tbody/tr[3]/td</value>
+      <webElementGuid>1467e546-7ae4-46e9-a47c-d0971252b1ae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = '館藏' or . = '館藏')]</value>
+      <webElementGuid>cee4fce2-e626-450b-a60f-bdc63fabc20c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

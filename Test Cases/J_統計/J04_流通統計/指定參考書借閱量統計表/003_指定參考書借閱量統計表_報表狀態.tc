@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>003_指定參考書借閱量統計表_報表狀態</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c0b5e3f8-69e5-4f0b-8542-1ca74ca6ff03</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_1_2_3</name>
+   <tag></tag>
+   <elementGuidId>a79b633a-bed5-43fd-ba77-4486a3bfaec1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='tree-options-box']/div[3]/ul/li[9]/div/label</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.tree-options > ul > li:nth-of-type(9) > div > label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>7107181b-f7eb-4c04-ac25-5daed40f2bdb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;tree-options-box&quot;)/div[@class=&quot;tree-options&quot;]/ul[1]/li[9]/div[1]/label[1]</value>
+      <webElementGuid>289a753f-b7d4-4d55-b477-b51cf6fff3fd</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='tree-options-box']/div[3]/ul/li[9]/div/label</value>
+      <webElementGuid>e1e7f938-1dff-4047-84f7-ecf7d2aea0fc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='書箱借閱30天'])[1]/following::label[1]</value>
+      <webElementGuid>823bf71b-cd21-45ad-9348-574c94a4f085</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='不流通'])[1]/following::label[2]</value>
+      <webElementGuid>6e501dc2-04c4-40b7-8dd5-9e6bcf24a17a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/ul/li[9]/div/label</value>
+      <webElementGuid>cd0111cc-11d8-43c6-8e36-5a46133b8e8c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

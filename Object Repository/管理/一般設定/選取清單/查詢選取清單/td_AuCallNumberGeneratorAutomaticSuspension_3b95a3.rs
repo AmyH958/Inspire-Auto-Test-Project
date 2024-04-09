@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_AuCallNumberGeneratorAutomaticSuspension_3b95a3</name>
+   <tag></tag>
+   <elementGuidId>9e62e1a8-4b00-46eb-8b1d-4e6338d26125</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>td</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[(text() = '代碼檔選項:' or . = '代碼檔選項:')]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='pickListNav']/div[2]/div/table/tbody/tr/td</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>b6bf2c01-af09-4a62-9723-4a8de9a1ad74</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+				代碼檔選項: 
+					
+AuCallNumberGenerator
+AutomaticSuspensionOfSubitems
+BindingColor
+BindingFont
+BindingSize
+BindingType
+BookLabelsFontOption
+CancelOFFromPOReason
+CancelReservReason
+CardStatus
+CheckinStatus
+ClassificationName
+CostCenterSubject
+Course
+ExpenseTypes
+IndexStrategy
+InventoryClass
+ItemCollection
+ItemCurrentStatus
+ItemsFilter
+LANGUAGE
+Language
+MaterialDesignation
+OUType
+Occupation
+OrderStatus
+PaymentCashTypes
+PublicationStatus
+RDA Carrier type
+RDA Content type
+RDA Media type
+Rating
+ReaderStatus
+Recommend_Status
+RejectApproveMess
+RejectPrereqMess
+RejectReasons
+SDI_NOTICE_FREQUENCY
+SMPLocationsSetupCategory1
+SMPLocationsSetupCategory2
+SMPLocationsSetupCategory3
+SchoolTerm
+SchoolYear
+SlaveCardType
+SourceOfSolicitation
+StopOrderMess
+SubjectSystemCodes
+SuspendRightsType
+ser_status
+
+			</value>
+      <webElementGuid>9182f86c-8104-474e-b384-b806ae4d18aa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;pickListNav&quot;)/div[@class=&quot;right_box l&quot;]/div[@class=&quot;search1 l&quot;]/table[@class=&quot;table9&quot;]/tbody[1]/tr[1]/td[1]</value>
+      <webElementGuid>95e46939-0a72-451a-8661-f1bfcb9d20b7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='pickListNav']/div[2]/div/table/tbody/tr/td</value>
+      <webElementGuid>e3097a47-2a35-4e28-a4a4-d1357f9fa6ff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='管理 > 一般設定 > 選取清單'])[1]/following::td[1]</value>
+      <webElementGuid>9da25781-46b2-4d58-ab61-d6e739bde244</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='電子資源狀況報表'])[1]/following::td[1]</value>
+      <webElementGuid>9618e567-9e1f-425f-8d74-f75be2b11385</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='代碼'])[1]/preceding::td[1]</value>
+      <webElementGuid>a73225ac-f6c3-484b-9a89-ce126a4f457c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='值'])[1]/preceding::td[2]</value>
+      <webElementGuid>c7e52e19-ca01-417e-b47f-1be088f7b4ff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='代碼檔選項:']/parent::*</value>
+      <webElementGuid>ad0c27c0-6275-4408-8ea1-9b029a1787c6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td</value>
+      <webElementGuid>f880884d-60cb-4d84-a27f-ab59641e819d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = '
+				代碼檔選項: 
+					
+AuCallNumberGenerator
+AutomaticSuspensionOfSubitems
+BindingColor
+BindingFont
+BindingSize
+BindingType
+BookLabelsFontOption
+CancelOFFromPOReason
+CancelReservReason
+CardStatus
+CheckinStatus
+ClassificationName
+CostCenterSubject
+Course
+ExpenseTypes
+IndexStrategy
+InventoryClass
+ItemCollection
+ItemCurrentStatus
+ItemsFilter
+LANGUAGE
+Language
+MaterialDesignation
+OUType
+Occupation
+OrderStatus
+PaymentCashTypes
+PublicationStatus
+RDA Carrier type
+RDA Content type
+RDA Media type
+Rating
+ReaderStatus
+Recommend_Status
+RejectApproveMess
+RejectPrereqMess
+RejectReasons
+SDI_NOTICE_FREQUENCY
+SMPLocationsSetupCategory1
+SMPLocationsSetupCategory2
+SMPLocationsSetupCategory3
+SchoolTerm
+SchoolYear
+SlaveCardType
+SourceOfSolicitation
+StopOrderMess
+SubjectSystemCodes
+SuspendRightsType
+ser_status
+
+			' or . = '
+				代碼檔選項: 
+					
+AuCallNumberGenerator
+AutomaticSuspensionOfSubitems
+BindingColor
+BindingFont
+BindingSize
+BindingType
+BookLabelsFontOption
+CancelOFFromPOReason
+CancelReservReason
+CardStatus
+CheckinStatus
+ClassificationName
+CostCenterSubject
+Course
+ExpenseTypes
+IndexStrategy
+InventoryClass
+ItemCollection
+ItemCurrentStatus
+ItemsFilter
+LANGUAGE
+Language
+MaterialDesignation
+OUType
+Occupation
+OrderStatus
+PaymentCashTypes
+PublicationStatus
+RDA Carrier type
+RDA Content type
+RDA Media type
+Rating
+ReaderStatus
+Recommend_Status
+RejectApproveMess
+RejectPrereqMess
+RejectReasons
+SDI_NOTICE_FREQUENCY
+SMPLocationsSetupCategory1
+SMPLocationsSetupCategory2
+SMPLocationsSetupCategory3
+SchoolTerm
+SchoolYear
+SlaveCardType
+SourceOfSolicitation
+StopOrderMess
+SubjectSystemCodes
+SuspendRightsType
+ser_status
+
+			')]</value>
+      <webElementGuid>f4b8f127-7799-4134-8cfc-a621311fd092</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

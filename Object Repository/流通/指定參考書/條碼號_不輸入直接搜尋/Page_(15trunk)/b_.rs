@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>b_</name>
+   <tag></tag>
+   <elementGuidId>caabc1d3-5d92-479b-b9b7-b24861d634af</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a:nth-of-type(2) > font > b</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//body[@id='Body']/div/div/div[2]/div[3]/div/a[2]/font/b</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>b</value>
+      <webElementGuid>b65b5f2b-c9e9-4dd9-b21d-39d46251ffc4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>  條碼號輸入模式 
+					    	  </value>
+      <webElementGuid>40d70c3f-36fa-419c-8b55-5ac78534ed6e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;Body&quot;)/div[@class=&quot;wrap&quot;]/div[@class=&quot;main l&quot;]/div[@class=&quot;main_right l&quot;]/div[@class=&quot;right_box l&quot;]/div[1]/a[2]/font[1]/b[1]</value>
+      <webElementGuid>45708704-831d-42d0-8b71-87843c8ba6d8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//body[@id='Body']/div/div/div[2]/div[3]/div/a[2]/font/b</value>
+      <webElementGuid>70932a2c-fa38-4b2b-a261-357cd067d16e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='查詢'])[2]/following::b[1]</value>
+      <webElementGuid>65fcf911-b24a-4906-ba7f-a14498edff78</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='流通 > 指定參考書'])[1]/following::b[2]</value>
+      <webElementGuid>ad84d11e-b1f2-40c2-a05b-d8bb4e9dece8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='下載Excel'])[1]/preceding::b[1]</value>
+      <webElementGuid>1447413b-d8c6-4f6a-a388-e160633100c9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='條碼號輸入模式']/parent::*</value>
+      <webElementGuid>fc256bc0-ffb7-4e56-942c-7c0a6f0a1700</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[2]/font/b</value>
+      <webElementGuid>d2cdf785-1f1b-4622-83b3-4fb7c646c03b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//b[(text() = '  條碼號輸入模式 
+					    	  ' or . = '  條碼號輸入模式 
+					    	  ')]</value>
+      <webElementGuid>880de105-791e-4438-bd7b-02891d5794ef</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

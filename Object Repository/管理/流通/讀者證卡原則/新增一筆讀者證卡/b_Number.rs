@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>b_Number</name>
+   <tag></tag>
+   <elementGuidId>39969660-bbaa-4112-b85d-581e1c6ce886</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='For_4']/label/b</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#For_4 > label > b</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>b</value>
+      <webElementGuid>02f62c3b-8b13-459b-954a-f68ffef1be39</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>[Number]</value>
+      <webElementGuid>c7fb125d-ad17-4bcd-b38a-62862c31ffce</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;For_4&quot;)/label[1]/b[1]</value>
+      <webElementGuid>5df9675e-f15d-4352-b2d4-db20a13de48a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='For_4']/label/b</value>
+      <webElementGuid>69d9e13c-5584-4eb3-8396-d12b3d40fb7b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='[Sufix]'])[1]/following::b[1]</value>
+      <webElementGuid>33576b33-9850-4119-8646-05133398f277</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='[Prefix]'])[1]/following::b[2]</value>
+      <webElementGuid>95464c43-810c-421e-8274-0ac7eb662438</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='[Location]'])[1]/preceding::b[1]</value>
+      <webElementGuid>206f74bb-27bd-42dc-8649-7003014498ec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='[Patron class]'])[1]/preceding::b[2]</value>
+      <webElementGuid>d4850cae-25d3-4bb6-982c-0c29ed991f26</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='[Number]']/parent::*</value>
+      <webElementGuid>f338fba3-4be4-40e2-a69b-874c02398456</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[3]/label/b</value>
+      <webElementGuid>194b05f7-0cab-4405-be6e-007502be0684</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//b[(text() = '[Number]' or . = '[Number]')]</value>
+      <webElementGuid>6f828c02-cbdc-48fb-9666-2257972f6fb7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

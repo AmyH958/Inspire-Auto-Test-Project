@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>b_</name>
+   <tag></tag>
+   <elementGuidId>83bfa630-fc69-44be-bb30-a58646a4a304</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='RadioGroup']/tbody/tr[2]/td/div/table/tbody/tr/td[2]/b</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>td:nth-of-type(2) > b</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>b</value>
+      <webElementGuid>f2d5fa11-66c6-40f9-9710-462c2f1baac0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>神通測試帳號</value>
+      <webElementGuid>877869f6-9e5a-4cce-b4f1-bab1fcc028a2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;RadioGroup&quot;)/tbody[1]/tr[2]/td[1]/div[1]/table[1]/tbody[1]/tr[1]/td[2]/b[1]</value>
+      <webElementGuid>b9f32c1c-eae6-470c-9765-c9fd605fb5be</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='RadioGroup']/tbody/tr[2]/td/div/table/tbody/tr/td[2]/b</value>
+      <webElementGuid>106fdcea-cfa6-4409-b15e-45048ee94af9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='所屬圖書館'])[1]/following::b[1]</value>
+      <webElementGuid>3fdc5d04-c49d-4af9-a331-5ffd2b096c47</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='單位系所'])[1]/following::b[1]</value>
+      <webElementGuid>572e1c1b-ce6d-49c5-bb1b-0639e006dcc9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='A123456789'])[1]/preceding::b[1]</value>
+      <webElementGuid>87f76ea2-ee4f-443d-8d78-2e2d8554ecf5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='神資圖書館'])[1]/preceding::b[2]</value>
+      <webElementGuid>3795a228-e632-4d74-bdad-e65158096b95</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='神通測試帳號']/parent::*</value>
+      <webElementGuid>79277356-0cf2-49c1-baec-58e9ffd4c808</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[2]/b</value>
+      <webElementGuid>196db822-29d5-4b84-a89a-467d0b955c4d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//b[(text() = '神通測試帳號' or . = '神通測試帳號')]</value>
+      <webElementGuid>bba02e83-9ada-49f9-bf46-3af53ae8b089</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

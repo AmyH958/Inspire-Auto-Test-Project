@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_</name>
+   <tag></tag>
+   <elementGuidId>755a6a05-edff-4e61-81f7-9e5e525abd6f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='PropertySelection_0']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#PropertySelection_0</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>359484da-c0dd-49c1-a453-5a4cda7e5cf9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>PropertySelection_0</value>
+      <webElementGuid>a38ba1e7-49df-458b-813c-f8a9a12234c0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>PropertySelection_0</value>
+      <webElementGuid>c1d1067a-8bad-454e-86eb-cf4022976133</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+
+已核准
+待審核
+審核未過
+過期未審核
+</value>
+      <webElementGuid>cd5f016c-3dee-412d-953e-750cbc201563</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;PropertySelection_0&quot;)</value>
+      <webElementGuid>5bf12804-a728-4567-af44-50419957cb6e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='PropertySelection_0']</value>
+      <webElementGuid>e1d19be1-98c8-45bc-9bad-de572b7780b2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//tr[@id='For_1_0']/td[2]/select</value>
+      <webElementGuid>57100f11-a102-4565-baea-23f2616ac2d1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='審核狀態:'])[1]/following::select[1]</value>
+      <webElementGuid>e11777d1-7821-413f-8ed1-2f820097bc0b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='限制條件'])[2]/following::select[1]</value>
+      <webElementGuid>16e6106d-a311-460e-881b-79ddaa5551fc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='館藏地:'])[1]/preceding::select[1]</value>
+      <webElementGuid>9371fdf6-158f-4ed9-aef9-ac00ebeefc47</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='排序條件 :'])[1]/preceding::select[1]</value>
+      <webElementGuid>0e3a6a4b-9305-4b97-8cde-b0ca284a5ac5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[2]/td[2]/select</value>
+      <webElementGuid>ace0f8ea-ef52-43ed-8368-571a8d293e98</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@name = 'PropertySelection_0' and @id = 'PropertySelection_0' and (text() = '
+
+已核准
+待審核
+審核未過
+過期未審核
+' or . = '
+
+已核准
+待審核
+審核未過
+過期未審核
+')]</value>
+      <webElementGuid>d9f60f00-8fd9-473c-87e8-17e271ccfab9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

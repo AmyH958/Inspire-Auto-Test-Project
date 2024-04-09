@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>002_題名預約順位調整_檢視清單_UI介面顯示正確</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>8ea9acee-9457-4503-9b02-50cfe0daa7ce</testCaseGuid>
+</TestCaseEntity>

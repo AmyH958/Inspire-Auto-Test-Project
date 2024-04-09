@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td__1</name>
+   <tag></tag>
+   <elementGuidId>ab132aa4-6c90-4440-ae79-f3b38e9bddd2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#For_3 > td:nth-of-type(6)</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//tr[@id='For_3']/td[6]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>80b29c02-eeb7-4341-9120-3fb0cc81ca8b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+		  		貨幣銀行學（二）
+			</value>
+      <webElementGuid>5d99093a-e0c9-429f-972e-a96ad38dca8e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;For_3&quot;)/td[6]</value>
+      <webElementGuid>1eecc9d7-dda9-41f7-9c7d-a6c12ef1f6b5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//tr[@id='For_3']/td[6]</value>
+      <webElementGuid>c208ea7f-a154-492a-9017-0dce287a9df9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='神資圖書館'])[2]/following::td[1]</value>
+      <webElementGuid>5bb183a5-d554-49e9-a132-de77abbec0c5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='鍾承哲'])[1]/following::td[2]</value>
+      <webElementGuid>6a87d5b6-7b18-490f-8de5-ec6971b35101</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='致勝領導 :鮑爾的人生體悟 /'])[1]/preceding::td[2]</value>
+      <webElementGuid>2c1951b8-672c-4614-a99a-9dfe9c268917</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='柯林.鮑爾a(Colin Poewell), 東尼.寇茲(Tony Koltz)編著 ; 黃國賢翻譯 ; 國防部譯印'])[1]/preceding::td[3]</value>
+      <webElementGuid>4328ceac-6a3f-4616-9a26-dd55055a410f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='貨幣銀行學（二）']/parent::*</value>
+      <webElementGuid>8b50d961-9982-4695-846c-fc1ca7ca8dc8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[2]/td[6]</value>
+      <webElementGuid>3b1aaf49-3313-475e-ae73-9278a079e9d2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = '
+		  		貨幣銀行學（二）
+			' or . = '
+		  		貨幣銀行學（二）
+			')]</value>
+      <webElementGuid>1c682d9f-2b6c-4d97-b25c-32e79afc5f85</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

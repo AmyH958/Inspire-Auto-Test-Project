@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>b_Inventory class</name>
+   <tag></tag>
+   <elementGuidId>29bb2942-79f5-4cbb-b0a9-19a7de064347</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//td[@id='For_34']/b</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#For_34 > b</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>b</value>
+      <webElementGuid>30b44b95-d505-435d-aee5-b56baa0d8df0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>[Inventory class]</value>
+      <webElementGuid>d622ae35-6bfb-4730-baa8-5982c4238dde</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;For_34&quot;)/b[1]</value>
+      <webElementGuid>2b337cc4-baf0-41f5-b06f-2db007f12856</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//td[@id='For_34']/b</value>
+      <webElementGuid>1154f94b-5057-492c-a0c0-4b535f71c796</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='[Location]'])[1]/following::b[1]</value>
+      <webElementGuid>19baf963-7335-45eb-baeb-70c37519c6c5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='[Number]'])[3]/following::b[2]</value>
+      <webElementGuid>aedc5ff9-f3d4-427c-9541-2e6fc993e405</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='(拖曳部份)'])[1]/preceding::b[1]</value>
+      <webElementGuid>f5860a43-5b20-4541-aa1c-57de9e0b13b9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='[Inventory class]']/parent::*</value>
+      <webElementGuid>87b0f182-ceb1-402f-ac2d-b9860a2775bb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[5]/b</value>
+      <webElementGuid>244a056e-874e-4236-bef2-aebc1bc45c2b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//b[(text() = '[Inventory class]' or . = '[Inventory class]')]</value>
+      <webElementGuid>1e1e5215-fdf5-44ae-98fe-9dddebc1949e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

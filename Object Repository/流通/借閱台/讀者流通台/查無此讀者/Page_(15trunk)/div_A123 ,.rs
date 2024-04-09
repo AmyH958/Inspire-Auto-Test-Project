@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_A123 ,</name>
+   <tag></tag>
+   <elementGuidId>4148f4f8-4de2-4d75-9bf9-19f79956451a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='content-button']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#content-button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>60fcfd77-e713-4787-8bd3-1735cde76ed6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>content-button</value>
+      <webElementGuid>f534e086-fa78-4da9-a4a5-0359c7b5f13f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>align</name>
+      <type>Main</type>
+      <value>center</value>
+      <webElementGuid>7fb78069-3884-4168-8319-48e85dc164fe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+	        	讀者 A123 不存在,請重新輸入正確讀者資訊
+	        </value>
+      <webElementGuid>685e7dc6-e008-478f-ae43-5605cb808061</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;content-button&quot;)</value>
+      <webElementGuid>0ad99b3f-350e-42b0-acbf-72850cfcb173</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='content-button']</value>
+      <webElementGuid>6b1fc5c9-39d2-42e8-89ee-3c2f4b2b4e62</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='TinreadMessageDialog_content']/div</value>
+      <webElementGuid>f7b62f6f-e006-4c64-b481-4c28473ff24d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='警告'])[1]/following::div[2]</value>
+      <webElementGuid>eb6454e6-8187-4240-829c-0748a5198169</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='確定'])[1]/preceding::div[1]</value>
+      <webElementGuid>3a9a1f92-d139-4930-ae86-2cfbd6330847</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Copyright© 2016 iNspire 4.4.0-SNAPSHOT by Claridy Solutions, Inc. All rights reserved.'])[1]/preceding::div[3]</value>
+      <webElementGuid>92c6f17c-77d1-47c2-b0da-4bf856c3be39</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/table/tbody/tr[2]/td/div/div</value>
+      <webElementGuid>73b9b403-44cf-4a2f-bce6-71a6b9c54bb3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'content-button' and (text() = '
+	        	讀者 A123 不存在,請重新輸入正確讀者資訊
+	        ' or . = '
+	        	讀者 A123 不存在,請重新輸入正確讀者資訊
+	        ')]</value>
+      <webElementGuid>e1cf1a6f-3bd7-4b7a-8af0-a0e246960979</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

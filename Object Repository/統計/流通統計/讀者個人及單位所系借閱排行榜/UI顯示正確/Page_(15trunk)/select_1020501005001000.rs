@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_1020501005001000</name>
+   <tag></tag>
+   <elementGuidId>3ab6f93a-c08f-4c74-93fe-9e52ccdc7b23</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#perpage</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='perpage']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>30b1daad-46a1-4e86-9119-776ad1672e1a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>perpage</value>
+      <webElementGuid>a8a4a5f0-ce75-4e0c-a151-0501458980ce</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>perpage</value>
+      <webElementGuid>be4c85ee-5e3c-477d-a48a-ef888acd7c52</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>num l</value>
+      <webElementGuid>72e6d588-4519-4d64-95d7-38ee24b68298</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onchange</name>
+      <type>Main</type>
+      <value>Tapestry.submit_form('searchForm', 'selectPageDisplay')</value>
+      <webElementGuid>6fa86997-feae-456a-b836-6b6cb7446cf0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+10
+20
+50
+100
+500
+1000
+</value>
+      <webElementGuid>d2ceab53-2d49-4ab9-929e-96c06090b241</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;perpage&quot;)</value>
+      <webElementGuid>66519b89-1d38-4ad0-a451-a9448f0358af</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='perpage']</value>
+      <webElementGuid>6faaa418-c090-4d25-87e9-f20f48c12723</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='results']/div/select</value>
+      <webElementGuid>08a7ece8-af59-4e0d-9d97-f8ab7750b405</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='序號'])[1]/preceding::select[1]</value>
+      <webElementGuid>1d1e9d8f-e065-4da3-ba1f-b4f1cdf43b4a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='讀者證號'])[1]/preceding::select[1]</value>
+      <webElementGuid>eff2198b-1a59-4924-b1d1-0ff94e67838f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/select</value>
+      <webElementGuid>1048ee2f-8509-40bd-bfd9-d9791bf1d66a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@name = 'perpage' and @id = 'perpage' and (text() = '
+10
+20
+50
+100
+500
+1000
+' or . = '
+10
+20
+50
+100
+500
+1000
+')]</value>
+      <webElementGuid>00d2b936-1d59-428e-983f-e42eef37bbbc</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

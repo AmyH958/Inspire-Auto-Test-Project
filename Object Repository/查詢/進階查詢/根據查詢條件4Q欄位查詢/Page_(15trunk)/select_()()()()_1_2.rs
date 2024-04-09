@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_()()()()_1_2</name>
+   <tag></tag>
+   <elementGuidId>7b394c9d-e5ef-49c4-8d93-c9e9f48a9409</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#comparator4</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='comparator4']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>c9aa077e-cba8-4087-88ee-82b34aa752d8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>comparator4</value>
+      <webElementGuid>b10e079d-ae42-4499-a2c6-767b4fda9097</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>comparator4</value>
+      <webElementGuid>29e98e91-df90-46b3-b511-53e129ccd6e1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+起始以
+包含
+等於(=)
+大於(>=)
+小於(&lt;=)
+不等於(≠)
+</value>
+      <webElementGuid>487464cc-6fb9-4c06-aecb-74ab6dfae4e2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;comparator4&quot;)</value>
+      <webElementGuid>9bf623a8-2894-4ff3-a0b3-f71ab98e701c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='comparator4']</value>
+      <webElementGuid>2b0bfb21-1fbe-4921-94ac-1c2cc99b46f1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//span[@id='comparatorField4']/select</value>
+      <webElementGuid>7dddafa7-44eb-47d3-90e3-9baf10ed30c7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p[7]/span/select</value>
+      <webElementGuid>48b27df6-e795-4d64-a890-1821d9929ace</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@name = 'comparator4' and @id = 'comparator4' and (text() = '
+起始以
+包含
+等於(=)
+大於(>=)
+小於(&lt;=)
+不等於(≠)
+' or . = '
+起始以
+包含
+等於(=)
+大於(>=)
+小於(&lt;=)
+不等於(≠)
+')]</value>
+      <webElementGuid>5d09bfac-384b-43e0-9805-cc3527857deb</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

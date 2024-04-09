@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>b__1_2_3</name>
+   <tag></tag>
+   <elementGuidId>d7289284-f006-48aa-a763-34cde24db571</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='viewPatronDetails_1']/table/tbody/tr/td/b</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>td.table4_left > b</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>b</value>
+      <webElementGuid>91eb70a0-1870-46f0-9d26-501b8ef36651</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>姓名:</value>
+      <webElementGuid>53182161-6c56-4750-b6c3-a7206020a22d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;viewPatronDetails_1&quot;)/table[@class=&quot;table4 table4_info&quot;]/tbody[1]/tr[1]/td[@class=&quot;table4_left&quot;]/b[1]</value>
+      <webElementGuid>c0fcf642-7702-4f53-940b-7c30e10485c4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='viewPatronDetails_1']/table/tbody/tr/td/b</value>
+      <webElementGuid>ab7914e9-4c22-4f3d-a580-db3967b5429b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='/inspireapp/'])[1]/following::b[1]</value>
+      <webElementGuid>fceb0048-f169-4ee8-88e1-f937a195f49c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='選擇'])[1]/following::b[1]</value>
+      <webElementGuid>2a568c73-65ed-4439-b36a-07546059a0c8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='神通測試帳號'])[1]/preceding::b[1]</value>
+      <webElementGuid>932a9ff8-55d5-48c6-967b-a68209d9969c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='代借姓名:'])[1]/preceding::b[1]</value>
+      <webElementGuid>5e406913-576e-49cb-a2f9-a7a337baf554</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='姓名:']/parent::*</value>
+      <webElementGuid>01dd7088-df90-4bca-937c-fdd244c3dee2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[2]/form/table/tbody/tr/td/b</value>
+      <webElementGuid>52b60087-ae86-4911-97a9-cb9e71a98172</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//b[(text() = '姓名:' or . = '姓名:')]</value>
+      <webElementGuid>38eb2e19-ce58-4724-8857-98ac5c15e3d9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

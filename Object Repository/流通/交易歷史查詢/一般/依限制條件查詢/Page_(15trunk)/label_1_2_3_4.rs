@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_1_2_3_4</name>
+   <tag></tag>
+   <elementGuidId>032acdc2-fe77-41a7-b730-e9972cb2b486</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.tree-options > ul > li:nth-of-type(15) > div > label</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='tree-options-box']/div[2]/ul/li[15]/div/label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>a6801ba3-d116-4a46-9a85-c44b1c2a5a1f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;tree-options-box&quot;)/div[@class=&quot;tree-options&quot;]/ul[1]/li[15]/div[1]/label[1]</value>
+      <webElementGuid>ac238186-cd20-48d6-a610-55e354297c2c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='tree-options-box']/div[2]/ul/li[15]/div/label</value>
+      <webElementGuid>e6f26d9d-bf97-466a-94ea-a4003b10cedf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='MP - MP3'])[1]/following::label[1]</value>
+      <webElementGuid>71804103-f99e-48b2-952a-80510e5e2e9e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='LD - 影碟'])[1]/following::label[2]</value>
+      <webElementGuid>0c8868e3-226f-43e0-9888-a3eae6cc47da</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='NH - 微縮單片'])[1]/preceding::label[1]</value>
+      <webElementGuid>7a64c648-6b8a-41a1-8e47-aaf4993ac2ec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='NR - 微縮捲片'])[1]/preceding::label[2]</value>
+      <webElementGuid>d0acc61f-1a4c-4d9b-8f8a-acf17ef9e2e1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/ul/li[15]/div/label</value>
+      <webElementGuid>39e4fc18-fe87-4cc4-8f3b-b26bc3e98c5a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

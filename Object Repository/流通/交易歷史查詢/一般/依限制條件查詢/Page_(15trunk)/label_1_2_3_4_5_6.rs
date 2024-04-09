@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_1_2_3_4_5_6</name>
+   <tag></tag>
+   <elementGuidId>cb301b06-d8b0-4ae3-a6da-6c87a8ec12fe</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.tree-options > ul > li:nth-of-type(26) > div > label</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='tree-options-box']/div[2]/ul/li[26]/div/label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>d301d289-6584-424a-885e-08ef0941126d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;tree-options-box&quot;)/div[@class=&quot;tree-options&quot;]/ul[1]/li[26]/div[1]/label[1]</value>
+      <webElementGuid>2fd247ca-fcfa-4f46-a883-77551f818353</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='tree-options-box']/div[2]/ul/li[26]/div/label</value>
+      <webElementGuid>e82851a2-3561-4e59-87a9-6694bf2f69db</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ERM_EB - 電子書(ERM)'])[1]/following::label[1]</value>
+      <webElementGuid>114cc672-6b0d-4a46-ab4f-8019ad9edb23</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ERM_WS - 網路資源(ERM)'])[1]/following::label[2]</value>
+      <webElementGuid>d22f9e7d-c474-476e-8d08-c9c3128a6b94</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ERM_EJ - 電子期刊(ERM)'])[1]/preceding::label[1]</value>
+      <webElementGuid>3ab37fe8-f8a7-454f-a4fd-3207e385c037</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='XL - X-ray'])[1]/preceding::label[2]</value>
+      <webElementGuid>0a93563f-bac9-4220-83b3-deb18157715b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/ul/li[26]/div/label</value>
+      <webElementGuid>2f38d093-2e13-43dd-a8cb-cf20424ae8cb</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

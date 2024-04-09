@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td__1_2</name>
+   <tag></tag>
+   <elementGuidId>dff5e163-03c6-4fa0-bc80-58146c3cf0ed</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='PerformDiscardForm']/table[2]/tbody/tr[2]/td</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>table:nth-of-type(2) > tbody > tr:nth-of-type(2) > td</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>0015916e-0989-40bf-9d9b-07e84f34bf52</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>align</name>
+      <type>Main</type>
+      <value>right</value>
+      <webElementGuid>70f856b6-78e6-4b6b-9578-df732c282502</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>作廢日期: </value>
+      <webElementGuid>33b2bb32-11a8-471a-95c5-078f23d0b1ff</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;PerformDiscardForm&quot;)/table[2]/tbody[1]/tr[2]/td[1]</value>
+      <webElementGuid>7016c91b-4b48-483c-aadc-bf971e03f118</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='PerformDiscardForm']/table[2]/tbody/tr[2]/td</value>
+      <webElementGuid>ba1d84d7-a965-4306-8419-2c3b22b5e4da</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='報廢文號:'])[1]/following::td[2]</value>
+      <webElementGuid>d985faf4-a580-4bb0-82bd-a904820a195f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='所有勾選筆數:'])[1]/following::td[4]</value>
+      <webElementGuid>914ab0d0-eb3a-4250-8cde-d3a92a2d70fd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='執行'])[1]/preceding::td[2]</value>
+      <webElementGuid>dd9bbe15-6182-4882-990b-5e14e910f443</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='關閉'])[1]/preceding::td[3]</value>
+      <webElementGuid>b11897f7-1d98-486c-b182-7049bf0f10f2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='作廢日期:']/parent::*</value>
+      <webElementGuid>faf165a9-7820-4f55-86cd-264ecc585c74</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//table[2]/tbody/tr[2]/td</value>
+      <webElementGuid>6693db1b-2d34-491b-89e4-75bd2eb2fe23</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = '作廢日期: ' or . = '作廢日期: ')]</value>
+      <webElementGuid>672ddf8c-7bf4-4691-8885-c2539c0bdff0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

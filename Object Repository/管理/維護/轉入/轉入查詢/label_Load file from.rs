@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_Load file from</name>
+   <tag></tag>
+   <elementGuidId>57a5827e-a025-4b0e-9898-98f040a02c8f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='headerArea_0']/div/table/tbody/tr/td/label</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>328058bf-32f7-4ab5-8fd2-268becd8e2e3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>selectFileLoadOption</value>
+      <webElementGuid>13079c6a-5a84-47f3-8254-fdccb91979a9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Load file from</value>
+      <webElementGuid>988aad61-1fb1-4431-8d7f-eb56f5dc2816</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;headerArea_0&quot;)/div[@class=&quot;right_box l&quot;]/table[@class=&quot;table1&quot;]/tbody[1]/tr[1]/td[@class=&quot;table1_left&quot;]/label[1]</value>
+      <webElementGuid>3c3034c2-2fc2-4aa6-8d74-63e1cb9ecc94</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='headerArea_0']/div/table/tbody/tr/td/label</value>
+      <webElementGuid>e7536746-5b91-4515-9001-7783fa70daee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='訂購明細'])[4]/following::label[1]</value>
+      <webElementGuid>4b5be9a0-e4e2-4660-bade-76a26c4ef358</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='供應商'])[3]/following::label[1]</value>
+      <webElementGuid>1c378f08-0784-49b0-9483-1887da306e47</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='檔案路徑:'])[1]/preceding::label[1]</value>
+      <webElementGuid>27e765fd-68bb-43ac-9216-f0bbc3113ab5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Local file path'])[1]/preceding::label[1]</value>
+      <webElementGuid>685e0269-36e2-4788-9cce-1db43d5ef1f7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Load file from']/parent::*</value>
+      <webElementGuid>5cde10d4-3b94-41b8-baa2-99e10d178bac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//label</value>
+      <webElementGuid>2fbfa34f-5ad3-4bf9-94d2-aa94360bb135</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'Load file from' or . = 'Load file from')]</value>
+      <webElementGuid>f4335f72-5708-4514-a962-58e0bc95ba84</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

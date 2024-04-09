@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>QA</name>
+   <tag></tag>
+   <defaultProfile>false</defaultProfile>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'catc'</initValue>
+      <name>admin_name</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'eh9+mX6n5G+m9qEgDyu51A=='</initValue>
+      <name>admin_passwd</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'測試範本20230522'</initValue>
+      <name>Book_title</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'http://10.11.20.15/inspireapp/logon'</initValue>
+      <name>Inspire_web</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>

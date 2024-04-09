@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>001_讀者個人違規紀錄_不輸入直接點選查詢</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>0d9641a0-90aa-46e9-8694-2dd6788a6b5d</testCaseGuid>
+</TestCaseEntity>

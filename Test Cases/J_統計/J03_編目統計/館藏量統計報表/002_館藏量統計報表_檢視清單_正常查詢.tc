@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>002_館藏量統計報表_檢視清單_正常查詢</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a4cc46e9-6189-4d55-b464-fa9ef2c2205a</testCaseGuid>
+</TestCaseEntity>

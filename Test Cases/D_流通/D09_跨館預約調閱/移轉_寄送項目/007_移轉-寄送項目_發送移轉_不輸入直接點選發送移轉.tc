@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>007_移轉-寄送項目_發送移轉_不輸入直接點選發送移轉</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>6e725e02-98d2-4232-ba42-8a6049d62e2d</testCaseGuid>
+</TestCaseEntity>

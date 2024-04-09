@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_105106107108109110</name>
+   <tag></tag>
+   <elementGuidId>f55549c0-920c-4f9d-97c5-a2ddd4586711</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#If_39 > td:nth-of-type(2)</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//tr[@id='If_39']/td[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>b0e7e3db-772f-4ffd-8dd4-89a7b91e9c2a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+
+105
+106
+107
+108
+109
+110學年
+</value>
+      <webElementGuid>3d104685-3021-434f-af76-6a5f4899fca7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;If_39&quot;)/td[2]</value>
+      <webElementGuid>5aa7b383-df9f-4f52-bda2-cb25802437a2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//tr[@id='If_39']/td[2]</value>
+      <webElementGuid>cca36c2d-1d52-424b-a928-02f1affd62a8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='學年:'])[1]/following::td[1]</value>
+      <webElementGuid>8c1d544f-4e50-4ac8-a4dd-71c92d95f7c6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='test777'])[1]/following::td[2]</value>
+      <webElementGuid>3bca14da-d32f-48a5-9a34-b383a8ea2ba2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='學期:'])[1]/preceding::td[1]</value>
+      <webElementGuid>1f8e3030-5d92-428d-8919-99ef0f920bf5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='瀏覽條件:'])[1]/preceding::td[3]</value>
+      <webElementGuid>552b300c-7417-49f2-a6b5-64bd2e9d4f83</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[4]/td[2]</value>
+      <webElementGuid>7f559f39-e93e-4560-89a8-11b1f71f491b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = '
+
+105
+106
+107
+108
+109
+110學年
+' or . = '
+
+105
+106
+107
+108
+109
+110學年
+')]</value>
+      <webElementGuid>a2d3d24a-e419-4e72-8162-e0fbf8e75c50</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

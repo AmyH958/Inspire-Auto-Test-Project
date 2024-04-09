@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>nobr_</name>
+   <tag></tag>
+   <elementGuidId>ab43ba3b-ef3d-4d80-bcb0-372683eb6bd7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>tr.search_list_t > td:nth-of-type(3) > nobr</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='If_99']/tbody/tr/td[3]/nobr</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>nobr</value>
+      <webElementGuid>a16aba96-ab9d-43b0-9f95-fbd47591ab5d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>功能</value>
+      <webElementGuid>df57f939-3e04-4563-bcb3-fe021dc736c5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;If_99&quot;)/tbody[1]/tr[@class=&quot;search_list_t&quot;]/td[3]/nobr[1]</value>
+      <webElementGuid>49dc8868-415f-4c90-b78b-271e06697544</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='If_99']/tbody/tr/td[3]/nobr</value>
+      <webElementGuid>16e75178-ed3e-4ddd-9e32-247c1e8171b3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='序號'])[1]/following::nobr[1]</value>
+      <webElementGuid>b15bc2b2-05a8-4d1d-be39-cf9916b0f80e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='GO'])[1]/following::nobr[1]</value>
+      <webElementGuid>0c1b6179-4c3a-4572-9f3d-bd348bc59370</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='教師姓名'])[6]/preceding::nobr[1]</value>
+      <webElementGuid>076d0add-5d5c-4050-9d04-fd1b28861d8c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='單位所系'])[3]/preceding::nobr[2]</value>
+      <webElementGuid>3d3db6b0-a3f2-45e8-a3dc-5c3206f9456d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='功能']/parent::*</value>
+      <webElementGuid>d832ce7a-6214-4a4d-aebe-bec4f5c6b616</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/table/tbody/tr/td[3]/nobr</value>
+      <webElementGuid>b56956ec-623c-4cb3-ab9a-3f1b8e6800e1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//nobr[(text() = '功能' or . = '功能')]</value>
+      <webElementGuid>9b620ac6-488f-4dd6-8119-e81d24215d6f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

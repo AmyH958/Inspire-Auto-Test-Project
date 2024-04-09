@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>b_</name>
+   <tag></tag>
+   <elementGuidId>efa87d8d-b9bf-4021-81e6-8bd914e388e7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='browseMode']/font/b</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#browseMode > font > b</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>b</value>
+      <webElementGuid>09c2fa99-1783-4fe2-a398-7fe0d092a96e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+		條碼號輸入模式
+		</value>
+      <webElementGuid>430585cc-659b-492e-a2a0-3872f8c4dcef</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;browseMode&quot;)/font[1]/b[1]</value>
+      <webElementGuid>8a7566dd-6739-4361-b673-eb97e10df544</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id='browseMode']/font/b</value>
+      <webElementGuid>4502888f-5d78-4406-8126-afbd32027dda</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='查詢'])[2]/following::b[1]</value>
+      <webElementGuid>9063ce95-42be-4216-b7de-59a4e0f98337</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='流通 > 批次報廢 > 選擇報廢'])[1]/following::b[2]</value>
+      <webElementGuid>86c3c8e8-8464-4ccb-93f5-4d42d724d850</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='上傳條碼號'])[1]/preceding::b[1]</value>
+      <webElementGuid>50fbbfc2-54c1-44a4-b625-3292f6c5a094</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='查詢條件'])[1]/preceding::b[1]</value>
+      <webElementGuid>0118b3bc-d17a-495d-9391-344be04b8c3d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='條碼號輸入模式']/parent::*</value>
+      <webElementGuid>08e5bc50-aee3-432c-9a70-9b623694407e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[2]/font/b</value>
+      <webElementGuid>cb0459e3-9d1c-4c1e-81dd-c292b01e6244</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//b[(text() = '
+		條碼號輸入模式
+		' or . = '
+		條碼號輸入模式
+		')]</value>
+      <webElementGuid>22a0c64e-2dc6-4b71-8b7f-d38c3f0c4bc4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

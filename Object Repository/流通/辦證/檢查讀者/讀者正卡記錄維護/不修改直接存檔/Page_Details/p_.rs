@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_</name>
+   <tag></tag>
+   <elementGuidId>7748eab7-faeb-425c-bc39-f1d9e137ff09</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='CloseReminderDialog_content']/p</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#CloseReminderDialog_content > p</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>9ee66b6e-92eb-4322-a4c6-65a6b5d9aa51</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+				是否離開此頁面?
+			</value>
+      <webElementGuid>4d8a5dee-7fcf-4e88-b479-3e58b571d49c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;CloseReminderDialog_content&quot;)/p[1]</value>
+      <webElementGuid>3eb688a3-9d96-476f-8bb0-424678d5cc7c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='CloseReminderDialog_content']/p</value>
+      <webElementGuid>8eb75a1c-2c1b-411b-8a6d-a66b723f4dff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='提示'])[1]/following::p[1]</value>
+      <webElementGuid>021b5c94-1d99-4d79-b71f-5a47c6674875</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='讀者基本資訊'])[1]/following::p[1]</value>
+      <webElementGuid>8f14c446-65ad-484f-9075-93a1af10ab5b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='是否離開此頁面?']/parent::*</value>
+      <webElementGuid>0b57b3a0-5302-4f06-9807-bc62428594f1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/p</value>
+      <webElementGuid>2641b17f-393e-4e5d-b94a-d5ba80420db0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = '
+				是否離開此頁面?
+			' or . = '
+				是否離開此頁面?
+			')]</value>
+      <webElementGuid>ebc38ade-4979-4223-9860-8061dc999258</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

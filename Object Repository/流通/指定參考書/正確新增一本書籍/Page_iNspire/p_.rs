@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_</name>
+   <tag></tag>
+   <elementGuidId>11a7d969-07a3-4837-9d57-dba1568d13b6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div > p</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='messageForm']/fieldset/div/p</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>76a9e67b-8c7a-4ced-8f51-9092b503d2b0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+									存檔成功
+								</value>
+      <webElementGuid>e9e396a1-a4a1-4db9-ae75-405f1b426647</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;messageForm&quot;)/fieldset[1]/div[1]/p[1]</value>
+      <webElementGuid>9977f654-608c-4315-9c47-544bef5b6799</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='messageForm']/fieldset/div/p</value>
+      <webElementGuid>43835b49-b0a7-4075-bdd9-e79b7e806b58</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='確定'])[1]/following::p[1]</value>
+      <webElementGuid>7eb903b7-b6a7-40e3-a786-c072b8b449cb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='選擇課程名稱'])[1]/following::p[2]</value>
+      <webElementGuid>c23fc782-f11f-4ed6-b204-b9dfcd87ea7c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='確定'])[2]/preceding::p[1]</value>
+      <webElementGuid>7de4e95c-15bd-45a4-9891-53081c258469</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='確認'])[1]/preceding::p[2]</value>
+      <webElementGuid>a71693ee-c197-4cbc-bd84-8975092374f0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='存檔成功']/parent::*</value>
+      <webElementGuid>b42ec134-9e8c-4459-8230-36a46c8ddf37</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/p</value>
+      <webElementGuid>c5f0aacf-b88a-4ea2-b209-80ede7988139</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = '
+									存檔成功
+								' or . = '
+									存檔成功
+								')]</value>
+      <webElementGuid>be133cfb-7488-4fca-8677-febc7301adad</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

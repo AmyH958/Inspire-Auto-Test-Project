@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>001_單項維護_檢視清單資料_不輸入直接點選查詢</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f547e8e8-df31-481b-8638-36772428838d</testCaseGuid>
+</TestCaseEntity>

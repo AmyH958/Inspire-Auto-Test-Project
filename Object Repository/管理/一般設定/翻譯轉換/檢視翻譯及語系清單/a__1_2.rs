@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a__1_2</name>
+   <tag></tag>
+   <elementGuidId>19687cb3-7a95-4326-986a-c981a381673f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>ul.ssub_nav_ul > li:nth-of-type(7) > a</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[(text() = '翻譯轉換 ' or . = '翻譯轉換 ')]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='menu2']/ul[10]/li/ul/li[7]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>862d5b5d-6a02-4f7f-a13c-d68ece3af779</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/inspireapp/traduceri_administration?init=1</value>
+      <webElementGuid>9ae8b7e5-f163-4db4-b299-5ac89a753b99</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>翻譯轉換 </value>
+      <webElementGuid>9da2c647-56c1-4831-809b-d078b5e8e41a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;menu2&quot;)/ul[@class=&quot;sub_nav_ul&quot;]/li[@class=&quot;current&quot;]/ul[@class=&quot;ssub_nav_ul&quot;]/li[7]/a[1]</value>
+      <webElementGuid>c9ff6acd-aba3-4202-bc08-3c2076653883</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='menu2']/ul[10]/li/ul/li[7]/a</value>
+      <webElementGuid>1254d965-1090-4c8c-b5b7-075147369d50</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'翻譯轉換')]</value>
+      <webElementGuid>5a889631-1834-4460-8823-4f1c01c29507</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='範本設定--依館員帳號'])[1]/following::a[1]</value>
+      <webElementGuid>3e777d78-8718-4532-84b6-1416b3f2b3a6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='館藏地'])[1]/following::a[2]</value>
+      <webElementGuid>3a3fd041-6802-4ba5-a9f1-e69c591031b1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='選取清單'])[1]/preceding::a[1]</value>
+      <webElementGuid>5108e46b-c853-4b13-9429-c50001886881</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='格式屬性'])[1]/preceding::a[2]</value>
+      <webElementGuid>35883bc3-7af9-47d0-81e9-e2f46c2b4f14</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='翻譯轉換']/parent::*</value>
+      <webElementGuid>ea90035b-ac37-45cb-9550-ddbaefae0731</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/inspireapp/traduceri_administration?init=1')]</value>
+      <webElementGuid>ca10368a-ff24-4a88-9319-d9cb7c5aca08</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li/ul/li[7]/a</value>
+      <webElementGuid>3bd9fa3b-6600-441e-84d1-f401790601d7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/inspireapp/traduceri_administration?init=1' and (text() = '翻譯轉換 ' or . = '翻譯轉換 ')]</value>
+      <webElementGuid>70aecd83-c739-442d-903a-06341cbbdc1d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

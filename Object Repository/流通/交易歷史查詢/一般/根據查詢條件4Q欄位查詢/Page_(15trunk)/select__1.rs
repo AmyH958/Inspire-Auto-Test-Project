@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select__1</name>
+   <tag></tag>
+   <elementGuidId>265ee557-8386-4669-bf76-bfb6b3127e3f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#sCriteria3</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='sCriteria3']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>e1b18fd2-c4ec-42cf-838a-6f33ec27bfc0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>sCriteria3</value>
+      <webElementGuid>9f160a18-1092-4999-9f1d-1b7494baae46</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>sCriteria3</value>
+      <webElementGuid>5f7eef7d-57e5-4b0a-8f53-7ba7cbea3f10</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+條碼號
+讀者帳號
+讀者證號
+讀者姓名
+正題名
+起始日期
+結束日期
+完成日期
+預約可取夾書單號
+採購註記
+執行交易館員帳號
+結束交易館員帳號
+索書號
+作者
+</value>
+      <webElementGuid>a1afb685-3e54-43e1-866e-630093c27800</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;sCriteria3&quot;)</value>
+      <webElementGuid>5c8681b6-525b-4254-84b7-253a695d0d89</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='sCriteria3']</value>
+      <webElementGuid>a9387dc1-312f-4a1c-aea7-9137dab87b8a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//p[@id='If_16']/select[2]</value>
+      <webElementGuid>958eba73-bb93-41dc-8d7a-4b259efca966</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='查詢條件'])[1]/following::select[7]</value>
+      <webElementGuid>0665a647-74b8-4a3f-912a-d51c4dcae2bc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='瀏覽'])[1]/following::select[7]</value>
+      <webElementGuid>dfa62e48-e692-4276-8b92-dfa6bb9a22d9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='限制條件'])[1]/preceding::select[5]</value>
+      <webElementGuid>ed152a40-921b-44d4-a2dd-39add01dc5b5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='限制條件'])[2]/preceding::select[5]</value>
+      <webElementGuid>cd1f482f-c6c2-4ffc-ad87-bed1fdb9b4fe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p[5]/select[2]</value>
+      <webElementGuid>f655565b-a0e8-47d4-9d2d-2a2b1dc474b1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@name = 'sCriteria3' and @id = 'sCriteria3' and (text() = '
+條碼號
+讀者帳號
+讀者證號
+讀者姓名
+正題名
+起始日期
+結束日期
+完成日期
+預約可取夾書單號
+採購註記
+執行交易館員帳號
+結束交易館員帳號
+索書號
+作者
+' or . = '
+條碼號
+讀者帳號
+讀者證號
+讀者姓名
+正題名
+起始日期
+結束日期
+完成日期
+預約可取夾書單號
+採購註記
+執行交易館員帳號
+結束交易館員帳號
+索書號
+作者
+')]</value>
+      <webElementGuid>1275c2ca-c5a5-4457-971d-b58525fac8a9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

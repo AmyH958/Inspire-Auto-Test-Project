@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>b__1</name>
+   <tag></tag>
+   <elementGuidId>5836351c-10bb-4c48-89fa-eddcf6892302</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='RadioGroup']/tbody/tr[2]/td/div/table/tbody/tr/td[4]/b</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>td:nth-of-type(4) > b</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>b</value>
+      <webElementGuid>01051573-79df-4cd4-a1e5-c65fa8de9f5f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>神資圖書館</value>
+      <webElementGuid>140ada3d-5568-4c11-8ac4-31db108a382a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;RadioGroup&quot;)/tbody[1]/tr[2]/td[1]/div[1]/table[1]/tbody[1]/tr[1]/td[4]/b[1]</value>
+      <webElementGuid>4763d57e-5b24-4e7c-9ab1-cebe263de9ac</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='RadioGroup']/tbody/tr[2]/td/div/table/tbody/tr/td[4]/b</value>
+      <webElementGuid>68fbc210-b23f-43a4-9030-d17ae8235abd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='A123456789'])[1]/following::b[1]</value>
+      <webElementGuid>4abaf09b-7fd7-49d7-b977-fa426601e405</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='神通測試帳號'])[1]/following::b[2]</value>
+      <webElementGuid>32d86958-d8dd-4fe4-8e3d-0444ba81166b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='台中總館'])[1]/preceding::b[1]</value>
+      <webElementGuid>c846ceb5-d1ac-49ef-9e46-ee80709c6623</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='神通測試帳號12'])[1]/preceding::b[2]</value>
+      <webElementGuid>5b529f98-300e-4b93-b39d-7392b6e7e112</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='神資圖書館']/parent::*</value>
+      <webElementGuid>5df3fa66-2343-46af-8b08-94d1b8446052</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[4]/b</value>
+      <webElementGuid>ae9e4f53-b2e5-440a-9fa1-2688f472fc16</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//b[(text() = '神資圖書館' or . = '神資圖書館')]</value>
+      <webElementGuid>310849e9-0b42-43f2-9e78-9d926755043f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

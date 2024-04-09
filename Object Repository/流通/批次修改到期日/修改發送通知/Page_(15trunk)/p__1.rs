@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p__1</name>
+   <tag></tag>
+   <elementGuidId>9993c780-df10-45e1-aa08-3d7f84eb6668</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='resultTable']/tbody/tr/td[14]/p[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>td:nth-of-type(14) > p:nth-of-type(2)</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>6011e72a-d259-4ea0-abb5-12dab14f9868</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>結束日期</value>
+      <webElementGuid>d9406aa5-01ae-4138-93e0-55f0cd5df262</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;resultTable&quot;)/tbody[1]/tr[@class=&quot;search_list_t&quot;]/td[14]/p[2]</value>
+      <webElementGuid>45575d36-f799-475c-9602-2b5efb43ca35</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='resultTable']/tbody/tr/td[14]/p[2]</value>
+      <webElementGuid>02170eeb-f304-4236-b39f-244277767927</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='交易起始日期'])[2]/following::p[4]</value>
+      <webElementGuid>9f1250db-49c6-4225-a4e6-2df8a07518e5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='讀者身份類別'])[1]/following::p[4]</value>
+      <webElementGuid>c986c6fa-f8e0-435d-938e-76d578470234</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Borrow-day'])[1]/preceding::p[1]</value>
+      <webElementGuid>9c40bb9d-da3f-4b0e-a659-dece847495b1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='CC20211027003'])[1]/preceding::p[1]</value>
+      <webElementGuid>4eed6b5c-b480-4349-b2b8-f133bf08b369</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[14]/p[2]</value>
+      <webElementGuid>0098852c-4d4a-4156-b1bc-5cdb0dcdea3f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = '結束日期' or . = '結束日期')]</value>
+      <webElementGuid>1384896c-1b33-4930-bdc9-a16d1a873962</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_</name>
+   <tag></tag>
+   <elementGuidId>7d93a012-61ef-4c1f-8de3-5f16017b488f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='PropertySelection_1']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#PropertySelection_1</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>0e37e4b9-60b7-442d-bdfa-c6f28ab664d6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>PropertySelection_1</value>
+      <webElementGuid>d6f57023-699f-4fca-aa33-8be9d0553b6f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>PropertySelection_1</value>
+      <webElementGuid>6ca11f5c-03fe-4bda-bb41-76751f41f4ca</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+
+是
+否
+</value>
+      <webElementGuid>66aade8e-1d9d-4dbf-b950-56cb864599ed</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;PropertySelection_1&quot;)</value>
+      <webElementGuid>32c2a8bd-e788-4960-a24d-50e3a6526b6b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='PropertySelection_1']</value>
+      <webElementGuid>3090d482-e60e-4fe4-a7da-3e64ab64d687</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//tr[@id='For_1_1']/td[2]/select</value>
+      <webElementGuid>40924635-b890-4b8e-97bc-cf64804c3057</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='流通停權:'])[1]/following::select[1]</value>
+      <webElementGuid>119e56c4-362d-4a3c-b20c-a929e7b0c939</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='讀者狀態:'])[1]/following::select[2]</value>
+      <webElementGuid>2d018c5e-8245-46ca-acac-adc46c7654ab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='預設所屬圖書館:'])[1]/preceding::select[1]</value>
+      <webElementGuid>9459d4b5-42c5-4d4d-91a0-e1ff4ccfd22e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='讀者其他館別:'])[1]/preceding::select[1]</value>
+      <webElementGuid>7e4b0e32-d90c-4cd9-b913-97dd0fb0da84</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[3]/td[2]/select</value>
+      <webElementGuid>0255da35-6f87-4caf-864f-bf0225e60e29</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@name = 'PropertySelection_1' and @id = 'PropertySelection_1' and (text() = '
+
+是
+否
+' or . = '
+
+是
+否
+')]</value>
+      <webElementGuid>944e50c4-f112-4d74-a77f-511fffea0735</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

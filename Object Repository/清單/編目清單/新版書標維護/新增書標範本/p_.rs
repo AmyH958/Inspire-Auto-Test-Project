@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_</name>
+   <tag></tag>
+   <elementGuidId>10a5c718-0863-4f63-b99f-3ff50b81209c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#abcd > p</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//font[@id='abcd']/p</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>385a2a64-58b0-49f8-a033-541b36a7f24b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+							儲存成功
+						</value>
+      <webElementGuid>3c09a5dd-0da2-465e-b20d-32b031bdd3a4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;abcd&quot;)/p[1]</value>
+      <webElementGuid>056e7cdf-f3a4-4ffe-ac17-e1015e417cf4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//font[@id='abcd']/p</value>
+      <webElementGuid>2f4452e8-71bf-45e5-adfa-fc90e66c132b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='列印欄位'])[1]/following::p[4]</value>
+      <webElementGuid>2dc1db9b-087d-4f92-a267-4f60ca277e2a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='不印欄位'])[1]/following::p[4]</value>
+      <webElementGuid>504390de-4a66-4495-9b83-c13e9b4fcf9d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='複製'])[1]/preceding::p[1]</value>
+      <webElementGuid>29cffe61-d32e-4b83-b988-07fed5c38994</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='修改/儲存'])[1]/preceding::p[1]</value>
+      <webElementGuid>f8039df4-7ec7-4a31-b918-b3c865bd2d3e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='儲存成功']/parent::*</value>
+      <webElementGuid>591d3b69-1b26-43a0-bc65-c0fd3dfcf2a7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/font/p</value>
+      <webElementGuid>2e496041-7a2d-480e-857b-8c14aadaa2e2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = '
+							儲存成功
+						' or . = '
+							儲存成功
+						')]</value>
+      <webElementGuid>ece337d9-f95c-4507-a543-e0c3a3d51d7b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

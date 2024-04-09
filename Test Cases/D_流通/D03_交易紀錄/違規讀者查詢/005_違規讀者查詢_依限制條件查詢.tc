@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>005_違規讀者查詢_依限制條件查詢</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>80eb1787-9376-46b5-b745-713296bc8ef9</testCaseGuid>
+</TestCaseEntity>

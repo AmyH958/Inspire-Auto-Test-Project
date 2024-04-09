@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>001_不輸入條件直接查詢_UI畫面正確</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>cf10900a-088e-49d3-a9c8-795f68e1e126</testCaseGuid>
+</TestCaseEntity>

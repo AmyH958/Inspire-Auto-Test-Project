@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_</name>
+   <tag></tag>
+   <elementGuidId>f8c12989-a23c-4513-aadb-3c358437a1e2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>td.table1_left</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='reportForm']/div[2]/table/tbody/tr/td</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>6a675474-0e05-491d-b1dd-92753d36da5c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>table1_left</value>
+      <webElementGuid>a6e858ce-0eb7-46b9-9125-7ef3eba9f2d0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> 起始日期</value>
+      <webElementGuid>cb4f9096-7053-441d-a2fb-b2a55a7d66ca</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;reportForm&quot;)/div[@class=&quot;right_box l&quot;]/table[@class=&quot;table1&quot;]/tbody[1]/tr[1]/td[@class=&quot;table1_left&quot;]</value>
+      <webElementGuid>5e652362-bec0-4604-a19d-97f2e0b33fc2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='reportForm']/div[2]/table/tbody/tr/td</value>
+      <webElementGuid>cfd74b71-c87a-49cc-90e5-bfc65aab6f32</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='統計 > 流通統計 > 流通人次冊數統計'])[1]/following::td[1]</value>
+      <webElementGuid>d145f3c1-e7a9-40c7-a0e7-e1567bafc601</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='電子資源狀況報表'])[1]/following::td[1]</value>
+      <webElementGuid>bba9c985-4564-4c27-8123-94e6d1fdf3cd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='結束日期'])[1]/preceding::td[2]</value>
+      <webElementGuid>b55105a7-92f2-4a4b-a6fa-84189709b950</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='列'])[1]/preceding::td[4]</value>
+      <webElementGuid>e87d305f-231a-438e-85de-b93187021ade</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='起始日期']/parent::*</value>
+      <webElementGuid>d574e4d0-18f6-4085-8103-018cbe5032a2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td</value>
+      <webElementGuid>df909758-5a27-4861-afc5-d5cec6d8dcad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = ' 起始日期' or . = ' 起始日期')]</value>
+      <webElementGuid>3d470890-bb4b-43b6-bf87-2b1281a6facd</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

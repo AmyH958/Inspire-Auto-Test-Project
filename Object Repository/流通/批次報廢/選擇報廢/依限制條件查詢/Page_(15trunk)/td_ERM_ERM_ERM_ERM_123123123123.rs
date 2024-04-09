@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_ERM_ERM_ERM_ERM_123123123123</name>
+   <tag></tag>
+   <elementGuidId>3c5f67e3-20d9-4eb0-9fca-a5f193932316</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//tr[@id='For_1_1']/td[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#For_1_1 > td:nth-of-type(2)</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>124c5030-40c6-4a44-a23f-f41acb34c683</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+
+視聽資料
+圖書
+其他資料
+電子書
+期刊
+ERM_網路資源
+ERM_電子期刊
+ERM_電子書
+ERM_電子資料庫
+小冊子專用
+前置碼測試
+台北大電子資源
+123
+123
+123
+123
+</value>
+      <webElementGuid>c9330764-351d-4360-bd55-40a4b42352ea</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;For_1_1&quot;)/td[2]</value>
+      <webElementGuid>af6ae41a-2c97-463f-a87e-4c8d60f4cee6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//tr[@id='For_1_1']/td[2]</value>
+      <webElementGuid>ec175945-497e-4783-930e-4e5b4b7ef3bc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='條碼號類別:'])[1]/following::td[1]</value>
+      <webElementGuid>131aaa0e-7a24-4446-ad5f-a69083120f0a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='在OPAC上顯示:'])[1]/following::td[3]</value>
+      <webElementGuid>c3381321-38dc-422e-9f74-e3193aea7425</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='館藏狀態:'])[1]/preceding::td[1]</value>
+      <webElementGuid>9904b4d9-5481-4e4d-aedd-a7f61e9972a3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='分類法:'])[1]/preceding::td[3]</value>
+      <webElementGuid>2eb1cd06-1193-4ce9-8efa-2b3de0829bc3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[4]/td[2]</value>
+      <webElementGuid>d49def58-0897-4b64-b204-327d5cc7d1d8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = '
+
+視聽資料
+圖書
+其他資料
+電子書
+期刊
+ERM_網路資源
+ERM_電子期刊
+ERM_電子書
+ERM_電子資料庫
+小冊子專用
+前置碼測試
+台北大電子資源
+123
+123
+123
+123
+' or . = '
+
+視聽資料
+圖書
+其他資料
+電子書
+期刊
+ERM_網路資源
+ERM_電子期刊
+ERM_電子書
+ERM_電子資料庫
+小冊子專用
+前置碼測試
+台北大電子資源
+123
+123
+123
+123
+')]</value>
+      <webElementGuid>a3c8aa04-40fc-4d47-b0e4-c4a68d737735</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

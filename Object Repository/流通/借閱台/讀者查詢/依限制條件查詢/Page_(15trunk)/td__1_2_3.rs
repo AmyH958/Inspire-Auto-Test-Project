@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td__1_2_3</name>
+   <tag></tag>
+   <elementGuidId>de40af12-4b1a-44d4-8ac1-c0c2fc839d44</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>tr.search_list_t > td:nth-of-type(5)</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='If_75']/tbody/tr/td[5]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>2765b652-5e88-4777-9e8e-0cbd909aca98</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>讀者身份類別</value>
+      <webElementGuid>3e5e732a-72dc-4aa3-a658-48ddfc653f0f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;If_75&quot;)/tbody[1]/tr[@class=&quot;search_list_t&quot;]/td[5]</value>
+      <webElementGuid>5438e157-1f33-40b0-99b8-a1de874d050e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='If_75']/tbody/tr/td[5]</value>
+      <webElementGuid>1503de3b-2513-4cb7-9929-9a439f43ddfe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='讀者證號'])[6]/following::td[1]</value>
+      <webElementGuid>486d5eaa-4a23-451a-aefa-bbc9fb436ba2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='讀者姓名'])[7]/following::td[2]</value>
+      <webElementGuid>6b933328-52f9-44ce-b4d8-074ca7f16c24</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='所系單位'])[1]/preceding::td[1]</value>
+      <webElementGuid>d4bde35e-bc8d-47b3-9293-63d96ca907d4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='讀者狀態'])[1]/preceding::td[2]</value>
+      <webElementGuid>fd75919b-5657-497c-966a-4028a7e3ab63</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='讀者身份類別']/parent::*</value>
+      <webElementGuid>6be41244-5049-400d-a09d-3f687efe0769</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/table/tbody/tr/td[5]</value>
+      <webElementGuid>e5dd710e-3a4e-4b4f-b9d2-9cd8ca13d52e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = '讀者身份類別' or . = '讀者身份類別')]</value>
+      <webElementGuid>79c7743c-eba4-4302-ba62-dcc277bde211</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

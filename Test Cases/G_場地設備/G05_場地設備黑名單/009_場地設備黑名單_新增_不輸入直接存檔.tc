@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>009_場地設備黑名單_新增_不輸入直接存檔</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c0bae13c-4c15-44f1-acdf-1c5b0499d076</testCaseGuid>
+</TestCaseEntity>

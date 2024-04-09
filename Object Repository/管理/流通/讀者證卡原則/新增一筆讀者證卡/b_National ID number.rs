@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>b_National ID number</name>
+   <tag></tag>
+   <elementGuidId>369a7cb2-3b38-4955-a127-cca3f0108055</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='For_7']/label/b</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#For_7 > label > b</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>b</value>
+      <webElementGuid>b11b320e-514f-4f1a-8874-f191149c4ec1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>[National ID number]</value>
+      <webElementGuid>53d9bdd6-099d-44a9-9088-1f982ee3288f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;For_7&quot;)/label[1]/b[1]</value>
+      <webElementGuid>cb937ddf-df4a-4ca8-8a50-6a8958b2934f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='For_7']/label/b</value>
+      <webElementGuid>8641ebc6-ba13-4c70-b61d-558fa35de3ec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='[Patron class]'])[1]/following::b[1]</value>
+      <webElementGuid>1b1ae20c-90aa-4125-b68b-76f8d34da9f4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='[Location]'])[1]/following::b[2]</value>
+      <webElementGuid>61578dcd-abd5-4080-98a7-33b0713a46c2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='(拖曳部份)'])[1]/preceding::b[1]</value>
+      <webElementGuid>d6f435cc-a945-480f-86e9-13b06138dd89</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='[National ID number]']/parent::*</value>
+      <webElementGuid>054d0044-957f-4d74-9834-a8539427b459</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[6]/label/b</value>
+      <webElementGuid>82eeee35-0ca2-4229-a5d1-4956f21a2234</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//b[(text() = '[National ID number]' or . = '[National ID number]')]</value>
+      <webElementGuid>231cff14-846c-4085-9385-f6c11da0bfff</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

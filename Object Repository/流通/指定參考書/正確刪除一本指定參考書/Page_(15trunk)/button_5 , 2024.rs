@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_5 , 2024</name>
+   <tag></tag>
+   <elementGuidId>e1a27ff2-60c8-40ee-b188-2574c280198c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//body[@id='Body']/div[6]/div[3]/table/tbody/tr/td/button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>58884ede-fe49-4ad8-b6e0-487161274b8a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>5 三月, 2024</value>
+      <webElementGuid>eddf1bd8-f198-4768-b088-bc9d393a2223</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;Body&quot;)/div[@class=&quot;calendar&quot;]/div[@class=&quot;calendarFooter&quot;]/table[@class=&quot;footerTable&quot;]/tbody[1]/tr[1]/td[1]/button[1]</value>
+      <webElementGuid>0554496d-d3db-4fca-9e81-dd7cfaab49ad</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//body[@id='Body']/div[6]/div[3]/table/tbody/tr/td/button</value>
+      <webElementGuid>f79dfa14-20ca-48ad-a8c3-952500843805</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='星期六'])[3]/following::button[1]</value>
+      <webElementGuid>4400d0f4-5742-4296-9253-8d86bf775f3d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='星期五'])[3]/following::button[1]</value>
+      <webElementGuid>8c316b55-782b-4a33-bcb9-85480594aaad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Clear'])[3]/preceding::button[1]</value>
+      <webElementGuid>523d4cfe-12bc-478f-9ac7-0ba669ddff56</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/div[3]/table/tbody/tr/td/button</value>
+      <webElementGuid>db45a04a-ae49-48f3-a8a7-9560d7a49f68</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = '5 三月, 2024' or . = '5 三月, 2024')]</value>
+      <webElementGuid>00100d8c-89d3-4eb6-a293-fbc656541bfb</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

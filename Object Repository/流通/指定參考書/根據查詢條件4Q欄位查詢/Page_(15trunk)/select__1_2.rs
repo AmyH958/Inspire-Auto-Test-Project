@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select__1_2</name>
+   <tag></tag>
+   <elementGuidId>0d6c55e6-6c1d-4a67-97f2-52f091f671fe</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#sCriteria4</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='sCriteria4']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>9f5296e6-413a-439c-9bbd-ae954e551219</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>sCriteria4</value>
+      <webElementGuid>ca1a9787-0ee0-4e41-8fc5-72f7b2701ed1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>sCriteria4</value>
+      <webElementGuid>6053b90b-3932-451a-bede-92ac96754c69</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+教師姓名
+教師證號
+課程名稱
+課程代碼
+指定有效日期
+指定建立日期
+備註
+條碼號
+書刊名
+作者
+</value>
+      <webElementGuid>31d91800-5a2e-43fd-a225-60f45c9d63ca</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;sCriteria4&quot;)</value>
+      <webElementGuid>ef28aca3-19c6-44fc-ad82-71702c1d5946</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='sCriteria4']</value>
+      <webElementGuid>25cbfff1-1ca0-4030-a1fe-d2cd6b4ad3d4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//p[@id='If_17']/select[2]</value>
+      <webElementGuid>aec26a79-38db-4b4b-b807-e2a59fbed7a7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='鍾佩恩'])[1]/following::select[8]</value>
+      <webElementGuid>dfc69e8f-d85f-4685-b30f-0d6d10609997</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='鍾佩君'])[1]/following::select[8]</value>
+      <webElementGuid>e0e58dee-f8bf-4f77-ba39-acda2061b3f1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='限制條件'])[1]/preceding::select[2]</value>
+      <webElementGuid>a5bb98a6-c97a-445e-a22a-791f9586c5f9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='reset'])[1]/preceding::select[2]</value>
+      <webElementGuid>92a2b16e-0388-43ca-bb7f-57297099be17</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p[7]/select[2]</value>
+      <webElementGuid>777b2a55-43c2-4347-8fb3-3d2a43ae4962</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@name = 'sCriteria4' and @id = 'sCriteria4' and (text() = '
+教師姓名
+教師證號
+課程名稱
+課程代碼
+指定有效日期
+指定建立日期
+備註
+條碼號
+書刊名
+作者
+' or . = '
+教師姓名
+教師證號
+課程名稱
+課程代碼
+指定有效日期
+指定建立日期
+備註
+條碼號
+書刊名
+作者
+')]</value>
+      <webElementGuid>1b8d7ba3-368d-4c75-8f80-c0117e8ff68b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_12345678910111213141516</name>
+   <tag></tag>
+   <elementGuidId>49abae8b-8781-4a8f-a9f5-7f19c120733e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#fontSize</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='fontSize']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>83ccc6e3-f02b-476c-8a34-ce86cce7fca0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>fontSize</value>
+      <webElementGuid>756eed1e-80e0-4bf1-94ee-7f4a0e53590b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>fontSize</value>
+      <webElementGuid>367ce253-60a8-4293-b096-2e21026589fa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+</value>
+      <webElementGuid>7392c3e8-00a5-479d-bcb0-1078f1596c5f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;fontSize&quot;)</value>
+      <webElementGuid>153d6461-f6c2-4ca4-a0dc-63134fdd9b32</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='fontSize']</value>
+      <webElementGuid>38c58968-2d39-4cbf-a52a-cdd78a12c0f6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='LbaleParameterFrom']/table/tbody/tr[5]/td[4]/select</value>
+      <webElementGuid>3d9eaca3-5766-49fb-ab4f-63dfe2c82267</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='字型大小:'])[1]/following::select[1]</value>
+      <webElementGuid>7e9a6e9c-f79d-45ea-887f-2dd25ed9a438</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='直式橫式:'])[1]/following::select[1]</value>
+      <webElementGuid>e07c9f91-0824-4cef-8d60-2e494073e5e5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='上邊界:'])[1]/preceding::select[1]</value>
+      <webElementGuid>b5df06ed-f8ae-4b69-8196-9a67dd5274ca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[5]/td[4]/select</value>
+      <webElementGuid>84ebeddc-9ed5-49b1-9d1a-5f4cf297c148</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@name = 'fontSize' and @id = 'fontSize' and (text() = '
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+' or . = '
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+')]</value>
+      <webElementGuid>e5d73a56-1337-46bd-ab75-ac67f7363f0e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

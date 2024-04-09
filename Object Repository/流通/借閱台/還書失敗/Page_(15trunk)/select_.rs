@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_</name>
+   <tag></tag>
+   <elementGuidId>afeecdb6-84f9-4b3b-bad1-c52272a8264b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='sCriteriaItem']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#sCriteriaItem</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>d1a47cf5-c9d7-4620-a6e1-b704c0f02365</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>sCriteriaItem</value>
+      <webElementGuid>10a01128-231f-4a70-b2ec-46d72e0c0400</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>disabled</name>
+      <type>Main</type>
+      <value>disabled</value>
+      <webElementGuid>0cb4b593-799c-4d57-9517-d2cf18bb2cfd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>sCriteriaItem</value>
+      <webElementGuid>1610d089-9f50-4126-a59c-4c8f44442ed8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>-1</value>
+      <webElementGuid>fe3845c4-b346-4972-b9b2-c30345e47b65</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+條碼號
+書名
+</value>
+      <webElementGuid>96cbd840-cc5d-43ef-a2fc-18a1a45d0d48</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;sCriteriaItem&quot;)</value>
+      <webElementGuid>9491c599-67d5-4d7d-8621-02a16479d81b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='sCriteriaItem']</value>
+      <webElementGuid>ba6d6de0-638b-4510-904c-f919b12141de</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='searchItemForm']/table/tbody/tr/td[2]/select</value>
+      <webElementGuid>42b754d1-9289-4256-9fbb-d9afe102c9fc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='選擇'])[1]/following::select[1]</value>
+      <webElementGuid>cfda37ba-a9cb-4cde-bf57-f5d3fef821b0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='/inspireapp/'])[1]/preceding::select[1]</value>
+      <webElementGuid>6bc66928-76dd-4fcf-8d88-a1664d9a2044</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='姓名:'])[1]/preceding::select[1]</value>
+      <webElementGuid>6c5a83cc-7851-453a-a49c-71457472c1ff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[2]/select</value>
+      <webElementGuid>456a9e3d-fcce-4f80-b00d-af08710fce98</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@name = 'sCriteriaItem' and @id = 'sCriteriaItem' and (text() = '
+條碼號
+書名
+' or . = '
+條碼號
+書名
+')]</value>
+      <webElementGuid>1285cfc5-8f63-4d7d-9a61-5fc27c8cf0d5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

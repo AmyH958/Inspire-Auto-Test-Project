@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>002_跨館預約調閱需求_檢視清單資料_UI介面顯示正確</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>cc42c99f-7d1a-46f1-8197-7f3dd8467356</testCaseGuid>
+</TestCaseEntity>

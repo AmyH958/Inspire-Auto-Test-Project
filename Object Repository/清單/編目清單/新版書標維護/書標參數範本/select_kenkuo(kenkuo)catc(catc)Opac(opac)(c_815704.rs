@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_kenkuo(kenkuo)catc(catc)Opac(opac)(c_815704</name>
+   <tag></tag>
+   <elementGuidId>8d7ca240-e8ac-412c-b09a-2f8919d07966</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#PropertySelection_0</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='PropertySelection_0']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>beac8e91-88d0-49f1-b9d0-2c776ebaed57</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>PropertySelection_0</value>
+      <webElementGuid>bb812fcc-ac8e-40de-8fc4-3e099cf1bba2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>PropertySelection_0</value>
+      <webElementGuid>44922a7a-f0c9-494d-8117-da0a725fd7b9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+
+kenkuo(kenkuo)
+catc神資測試(catc)
+Opac(opac)
+陳彥萍(cc)
+crystal(cwen2)
+crystal(cwen4)
+</value>
+      <webElementGuid>a9cf584a-ad42-49e6-9e59-ba30f622dcdb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;PropertySelection_0&quot;)</value>
+      <webElementGuid>27d0fe68-8cc9-4b48-8a65-4c1a112e22eb</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='PropertySelection_0']</value>
+      <webElementGuid>84e612d1-4da2-4ad2-b8e4-4740ff613346</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='list_temp_searchForm']/table/tbody/tr[2]/td[2]/select</value>
+      <webElementGuid>39f931e9-b440-461e-bffc-f54f306f5481</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='範本建立者:'])[1]/following::select[1]</value>
+      <webElementGuid>c5cbe4b0-a81e-4722-925a-2b731da8627d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='龍華科技大學圖書館 - 龍華科技大學圖書館'])[1]/following::select[1]</value>
+      <webElementGuid>cadcfaae-d316-4b22-a1c5-33e0493fe6b0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='自訂圖書館名稱:'])[1]/preceding::select[1]</value>
+      <webElementGuid>042fab85-1443-40c7-aea4-846949158465</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='序號'])[1]/preceding::select[2]</value>
+      <webElementGuid>3ed9886c-4324-41dc-a735-5c343516e337</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[2]/select</value>
+      <webElementGuid>d55804d4-2620-46a9-a1e9-b1f44c547cec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@name = 'PropertySelection_0' and @id = 'PropertySelection_0' and (text() = '
+
+kenkuo(kenkuo)
+catc神資測試(catc)
+Opac(opac)
+陳彥萍(cc)
+crystal(cwen2)
+crystal(cwen4)
+' or . = '
+
+kenkuo(kenkuo)
+catc神資測試(catc)
+Opac(opac)
+陳彥萍(cc)
+crystal(cwen2)
+crystal(cwen4)
+')]</value>
+      <webElementGuid>79814f1c-0f81-4ca1-b256-3d3187b78e6a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

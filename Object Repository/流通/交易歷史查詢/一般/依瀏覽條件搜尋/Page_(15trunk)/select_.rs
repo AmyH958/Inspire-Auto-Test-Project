@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_</name>
+   <tag></tag>
+   <elementGuidId>99b41c38-9e65-4e72-ac5f-c4e26c129129</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#browseCriteria</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='browseCriteria']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>5c87e5cc-ed8a-49ef-b613-fecd7a54b5b1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>browseCriteria</value>
+      <webElementGuid>31582934-abc0-4bdb-9d60-5bea8c7ef0e4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>browseCriteria</value>
+      <webElementGuid>bd15fe61-fb64-480c-b16d-3948cc8ccc8b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+條碼號
+讀者證號
+讀者姓名
+館藏使用類型
+</value>
+      <webElementGuid>dfc183de-ae7a-4632-b81a-a5189af50aa5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;browseCriteria&quot;)</value>
+      <webElementGuid>9ad44bf7-8c9a-4de7-aac2-13d2362f475c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='browseCriteria']</value>
+      <webElementGuid>34c0db09-21cc-46f2-8b8d-213ef5091044</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//td[@id='If_64']/select</value>
+      <webElementGuid>8c8b28da-e0ca-49dd-a97b-a04f59cd7dea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='瀏覽條件:'])[1]/following::select[1]</value>
+      <webElementGuid>99a076f6-79e3-4625-b9d6-6607e3824991</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='館藏使用類型:'])[1]/following::select[2]</value>
+      <webElementGuid>47324b00-3f79-4a7e-978f-ce18180100d5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='起始以:'])[1]/preceding::select[1]</value>
+      <webElementGuid>9b0dc794-9d42-4890-a35c-6b611b0d1939</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='排序條件:'])[1]/preceding::select[1]</value>
+      <webElementGuid>e3ad663c-1e48-454f-998f-dc2c44521b30</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/table/tbody/tr/td[2]/select</value>
+      <webElementGuid>19bc688f-fda0-4448-b71f-aa12f2859775</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@name = 'browseCriteria' and @id = 'browseCriteria' and (text() = '
+條碼號
+讀者證號
+讀者姓名
+館藏使用類型
+' or . = '
+條碼號
+讀者證號
+讀者姓名
+館藏使用類型
+')]</value>
+      <webElementGuid>e98b2374-24b4-4753-af51-2647fd3c39fe</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

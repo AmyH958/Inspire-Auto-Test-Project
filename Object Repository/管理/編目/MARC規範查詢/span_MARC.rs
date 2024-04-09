@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_MARC</name>
+   <tag></tag>
+   <elementGuidId>ed39d14c-e177-458c-9b52-6f1df948054e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>td.table1_left > span</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='addFamilyDetails']/table/tbody/tr/td/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>dd5ddbab-2931-44d1-b74a-eb18c48ac9de</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>選擇 MARC 群組</value>
+      <webElementGuid>c03331e9-0396-4b7c-86d9-52e90a36e12a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;addFamilyDetails&quot;)/table[@class=&quot;table1&quot;]/tbody[1]/tr[1]/td[@class=&quot;table1_left&quot;]/span[1]</value>
+      <webElementGuid>d37cfc8f-9edb-48a1-be6e-38fa7bdc75c0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='addFamilyDetails']/table/tbody/tr/td/span</value>
+      <webElementGuid>d64de879-0b1e-4f98-ac34-52a0b9c49b99</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='管理 > 編目 > MARC規範'])[1]/following::span[1]</value>
+      <webElementGuid>17dae96f-d288-4bec-8185-39a4e4c3cbe0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='電子資源狀況報表'])[1]/following::span[1]</value>
+      <webElementGuid>c3a8d6cf-b552-450d-8a77-794e3f3ce59d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='選擇 MARC 格式'])[1]/preceding::span[1]</value>
+      <webElementGuid>db5cc4ab-cfda-41db-8a5c-78afdb6fedde</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='選擇 MARC 群組']/parent::*</value>
+      <webElementGuid>a88c9071-0dcf-4f2e-a7b0-96f3554acdd6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td/span</value>
+      <webElementGuid>13558547-c2ca-468f-b63e-d4a9d1c5d6a2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = '選擇 MARC 群組' or . = '選擇 MARC 群組')]</value>
+      <webElementGuid>f9355a44-73d1-498b-8db5-e01b29f23a13</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

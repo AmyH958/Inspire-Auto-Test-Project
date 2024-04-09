@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>009_預約紀錄_編輯一筆預約紀錄_不修改直接關閉</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ceac7a0a-fc5a-4ec7-9daf-3ba25a48162b</testCaseGuid>
+</TestCaseEntity>

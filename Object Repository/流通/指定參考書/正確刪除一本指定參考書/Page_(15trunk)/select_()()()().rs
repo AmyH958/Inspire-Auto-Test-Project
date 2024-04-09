@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_()()()()</name>
+   <tag></tag>
+   <elementGuidId>6499d302-4da6-43a1-b992-01bc9eb65b19</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#comparator1</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='comparator1']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>68c23283-5c86-41a9-99e6-9fdabd6e2b1b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>comparator1</value>
+      <webElementGuid>e9da46a0-e464-4988-893a-3c007c163479</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>comparator1</value>
+      <webElementGuid>c281c2b3-28d5-4156-a502-ff94f3a63daa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+起始以
+包含
+等於(=)
+大於(>=)
+小於(&lt;=)
+不等於(≠)
+</value>
+      <webElementGuid>c4edbe6c-321d-4ac5-8f26-5612782a7888</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;comparator1&quot;)</value>
+      <webElementGuid>1d4f0a16-4b3b-4ce9-8aa0-99aaa997dbd6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='comparator1']</value>
+      <webElementGuid>815f70e5-e66e-42d0-bfd7-424b8d9dbb96</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//p[@id='If_5']/select[2]</value>
+      <webElementGuid>a3c7461a-85be-474e-b960-358d8f1d97ab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='查詢條件'])[1]/following::select[2]</value>
+      <webElementGuid>a3f39bb0-e0ea-4626-a56e-253d9288978f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='上傳Excel'])[1]/following::select[2]</value>
+      <webElementGuid>7f2d856f-201d-4140-859a-aa3e13493ae3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='限制條件'])[1]/preceding::select[10]</value>
+      <webElementGuid>cf867375-87de-405c-89a1-66001b1c32d4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='reset'])[1]/preceding::select[10]</value>
+      <webElementGuid>d32d15bb-5431-4e1e-86ea-1569ff1ccf4d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//select[2]</value>
+      <webElementGuid>dcb68b66-5603-44e0-902a-5dcc397ff658</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@name = 'comparator1' and @id = 'comparator1' and (text() = '
+起始以
+包含
+等於(=)
+大於(>=)
+小於(&lt;=)
+不等於(≠)
+' or . = '
+起始以
+包含
+等於(=)
+大於(>=)
+小於(&lt;=)
+不等於(≠)
+')]</value>
+      <webElementGuid>6870f80d-a7d4-4a61-aa92-95ac58dbf787</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

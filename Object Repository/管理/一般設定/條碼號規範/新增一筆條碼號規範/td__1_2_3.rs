@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td__1_2_3</name>
+   <tag></tag>
+   <elementGuidId>fe8d7cb1-ea48-4876-a8a4-837807ba419d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#eTr_0 > td:nth-of-type(3)</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//tr[@id='eTr_0']/td[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>a05b96bc-9211-42a7-8cbd-0662e841752d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>台中總館閱覽組</value>
+      <webElementGuid>2c9b87fd-825b-4b21-ac26-be32ed2eb505</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;eTr_0&quot;)/td[3]</value>
+      <webElementGuid>17fec003-7745-4873-ad45-7e927087e348</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//tr[@id='eTr_0']/td[3]</value>
+      <webElementGuid>79913dce-d91b-499c-84e2-ec062d4c8188</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='[Prefix][Sufix][Number][Inventory class]'])[1]/following::td[1]</value>
+      <webElementGuid>5cb93eaa-0ed5-4b9b-8eaf-2d2ad744fac7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='碼:'])[1]/following::td[3]</value>
+      <webElementGuid>d194368b-9d09-487e-8891-919ad656b2c3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='電子書'])[2]/preceding::td[1]</value>
+      <webElementGuid>c7085c58-8959-490f-ad29-cd03ccd9ddec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='新增'])[1]/preceding::td[5]</value>
+      <webElementGuid>3fb1c2d9-0d28-4dba-89ed-f8e5361a9913</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[2]/td[3]</value>
+      <webElementGuid>e90090fb-051f-477d-a09f-94a2efa47276</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = '台中總館閱覽組' or . = '台中總館閱覽組')]</value>
+      <webElementGuid>b55cb493-34e3-478d-a2b8-1edf213a0a16</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

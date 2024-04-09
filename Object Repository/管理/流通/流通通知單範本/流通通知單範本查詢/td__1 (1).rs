@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td__1 (1)</name>
+   <tag></tag>
+   <elementGuidId>4e33239d-3a82-4c88-86e9-26967c48912b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='editTemplateForm']/table/tbody/tr[2]/td</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>tr:nth-of-type(2) > td.table1_left</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>5a5b85e1-6dd3-4231-9299-f940409750b6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>table1_left</value>
+      <webElementGuid>a5d71152-da7e-4b20-94a2-37d81a6bc12c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>通知單類型:</value>
+      <webElementGuid>dca75e24-de8c-42a2-8808-6f24c8056d9c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;editTemplateForm&quot;)/table[@class=&quot;table1&quot;]/tbody[1]/tr[2]/td[@class=&quot;table1_left&quot;]</value>
+      <webElementGuid>a529bced-9c1b-46f3-a699-1acc60fa757b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='editTemplateForm']/table/tbody/tr[2]/td</value>
+      <webElementGuid>b6886c31-3cab-44c6-9eab-e9e7531aab71</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='欄位名稱:'])[1]/following::td[2]</value>
+      <webElementGuid>85c559fb-141f-43e0-ad17-c570d5a42005</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='新增'])[1]/following::td[4]</value>
+      <webElementGuid>08a18103-c56c-421e-9bb2-90991bd2a6af</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='寄送方式:'])[1]/preceding::td[2]</value>
+      <webElementGuid>5e155987-0c17-465a-a0a0-d09c03905651</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='通知單類型:']/parent::*</value>
+      <webElementGuid>e5939695-e3be-4baf-854f-0751f7569bb2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/table/tbody/tr[2]/td</value>
+      <webElementGuid>eff4330f-ac03-40cb-ae06-d51f0b0d7ca7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = '通知單類型:' or . = '通知單類型:')]</value>
+      <webElementGuid>443a9ca3-5e32-4e10-b48f-9c675641e377</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

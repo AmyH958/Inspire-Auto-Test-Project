@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_22ipad03123</name>
+   <tag></tag>
+   <elementGuidId>2b2c20f4-ff47-4735-8371-2c558aba911d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#PropertySelection</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='PropertySelection']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>a8ec4b15-ca73-4d0a-aa7f-0e664b9750b4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>PropertySelection</value>
+      <webElementGuid>53ec19bd-059d-48c5-a52e-4da3a215cae4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>PropertySelection</value>
+      <webElementGuid>eb008345-5ae4-4eb0-87bb-3bbbfb22f3cf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+
+耳機
+討論室
+電腦2小時
+會議室
+物品2小時
+研究小間
+ipad
+03名稱
+慈大討論室
+投影筆
+團體討論
+台中電風扇
+慈大視聽室
+小教室
+團體視聽室
+測試設備123
+</value>
+      <webElementGuid>e4ea779b-408d-473d-bd5f-2ecece1d5b02</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;PropertySelection&quot;)</value>
+      <webElementGuid>f9e8d431-baed-4171-b267-e7147c50393a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='PropertySelection']</value>
+      <webElementGuid>e4edd6e5-4598-467c-97fc-dbaf3b2982f9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='singleForm']/table/tbody/tr/td[2]/select</value>
+      <webElementGuid>2e8af3c9-71f9-4016-9b37-5087d00c101b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[1]/following::select[1]</value>
+      <webElementGuid>b60dcb11-a29d-4234-bbdc-dea023183160</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='(圖片大小請勿超過2MB)'])[1]/preceding::select[1]</value>
+      <webElementGuid>5616c528-b8af-49c2-901a-38ddcae56929</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//select</value>
+      <webElementGuid>fa863ede-97e0-41a7-a522-a953c9ff2014</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@name = 'PropertySelection' and @id = 'PropertySelection' and (text() = '
+
+耳機
+討論室
+電腦2小時
+會議室
+物品2小時
+研究小間
+ipad
+03名稱
+慈大討論室
+投影筆
+團體討論
+台中電風扇
+慈大視聽室
+小教室
+團體視聽室
+測試設備123
+' or . = '
+
+耳機
+討論室
+電腦2小時
+會議室
+物品2小時
+研究小間
+ipad
+03名稱
+慈大討論室
+投影筆
+團體討論
+台中電風扇
+慈大視聽室
+小教室
+團體視聽室
+測試設備123
+')]</value>
+      <webElementGuid>fd653b96-9005-4630-8b85-3384ca356ab6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

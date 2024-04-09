@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_OPACOPAC</name>
+   <tag></tag>
+   <elementGuidId>cb067c5d-52d2-4186-865b-b1cfa802c0c5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='PropertySelection_0_0']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#PropertySelection_0_0</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>dd1b2317-098e-40b1-ad29-eb70a79d8cf9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>PropertySelection_0_0</value>
+      <webElementGuid>8ecd4389-11f7-4387-a5bf-28fae1b03ec5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>PropertySelection_0_0</value>
+      <webElementGuid>717cc9cd-b30f-4771-a922-ea4638c3c5e7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+全部
+不在OPAC上顯示
+在OPAC顯示
+</value>
+      <webElementGuid>2e1f4f3a-ee5b-41fb-94d5-6e6c05f3288e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;PropertySelection_0_0&quot;)</value>
+      <webElementGuid>59513e04-4c47-4a1c-b893-c0c87d5f3325</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='PropertySelection_0_0']</value>
+      <webElementGuid>06720dd6-e7a7-43a2-b2ab-653943650944</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//tr[@id='For_1_1']/td[2]/select</value>
+      <webElementGuid>4c6079b2-d8e2-4bab-bf11-f7d34f4e029f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='在OPAC上顯示:'])[1]/following::select[1]</value>
+      <webElementGuid>9372d050-eca2-433c-9d2f-6623c7378a9d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='資料類型:'])[1]/following::select[2]</value>
+      <webElementGuid>f0d3127f-16a9-4c71-b988-aa827d9f714b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='條碼號類別:'])[1]/preceding::select[1]</value>
+      <webElementGuid>5c01cc45-415b-4f28-8826-c2c3d80441bb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='館藏狀態:'])[1]/preceding::select[2]</value>
+      <webElementGuid>b604bc64-e192-445a-acbf-9c906ef28ff5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[4]/td[2]/select</value>
+      <webElementGuid>77c28ff2-9f2c-4e9a-8738-b194de21042b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@name = 'PropertySelection_0_0' and @id = 'PropertySelection_0_0' and (text() = '
+全部
+不在OPAC上顯示
+在OPAC顯示
+' or . = '
+全部
+不在OPAC上顯示
+在OPAC顯示
+')]</value>
+      <webElementGuid>ae498495-8b96-4287-9f32-61a984ca900a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

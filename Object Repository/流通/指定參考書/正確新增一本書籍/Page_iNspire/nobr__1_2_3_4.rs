@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>nobr__1_2_3_4</name>
+   <tag></tag>
+   <elementGuidId>8da180b5-5fa5-480b-8120-46d6bf3b13ac</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>td:nth-of-type(9) > nobr</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@id='If_8']/table/tbody/tr/td[9]/nobr</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>nobr</value>
+      <webElementGuid>7ee48a58-b806-460e-9788-e1c247085997</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+											課程名稱
+										</value>
+      <webElementGuid>446c2cbb-de94-4a73-a9a7-5770732774b2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;If_8&quot;)/table[@class=&quot;search_list&quot;]/tbody[1]/tr[@class=&quot;search_list_t&quot;]/td[9]/nobr[1]</value>
+      <webElementGuid>fe394ab8-b911-49ce-b578-a973b5219694</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//span[@id='If_8']/table/tbody/tr/td[9]/nobr</value>
+      <webElementGuid>58007632-d42b-448d-970f-924e384663cb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='書刊名'])[1]/following::nobr[1]</value>
+      <webElementGuid>13a841ac-b4c4-46b1-a9bb-2bdc96cff6d0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='指定有效日期(迄)'])[1]/following::nobr[2]</value>
+      <webElementGuid>56644de7-7cdc-43d5-886b-adfe358e77ff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='單位所系'])[1]/preceding::nobr[1]</value>
+      <webElementGuid>b3356070-bb4f-4e82-b114-aff689c677c5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='指定館藏地'])[1]/preceding::nobr[2]</value>
+      <webElementGuid>dcd41df7-5ffe-43fd-888b-b3c4de20b266</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[9]/nobr</value>
+      <webElementGuid>0f159445-647d-46bf-be6c-1920536c46d6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//nobr[(text() = '
+											課程名稱
+										' or . = '
+											課程名稱
+										')]</value>
+      <webElementGuid>2ae0cd5b-5a1f-4961-8cc4-eb4de755d4f4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_EnglishRomn</name>
+   <tag></tag>
+   <elementGuidId>de9a0d1f-781b-407d-b5a3-41d2b8738ef0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#PropertySelection_1</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='PropertySelection_1']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>a8e0c762-ae94-445c-83ad-44d99463c218</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>PropertySelection_1</value>
+      <webElementGuid>2b18659b-be97-4ac4-9939-cea895a7c2f2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>PropertySelection_1</value>
+      <webElementGuid>fe804671-1b16-407c-b81d-ad9bcee3a6d2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+English
+Română
+Русский
+日文
+簡体中文
+繁體中文
+</value>
+      <webElementGuid>8156f590-2277-4a5e-bbd9-dff34a4bc933</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;PropertySelection_1&quot;)</value>
+      <webElementGuid>57147644-ba84-4ae5-810d-24bd12d47c00</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='PropertySelection_1']</value>
+      <webElementGuid>ffd9807b-f558-46d0-8fb6-84487b1522f4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='selectOptions']/table/tbody/tr/td[5]/select</value>
+      <webElementGuid>ade29922-be90-490a-b61a-fd2915f526c0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='語系 1:'])[1]/following::select[1]</value>
+      <webElementGuid>cd2afdd9-a463-4f62-b837-1bf34085dde3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='交易類型:'])[1]/following::select[2]</value>
+      <webElementGuid>46b53f87-caf6-4fe1-af71-622837b500c6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='未翻譯'])[1]/preceding::select[1]</value>
+      <webElementGuid>eb2d1bde-3818-4a4f-be20-a7d29ef3f0bb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='語系 2:'])[1]/preceding::select[1]</value>
+      <webElementGuid>a22b469a-9bdc-4833-a61c-459f5303f02a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[5]/select</value>
+      <webElementGuid>72c470a1-e8d0-42d6-83c7-980a2bd40dfd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@name = 'PropertySelection_1' and @id = 'PropertySelection_1' and (text() = '
+English
+Română
+Русский
+日文
+簡体中文
+繁體中文
+' or . = '
+English
+Română
+Русский
+日文
+簡体中文
+繁體中文
+')]</value>
+      <webElementGuid>59871ef9-a8a3-4188-84c1-338052a8c4ac</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

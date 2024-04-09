@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>b_Patron class</name>
+   <tag></tag>
+   <elementGuidId>09f1fac7-7987-47bd-b501-b670f0fd941b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='For_6']/label/b</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#For_6 > label > b</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>b</value>
+      <webElementGuid>a5fbec1c-1436-4acf-9ff7-13ab55baa28c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>[Patron class]</value>
+      <webElementGuid>fcd4b2e7-a153-410a-9b7b-db2925facd09</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;For_6&quot;)/label[1]/b[1]</value>
+      <webElementGuid>0285ac1d-a63f-4ed7-8f91-84461394fe47</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='For_6']/label/b</value>
+      <webElementGuid>951a6827-20f0-4793-b327-1af07a897a07</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='[Location]'])[1]/following::b[1]</value>
+      <webElementGuid>d128edb8-bc2d-43d0-a339-b961c5a81cfd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='[Number]'])[1]/following::b[2]</value>
+      <webElementGuid>f9e97df3-b2de-41b1-93ef-b3d687510aa1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='[National ID number]'])[1]/preceding::b[1]</value>
+      <webElementGuid>3c9eedb2-9e71-434e-8f88-402f295ffa38</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='[Patron class]']/parent::*</value>
+      <webElementGuid>95c77a39-a689-44d4-b5d2-bef40853961c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[5]/label/b</value>
+      <webElementGuid>30b91ab0-8f16-4600-8702-612596522afe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//b[(text() = '[Patron class]' or . = '[Patron class]')]</value>
+      <webElementGuid>6e4f5c1d-4f0e-449e-a6e7-686334d7f8ce</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

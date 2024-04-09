@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_reset_l w</name>
+   <tag></tag>
+   <elementGuidId>ed94f91b-4a4d-4651-99d3-c742247827b4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.l.w</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='HiddenSearch']/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>b0eb936d-f3ae-42fe-ad71-0da4f1ce7045</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>l w</value>
+      <webElementGuid>400ac12b-66f1-42fc-aae0-92d27b045b00</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;HiddenSearch&quot;)/div[@class=&quot;l w&quot;]</value>
+      <webElementGuid>e3df0c3d-6612-4928-be49-664387ba691a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='HiddenSearch']/div[2]</value>
+      <webElementGuid>8b420e69-9fa0-4d5c-b4f8-aafc6c92b852</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='reset'])[1]/following::div[1]</value>
+      <webElementGuid>bbb0ec15-fd9b-4bde-8b2f-c40024b89441</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='限制條件'])[1]/following::div[2]</value>
+      <webElementGuid>0fa52af6-c8e1-43f2-bba2-23f03d5f082d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='限制條件'])[2]/preceding::div[1]</value>
+      <webElementGuid>70196b95-5008-498f-b227-2a40c3bef3ba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='指定館藏地:'])[1]/preceding::div[1]</value>
+      <webElementGuid>cec686c7-0dcc-4cd3-844f-6245dddb990d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/form/div[2]/div[2]</value>
+      <webElementGuid>33f3cfc3-1c7b-4be6-8901-f3117ae66e42</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

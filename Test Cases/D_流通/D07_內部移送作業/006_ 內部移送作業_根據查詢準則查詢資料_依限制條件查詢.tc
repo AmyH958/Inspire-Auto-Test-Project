@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>006_ 內部移送作業_根據查詢準則查詢資料_依限制條件查詢</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d41df83e-c958-40ea-809f-d8cabf380907</testCaseGuid>
+</TestCaseEntity>

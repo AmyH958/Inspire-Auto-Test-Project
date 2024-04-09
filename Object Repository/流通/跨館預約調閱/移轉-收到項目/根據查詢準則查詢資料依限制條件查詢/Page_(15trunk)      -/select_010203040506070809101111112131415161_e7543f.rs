@@ -1,0 +1,340 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_010203040506070809101111112131415161_e7543f</name>
+   <tag></tag>
+   <elementGuidId>14d9045a-ef80-46c0-b7d7-698a3ebd3bb2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='PropertySelection_1']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#PropertySelection_1</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>772d1063-5aa1-4d5c-91c6-7c3663c005c5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>PropertySelection_1</value>
+      <webElementGuid>0cde9280-4e8c-4871-8a93-ec807d022bda</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>PropertySelection_1</value>
+      <webElementGuid>16ebfd03-74dd-41ff-8be6-42de07dea755</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+
+01大學生一年級
+02大學生二年級
+03大學生三年級
+04大學生四年級
+05大學生五年級
+06大學生六年級
+07大學生七年級
+08大學生八年級
+09大學畢業生
+10延畢生
+111
+11碩士班一年級
+12碩士班二年級
+13碩士班三年級
+14碩士班四年級
+15博士班一年級
+16博士班二年級
+17博士班三年級
+18博士班四年級
+19博士班五年級
+20博士班六年級
+21博士班七年級
+22預研生
+23碩博休學生
+24專任教師
+25兼任教師
+26學校職員
+27學校研究助理
+28交換師生
+29研究計劃
+30訪問學人
+31館內使用
+32主治醫師
+33住院醫師
+34代訓醫師
+35兼任醫師
+36實習醫學生
+37行政人員
+38研究員
+39醫檢師
+40藥師
+41護理師
+42技術師
+43治療師
+44社工師
+45營養師
+46其他人員
+47醫院研究助理
+48附醫實習學生(不借書)
+49附醫實習學生(可借書)
+50推廣教育學員
+51館際合作
+52中區聯盟
+53彰雲嘉聯盟
+54附醫護生
+55校友
+56退休人員
+57尊爵會員
+58個人會員
+59員眷
+60電子資源權限(校外)
+61無權限畢業生
+62當年度畢業生
+ererrrr
+ERM同步
+ERM測試身分
+Nick
+qkwmvud
+TEST
+日間部四年制學生
+</value>
+      <webElementGuid>ef73f25c-96bf-4039-be45-49fd22e00c39</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;PropertySelection_1&quot;)</value>
+      <webElementGuid>f39b0d81-b1a9-45ba-840a-1ef94a0d9ae6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='PropertySelection_1']</value>
+      <webElementGuid>acd6df59-271b-4b28-8301-421fae5c5084</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//tr[@id='If_45']/td[2]/select</value>
+      <webElementGuid>a40b8813-4db5-42e1-9d68-8f4a456d05dc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='讀者身份類別:'])[1]/following::select[1]</value>
+      <webElementGuid>a19adc30-a22c-4159-be5f-32b5371a7a71</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='test777'])[1]/following::select[1]</value>
+      <webElementGuid>eaa32365-618d-464f-9161-ddafaa2f67a1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='館藏狀態:'])[1]/preceding::select[1]</value>
+      <webElementGuid>757d05a1-83df-40ee-ab8b-23c970faaf86</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='館藏流通類別:'])[1]/preceding::select[2]</value>
+      <webElementGuid>40ec87fc-ea26-4f14-b144-ab19bdeaf24e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[6]/td[2]/select</value>
+      <webElementGuid>f5248812-5c84-4192-b2da-04e81e2c1266</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@name = 'PropertySelection_1' and @id = 'PropertySelection_1' and (text() = '
+
+01大學生一年級
+02大學生二年級
+03大學生三年級
+04大學生四年級
+05大學生五年級
+06大學生六年級
+07大學生七年級
+08大學生八年級
+09大學畢業生
+10延畢生
+111
+11碩士班一年級
+12碩士班二年級
+13碩士班三年級
+14碩士班四年級
+15博士班一年級
+16博士班二年級
+17博士班三年級
+18博士班四年級
+19博士班五年級
+20博士班六年級
+21博士班七年級
+22預研生
+23碩博休學生
+24專任教師
+25兼任教師
+26學校職員
+27學校研究助理
+28交換師生
+29研究計劃
+30訪問學人
+31館內使用
+32主治醫師
+33住院醫師
+34代訓醫師
+35兼任醫師
+36實習醫學生
+37行政人員
+38研究員
+39醫檢師
+40藥師
+41護理師
+42技術師
+43治療師
+44社工師
+45營養師
+46其他人員
+47醫院研究助理
+48附醫實習學生(不借書)
+49附醫實習學生(可借書)
+50推廣教育學員
+51館際合作
+52中區聯盟
+53彰雲嘉聯盟
+54附醫護生
+55校友
+56退休人員
+57尊爵會員
+58個人會員
+59員眷
+60電子資源權限(校外)
+61無權限畢業生
+62當年度畢業生
+ererrrr
+ERM同步
+ERM測試身分
+Nick
+qkwmvud
+TEST
+日間部四年制學生
+' or . = '
+
+01大學生一年級
+02大學生二年級
+03大學生三年級
+04大學生四年級
+05大學生五年級
+06大學生六年級
+07大學生七年級
+08大學生八年級
+09大學畢業生
+10延畢生
+111
+11碩士班一年級
+12碩士班二年級
+13碩士班三年級
+14碩士班四年級
+15博士班一年級
+16博士班二年級
+17博士班三年級
+18博士班四年級
+19博士班五年級
+20博士班六年級
+21博士班七年級
+22預研生
+23碩博休學生
+24專任教師
+25兼任教師
+26學校職員
+27學校研究助理
+28交換師生
+29研究計劃
+30訪問學人
+31館內使用
+32主治醫師
+33住院醫師
+34代訓醫師
+35兼任醫師
+36實習醫學生
+37行政人員
+38研究員
+39醫檢師
+40藥師
+41護理師
+42技術師
+43治療師
+44社工師
+45營養師
+46其他人員
+47醫院研究助理
+48附醫實習學生(不借書)
+49附醫實習學生(可借書)
+50推廣教育學員
+51館際合作
+52中區聯盟
+53彰雲嘉聯盟
+54附醫護生
+55校友
+56退休人員
+57尊爵會員
+58個人會員
+59員眷
+60電子資源權限(校外)
+61無權限畢業生
+62當年度畢業生
+ererrrr
+ERM同步
+ERM測試身分
+Nick
+qkwmvud
+TEST
+日間部四年制學生
+')]</value>
+      <webElementGuid>922a4593-9d17-4f33-bd57-620ebf62d5f0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

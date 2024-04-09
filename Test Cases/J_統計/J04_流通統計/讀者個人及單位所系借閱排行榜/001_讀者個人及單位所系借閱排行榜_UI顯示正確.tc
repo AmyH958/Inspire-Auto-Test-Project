@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>001_讀者個人及單位所系借閱排行榜_UI顯示正確</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>09433c07-640e-4209-9423-76e583522ca3</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_</name>
+   <tag></tag>
+   <elementGuidId>71a8245e-4418-4b11-bfcd-c0825f1b3cb3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='weekDayForm']/table/tbody/tr/td</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>td.table1_left</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>9ef43da1-413b-4e3c-9e14-133c478471c6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>table1_left</value>
+      <webElementGuid>a1748d1c-65ed-4638-a1b5-4c4ceedddf9a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+				開放時間: </value>
+      <webElementGuid>7e657e39-86fd-4b84-9ae4-86e5f120ddfa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;weekDayForm&quot;)/table[@class=&quot;table1&quot;]/tbody[1]/tr[1]/td[@class=&quot;table1_left&quot;]</value>
+      <webElementGuid>e7c8e120-822d-4879-bdb3-4ab50966485c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='weekDayForm']/table/tbody/tr/td</value>
+      <webElementGuid>5f1008fc-e720-430a-ad1f-e3b1aab6c34b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='星期天'])[1]/following::td[1]</value>
+      <webElementGuid>8e15751a-584c-401c-8bfd-c0074d520bbc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='星期六'])[1]/following::td[1]</value>
+      <webElementGuid>8bd1e859-4bb6-4c6b-8ff7-16348cda81bb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='小時'])[1]/preceding::td[2]</value>
+      <webElementGuid>c0808d2e-1e3c-4970-b72f-c41026d399ec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='分鐘'])[1]/preceding::td[3]</value>
+      <webElementGuid>936650f0-f34f-4f04-be50-9777eef59ff6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='開放時間:']/parent::*</value>
+      <webElementGuid>41d8af90-9b02-497e-b3aa-8fcea295ee15</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/table/tbody/tr/td</value>
+      <webElementGuid>ec3bf191-051b-4195-88e7-37aa44f62b2a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = '
+				開放時間: ' or . = '
+				開放時間: ')]</value>
+      <webElementGuid>2ca6035f-3522-4857-8895-dcb9ea84b7dc</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

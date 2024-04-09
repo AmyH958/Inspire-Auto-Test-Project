@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>002_流通人數統計(學制分頁 符合科系)_正常查詢</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>9f8a3733-9858-410b-acb0-10675c65755a</testCaseGuid>
+</TestCaseEntity>

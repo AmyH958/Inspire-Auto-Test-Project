@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_01234567891011121314151617181920212223_1</name>
+   <tag></tag>
+   <elementGuidId>b7d87a51-4b3c-4006-8061-0a59aebdca7b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='groupCount']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#groupCount</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>60d352c5-140c-4d32-86aa-a5c3a82c7c6f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>groupCount</value>
+      <webElementGuid>39ca3249-7d85-46d5-9761-ef300c0aec73</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>groupCount</value>
+      <webElementGuid>f00bd10c-d5e7-49a9-8cc5-1ee44b9c15f6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+</value>
+      <webElementGuid>4b7a477c-eea5-482f-9ae2-a886e107806d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;groupCount&quot;)</value>
+      <webElementGuid>66750625-2bbd-45d1-905d-c12e9b48fb4e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='groupCount']</value>
+      <webElementGuid>5f56386c-6427-485e-8543-7e156ac894d7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='LbaleParameterFrom']/table/tbody/tr[13]/td[4]/select</value>
+      <webElementGuid>7b53697f-eac8-4b60-b1a5-569e9e4ab5c5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='列數:'])[1]/following::select[1]</value>
+      <webElementGuid>ee61f21d-74aa-4cbe-b6cd-cab2a74a6445</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='字型水平位置:'])[1]/following::select[2]</value>
+      <webElementGuid>2993e6dc-cfa1-4f8a-ad2e-a6368a19aa62</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='書標欄位'])[1]/preceding::select[1]</value>
+      <webElementGuid>85479c29-800d-483a-9793-3dbaf02dbe29</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='不印欄位'])[1]/preceding::select[1]</value>
+      <webElementGuid>54b3480c-2606-4a79-96d5-060aa0327c98</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[13]/td[4]/select</value>
+      <webElementGuid>6922e829-bcd8-40c7-9d59-251cb48665a0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@name = 'groupCount' and @id = 'groupCount' and (text() = '
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+' or . = '
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+')]</value>
+      <webElementGuid>7ad55146-6e2f-424c-b861-13ffea57b792</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

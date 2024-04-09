@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_Start date time</name>
+   <tag></tag>
+   <elementGuidId>49507f1b-11e9-45e7-828d-f1870c41c184</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//td[@id='xToolbar']/table[13]/tbody/tr/td[3]/div/table/tbody/tr/td[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.TB_Button_On_Over > table > tbody > tr > td.TB_Button_Text</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>70b43a56-edac-4eb8-963e-66b48c42388e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>TB_Button_Text</value>
+      <webElementGuid>bb950c05-3424-4f6f-9951-60319efa98f0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Start date time</value>
+      <webElementGuid>5c9f44ba-8f19-441b-8145-b5450b697370</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;xToolbar&quot;)/table[@class=&quot;TB_Toolbar&quot;]/tbody[1]/tr[1]/td[3]/div[@class=&quot;TB_Button_On_Over&quot;]/table[1]/tbody[1]/tr[1]/td[@class=&quot;TB_Button_Text&quot;]</value>
+      <webElementGuid>1911c5b8-4fdc-4910-a9ca-4492b2a57a18</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/管理/流通/流通通知單範本/新增流通通知範本/iframe__RichTextArea___Frame</value>
+      <webElementGuid>d07637fa-f24a-41e8-b185-51282c8d58f6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//td[@id='xToolbar']/table[13]/tbody/tr/td[3]/div/table/tbody/tr/td[2]</value>
+      <webElementGuid>23f266cf-c875-499f-a773-4cb62b778e71</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Start date'])[1]/following::td[4]</value>
+      <webElementGuid>6f283a12-386a-4164-9d50-921757176d3c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Item destination location'])[1]/following::td[10]</value>
+      <webElementGuid>88785f1f-45a2-4b12-b191-2655a6adcaa7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='End date'])[1]/preceding::td[3]</value>
+      <webElementGuid>0e4ac5dd-8528-4791-99cf-ee2aab49ccfd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Close date'])[1]/preceding::td[7]</value>
+      <webElementGuid>d87a733d-c503-4bc5-8a22-9fc33692401d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Start date time']/parent::*</value>
+      <webElementGuid>2a830af8-3dcc-4022-b467-f2383ae7d62e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//table[13]/tbody/tr/td[3]/div/table/tbody/tr/td[2]</value>
+      <webElementGuid>ce735d74-ab42-4781-b6ca-b00875fa6221</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = 'Start date time' or . = 'Start date time')]</value>
+      <webElementGuid>8091eb41-c412-4924-8862-7ab349643d35</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

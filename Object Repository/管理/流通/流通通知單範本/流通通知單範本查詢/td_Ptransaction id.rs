@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_Ptransaction id</name>
+   <tag></tag>
+   <elementGuidId>ae6ed595-8522-4265-a3ff-d71d0ad28f5c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//td[@id='xToolbar']/table[15]/tbody/tr/td[4]/div/table/tbody/tr/td[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.TB_Button_On_Over > table > tbody > tr > td.TB_Button_Text</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>c2aa693c-3569-4c3b-ae18-9df3468aaf23</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>TB_Button_Text</value>
+      <webElementGuid>7f975b31-ac48-4bb3-8cdc-65c97338e2dd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Ptransaction id</value>
+      <webElementGuid>5644701f-fa82-4e82-9b2a-71240d95f663</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;xToolbar&quot;)/table[@class=&quot;TB_Toolbar&quot;]/tbody[1]/tr[1]/td[4]/div[@class=&quot;TB_Button_On_Over&quot;]/table[1]/tbody[1]/tr[1]/td[@class=&quot;TB_Button_Text&quot;]</value>
+      <webElementGuid>a2a2f3e3-f800-478b-8b30-93cddf41c26a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/管理/流通/流通通知單範本/新增流通通知範本/iframe__RichTextArea___Frame</value>
+      <webElementGuid>68154822-65a2-4076-ae38-981ddbc76f9d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//td[@id='xToolbar']/table[15]/tbody/tr/td[4]/div/table/tbody/tr/td[2]</value>
+      <webElementGuid>0718b433-c63b-4ed8-a64d-ba1e33678dcd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='End repeat area'])[1]/following::td[4]</value>
+      <webElementGuid>e8485957-c30b-40c6-9efe-f6076492194b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Start repeat area'])[1]/following::td[8]</value>
+      <webElementGuid>2f9fc57a-79b9-4208-af42-18c5fbc81420</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Penalty Type'])[1]/preceding::td[3]</value>
+      <webElementGuid>1ca5c309-fcca-4ff3-8b2f-7be6aa901643</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Penalty Amount'])[1]/preceding::td[7]</value>
+      <webElementGuid>af1dc2f9-2d8d-47b0-9b2e-bdbd084a6022</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Ptransaction id']/parent::*</value>
+      <webElementGuid>39c1fe45-41e4-43dd-8ea6-8455b27278e5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//table[15]/tbody/tr/td[4]/div/table/tbody/tr/td[2]</value>
+      <webElementGuid>f1df49a9-6652-4398-a366-f6d1c123614c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = 'Ptransaction id' or . = 'Ptransaction id')]</value>
+      <webElementGuid>b4e0a217-57fc-4190-8840-0f8ebe5b08f1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

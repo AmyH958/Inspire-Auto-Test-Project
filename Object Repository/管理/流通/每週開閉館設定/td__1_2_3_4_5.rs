@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td__1_2_3_4_5</name>
+   <tag></tag>
+   <elementGuidId>e7fc219f-0ffb-46ac-817d-71f33335d564</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='weekDayForm']/table/tbody/tr[4]/td</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>92b72031-14da-4845-87d1-8e5bed58ac70</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>table1_left</value>
+      <webElementGuid>a090c7e9-136f-4225-b15c-22dbb280801c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+				註記: </value>
+      <webElementGuid>fe7186cc-7f30-4d23-b659-37eef4459037</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;weekDayForm&quot;)/table[@class=&quot;table1&quot;]/tbody[1]/tr[4]/td[@class=&quot;table1_left&quot;]</value>
+      <webElementGuid>5a518008-3347-434d-b69f-41c3ac742f7a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='weekDayForm']/table/tbody/tr[4]/td</value>
+      <webElementGuid>528d0bff-efbc-4000-95a5-d92c797defda</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='已結束:'])[1]/following::td[2]</value>
+      <webElementGuid>cb4a15ba-5b24-4cd8-9900-587477ed3360</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='修改/存檔'])[1]/preceding::td[2]</value>
+      <webElementGuid>10561164-9829-4059-9f44-db1a1911a6d4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='刪除'])[1]/preceding::td[2]</value>
+      <webElementGuid>efeaf132-a225-4c18-b176-7f4a0248e6b8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='註記:']/parent::*</value>
+      <webElementGuid>d8bc6e2d-2997-4c01-9c2e-213f7f36051e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[4]/td</value>
+      <webElementGuid>40347428-913c-42d3-b113-18bff644c9c2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = '
+				註記: ' or . = '
+				註記: ')]</value>
+      <webElementGuid>8979bc53-54c4-4acc-817e-81d880130df1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>查詢後確認搜尋結果符合查詢條件</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ede79a13-f10c-42ac-861d-3e8237127528</testCaseGuid>
+</TestCaseEntity>

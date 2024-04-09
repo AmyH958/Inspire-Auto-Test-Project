@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>003_圖書冊數金額分類統計_報表狀態</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3e81caad-2e08-4715-ba6d-19e18aefaaa0</testCaseGuid>
+</TestCaseEntity>

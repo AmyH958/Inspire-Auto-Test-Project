@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_PDFHTMLRTFCSV</name>
+   <tag></tag>
+   <elementGuidId>83a0e4a2-ec7f-484d-b80c-b216eb19af97</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#reportOutput_0</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='reportOutput_0']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>a68aa43c-c852-4c57-b011-a65005e5db1a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>reportOutput_0</value>
+      <webElementGuid>95a71ce5-1da2-4cb0-87fc-c4bce430eb1e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>reportOutput_0</value>
+      <webElementGuid>89bf87e4-30f4-42e1-b712-66778a27435a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+PDF
+HTML
+RTF
+CSV
+</value>
+      <webElementGuid>95ff3fc0-74d7-4f9b-b94d-b77e273627b9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;reportOutput_0&quot;)</value>
+      <webElementGuid>ff2721bb-e282-4598-8ff2-240a2c98f389</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='reportOutput_0']</value>
+      <webElementGuid>6c530e8b-8f2c-47c0-9aa0-383ffe6533f3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='LbaleParameterFrom']/table/tbody/tr[3]/td[2]/select</value>
+      <webElementGuid>9bedc3a0-09cd-48b3-8c5d-220a3093196a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='輸出格式:'])[1]/following::select[1]</value>
+      <webElementGuid>3f4118fb-78fb-41e8-9b1a-e797144b221c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='自訂圖書館名稱:'])[2]/following::select[1]</value>
+      <webElementGuid>fe565949-109e-4c69-9e54-0658eefbe916</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='字型:'])[1]/preceding::select[1]</value>
+      <webElementGuid>0c7e39a3-f7f3-4c89-b223-cd36f2c78c7d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='紙張大小:'])[1]/preceding::select[2]</value>
+      <webElementGuid>bd5b0b4f-c763-45a0-8754-23f185370522</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[3]/td[2]/select</value>
+      <webElementGuid>12e27b70-b38f-4f05-99de-2490c1b2221d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@name = 'reportOutput_0' and @id = 'reportOutput_0' and (text() = '
+PDF
+HTML
+RTF
+CSV
+' or . = '
+PDF
+HTML
+RTF
+CSV
+')]</value>
+      <webElementGuid>f391e36a-aafb-4eb4-89cd-c468b7191ee6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

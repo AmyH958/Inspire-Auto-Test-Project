@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>b__1_2_3_4_5_6</name>
+   <tag></tag>
+   <elementGuidId>0682d8db-7b5f-47ed-b13f-a570afb871b3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='viewPatronDetailsComponent']/tbody/tr/td[3]/table/tbody/tr[4]/td/b</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>tr:nth-of-type(4) > td.table4_left > b</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>b</value>
+      <webElementGuid>0313968a-6dac-49b3-9d75-4e9131929f98</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>逾期停權天數:</value>
+      <webElementGuid>67168151-c187-4639-a6d6-a8ee625ec5fa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;viewPatronDetailsComponent&quot;)/tbody[1]/tr[1]/td[3]/table[@class=&quot;table4&quot;]/tbody[1]/tr[4]/td[@class=&quot;table4_left&quot;]/b[1]</value>
+      <webElementGuid>bfe8160d-3080-4e47-a7f5-c4c1d8d61992</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='viewPatronDetailsComponent']/tbody/tr/td[3]/table/tbody/tr[4]/td/b</value>
+      <webElementGuid>6089509b-076c-423d-a2e3-115ee5417d7c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='設備罰款金額:'])[1]/following::b[1]</value>
+      <webElementGuid>b624e1e3-9ab3-4528-be4a-313c2039e5b2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='預約未取:'])[1]/following::b[2]</value>
+      <webElementGuid>5c0d0819-f54e-4144-9464-3b03dc4cd202</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='執行'])[1]/preceding::b[1]</value>
+      <webElementGuid>37e83f4d-0b8d-4ce3-8443-ab18219f5ccc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='罰款'])[1]/preceding::b[1]</value>
+      <webElementGuid>4b40549a-923f-4ed1-84de-8bdc23dc5444</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='逾期停權天數:']/parent::*</value>
+      <webElementGuid>0934ef5c-a285-48e1-955d-652591eca02a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[4]/td/b</value>
+      <webElementGuid>a5285e11-dce4-4e27-9429-adbbda12969d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//b[(text() = '逾期停權天數:' or . = '逾期停權天數:')]</value>
+      <webElementGuid>f078855b-3e92-40ea-a20a-c7c611dc6b78</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

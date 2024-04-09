@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_01</name>
+   <tag></tag>
+   <elementGuidId>0f8f1da5-acac-4ac0-a462-172d543760dd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//tr[@id='For_8']/td[8]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#For_8 > td:nth-of-type(8)</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>d7e4ecf6-9b58-442c-98ec-88138583cfcc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+		    01大學生一年級
+		  </value>
+      <webElementGuid>d362ccdc-729d-4c33-8974-a874d41156d5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;For_8&quot;)/td[8]</value>
+      <webElementGuid>1b940890-1eb8-4fee-b69e-933be9d49ae1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//tr[@id='For_8']/td[8]</value>
+      <webElementGuid>5af79c22-e63f-47d2-a4fb-168faee95847</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='M20190527113'])[1]/following::td[1]</value>
+      <webElementGuid>c37efb18-e365-48a2-b35b-cccf4f27f16f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='發卡狀況'])[1]/following::td[9]</value>
+      <webElementGuid>44f8a4de-16e8-41f8-b6ba-cc752e1c5fec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='有效讀者'])[2]/preceding::td[2]</value>
+      <webElementGuid>f4366951-832a-4bba-ad8e-d743eaa1e0bf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='一般'])[2]/preceding::td[3]</value>
+      <webElementGuid>97fa6fbe-6a55-4118-880f-1113cc5b8099</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[2]/td[8]</value>
+      <webElementGuid>d9f38710-4495-41e6-873e-f64ca5fd281f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = '
+		    01大學生一年級
+		  ' or . = '
+		    01大學生一年級
+		  ')]</value>
+      <webElementGuid>84d4d6de-e29e-461e-bf4b-bf256acb7eb7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

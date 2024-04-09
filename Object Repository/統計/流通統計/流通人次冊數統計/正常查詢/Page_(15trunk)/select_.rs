@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_</name>
+   <tag></tag>
+   <elementGuidId>d2d2b80c-88b3-4a8e-812f-27c34edb4e2e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#row</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='row']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>41d591aa-019d-40f7-ae88-3333656b27d7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>row</value>
+      <webElementGuid>330dbfc1-485f-4c21-9fc9-72aaa90f24f1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>row</value>
+      <webElementGuid>55dd587d-f7b1-4ec7-a729-faff833c46f0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+分類號
+資料類型
+讀者身分
+讀者單位
+語文類別
+</value>
+      <webElementGuid>ba502f0b-20f2-40d5-b2e7-73117ca8b53e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;row&quot;)</value>
+      <webElementGuid>a92ab750-0706-4b81-8ce0-79ceae36b0f2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='row']</value>
+      <webElementGuid>23fe14c9-580b-41d3-983b-0bd9eb78ff44</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='rowselect']/select</value>
+      <webElementGuid>ef5e4d47-86dd-4b9c-bd5a-348863f91f91</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='列'])[1]/following::select[1]</value>
+      <webElementGuid>5d000835-f04a-4a66-b2d3-e6328c9e317f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='結束日期'])[1]/following::select[1]</value>
+      <webElementGuid>68aadcc2-5c95-40ca-ac4f-9b22ce118413</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='分類法'])[1]/preceding::select[1]</value>
+      <webElementGuid>e72bb0c6-2c3b-4e55-8f36-7da79c583ad0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='館藏流通類別'])[1]/preceding::select[2]</value>
+      <webElementGuid>c5a5c40e-f140-4d13-83b9-afaf00c3d35e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/select</value>
+      <webElementGuid>09a43bb3-2324-4060-9094-b6ed6d9707ac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@name = 'row' and @id = 'row' and (text() = '
+分類號
+資料類型
+讀者身分
+讀者單位
+語文類別
+' or . = '
+分類號
+資料類型
+讀者身分
+讀者單位
+語文類別
+')]</value>
+      <webElementGuid>892dc4fb-3312-4c2c-a254-4956fcbbd359</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

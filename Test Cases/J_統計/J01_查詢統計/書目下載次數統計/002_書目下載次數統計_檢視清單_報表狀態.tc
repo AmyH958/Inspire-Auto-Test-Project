@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>002_書目下載次數統計_檢視清單_報表狀態</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>cac9ac4c-97f8-4b4b-b1be-09998acf3868</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h3_</name>
+   <tag></tag>
+   <elementGuidId>435508aa-8fb1-462f-86da-216a30fe3ceb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>h3</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='HiddenSearch']/div/div/h3</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h3</value>
+      <webElementGuid>d8529b35-c3ad-430d-994b-0f0fa0f88df2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>查詢條件</value>
+      <webElementGuid>d4f94fd7-ec32-4df8-b14f-1d5a25f6eff5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;HiddenSearch&quot;)/div[@class=&quot;search l&quot;]/div[@class=&quot;search_a l&quot;]/h3[1]</value>
+      <webElementGuid>59f12524-caeb-40ac-8c5f-8a3571764eac</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='HiddenSearch']/div/div/h3</value>
+      <webElementGuid>2078fcab-9e2b-40c3-8ceb-35617e242dbf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='上傳Excel'])[1]/following::h3[1]</value>
+      <webElementGuid>198e1734-11c5-4405-9b49-e90c569682d2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='下載Excel'])[1]/following::h3[1]</value>
+      <webElementGuid>c6684593-cb8a-4968-b228-45cbc2ef2882</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='李一宇'])[1]/preceding::h3[1]</value>
+      <webElementGuid>45c96df9-f54b-4720-8f62-0fd74134cdd0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='李一宏'])[1]/preceding::h3[1]</value>
+      <webElementGuid>d05fa2c8-f28c-4d65-9d7c-566845ca9a2d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='查詢條件']/parent::*</value>
+      <webElementGuid>128884f6-8ab4-4407-8982-51d8cb8b1105</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h3</value>
+      <webElementGuid>e51fd310-4734-44bb-8a47-9286cbf560c1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h3[(text() = '查詢條件' or . = '查詢條件')]</value>
+      <webElementGuid>e56e8fee-f16f-4e98-9491-35ba199a55ab</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

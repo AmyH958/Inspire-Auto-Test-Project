@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_ISBNISSN</name>
+   <tag></tag>
+   <elementGuidId>780afb4b-6e18-4ac1-be21-7f836a6e7214</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='sCriteria2']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#sCriteria2</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>e4db0683-dc1b-42d4-8618-ce30e19173aa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>sCriteria2</value>
+      <webElementGuid>6ed895c3-2105-4b25-956d-7b055dafda16</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>sCriteria2</value>
+      <webElementGuid>ff56a253-3333-4a88-961a-d3ff6dbf4635</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+條碼號
+書名
+作者
+索書號
+正題名
+集叢名
+主題
+出版者/書商/捐贈者
+出版年
+出版地
+ISBN/ISSN
+系統識別號
+分類號
+新增日期
+館藏異動日期
+館藏登收日期
+館員註記
+流通註記
+採購註記
+期刊註記
+官書編號
+叢刊代碼
+價格
+</value>
+      <webElementGuid>bbfcf0e3-2888-4966-a62e-98e11720f773</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;sCriteria2&quot;)</value>
+      <webElementGuid>acb46efe-47fc-404d-89cc-cdb4b80a3e90</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='sCriteria2']</value>
+      <webElementGuid>5a88e7be-56d8-4473-8cce-6a67431167fb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//p[@id='If_15']/select[2]</value>
+      <webElementGuid>4edebeac-1da5-4872-9de3-daa2dc156dc2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='查詢條件'])[1]/following::select[4]</value>
+      <webElementGuid>d84beeec-88c8-4818-a512-a8b259d7e9e2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='限制條件'])[1]/preceding::select[8]</value>
+      <webElementGuid>02a543f9-0266-44c1-8a7c-52e11a26c31e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='瀏覽條件:'])[1]/preceding::select[8]</value>
+      <webElementGuid>2c8fa38b-2e95-4927-bf32-219675052cd0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//select[2]</value>
+      <webElementGuid>7492a07b-6f2d-40ae-91a6-776b0a0d1014</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@name = 'sCriteria2' and @id = 'sCriteria2' and (text() = '
+條碼號
+書名
+作者
+索書號
+正題名
+集叢名
+主題
+出版者/書商/捐贈者
+出版年
+出版地
+ISBN/ISSN
+系統識別號
+分類號
+新增日期
+館藏異動日期
+館藏登收日期
+館員註記
+流通註記
+採購註記
+期刊註記
+官書編號
+叢刊代碼
+價格
+' or . = '
+條碼號
+書名
+作者
+索書號
+正題名
+集叢名
+主題
+出版者/書商/捐贈者
+出版年
+出版地
+ISBN/ISSN
+系統識別號
+分類號
+新增日期
+館藏異動日期
+館藏登收日期
+館員註記
+流通註記
+採購註記
+期刊註記
+官書編號
+叢刊代碼
+價格
+')]</value>
+      <webElementGuid>683ac039-62ca-4c3b-bdfa-3bcf27353c64</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

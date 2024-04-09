@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>002_預約審核_檢視清單資料_UI介面顯示正確</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4c3cf4c6-de4d-466c-9d48-df64ea4ae891</testCaseGuid>
+</TestCaseEntity>

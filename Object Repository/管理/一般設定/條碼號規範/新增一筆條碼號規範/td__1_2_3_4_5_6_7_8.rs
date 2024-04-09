@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td__1_2_3_4_5_6_7_8</name>
+   <tag></tag>
+   <elementGuidId>a797bee8-3b82-463e-b48a-da0277eaeabc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>tr.search_list_t > td:nth-of-type(2)</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='RuleList']/table/tbody/tr/td[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>52dee3b1-cf3e-42d1-9113-2cdf8da7f066</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>規則:</value>
+      <webElementGuid>db370a1c-492a-46e2-ad2e-f7150a48dd6e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;RuleList&quot;)/table[@class=&quot;search_list&quot;]/tbody[1]/tr[@class=&quot;search_list_t&quot;]/td[2]</value>
+      <webElementGuid>7956bc38-ddec-4617-8a08-74746cb54c31</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='RuleList']/table/tbody/tr/td[2]</value>
+      <webElementGuid>8ff82a6d-67cd-4e65-b341-c8fc3ba9f22e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='館藏地篩選:'])[1]/following::td[2]</value>
+      <webElementGuid>b6eaefe4-5bdd-4503-9f2a-acfc1f642d20</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='條碼號類別篩選:'])[1]/following::td[3]</value>
+      <webElementGuid>d93d1d91-69e1-43ff-b22c-e4a01d8013bb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='館藏地:'])[1]/preceding::td[1]</value>
+      <webElementGuid>b4b6dc43-a455-42ac-8d98-7d4898c33396</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='條碼號類別:'])[1]/preceding::td[2]</value>
+      <webElementGuid>8b9f8f9e-d6ce-4dfa-8fe7-0aadd3989253</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='規則:']/parent::*</value>
+      <webElementGuid>ae5b8858-a5e1-4d84-9c99-f45a2e0d9175</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/table/tbody/tr/td[2]</value>
+      <webElementGuid>216f48df-2a02-410a-910a-9177896eb9e0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = '規則:' or . = '規則:')]</value>
+      <webElementGuid>01575f87-ebac-419a-a57c-e971210c729a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

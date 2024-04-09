@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>001_條碼號空號清單_產生報表</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e70c9573-52f3-40e4-8b8e-002af8f9cdb5</testCaseGuid>
+</TestCaseEntity>

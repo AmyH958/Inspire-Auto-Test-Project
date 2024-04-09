@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>翻譯- 1. 依交易類型查詢
+翻譯- 2. 綜合條件查詢</description>
+   <name>檢視翻譯清單資料</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>45d46174-7cc4-4e3d-bd13-408786955939</testCaseGuid>
+</TestCaseEntity>

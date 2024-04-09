@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_</name>
+   <tag></tag>
+   <elementGuidId>894c00bd-0401-4ebd-ae9d-1512ad22e63d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='TinreadErrorDialog_content']/div/p</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#TinreadErrorDialog_content > div > p</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>af9e2084-1292-4525-9382-a588c0043454</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>帳號密碼錯誤</value>
+      <webElementGuid>6ad15de6-7559-4229-9542-88fd370bcccf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;TinreadErrorDialog_content&quot;)/div[1]/p[1]</value>
+      <webElementGuid>65c1c7f2-dd54-471f-966b-fd67d3050cdb</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='TinreadErrorDialog_content']/div/p</value>
+      <webElementGuid>b851bf74-1d62-4ff7-ad30-c0f393a0aec8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='警告'])[1]/following::p[1]</value>
+      <webElementGuid>4c013bae-07cf-474e-97a2-eb1f0d8d87b5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='© 2016 艾迪訊科技股份有限公司 版權所有'])[1]/following::p[1]</value>
+      <webElementGuid>fada6ed6-0c5e-48d3-8251-93905aad3e6c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='確定'])[1]/preceding::p[1]</value>
+      <webElementGuid>f35e528d-3205-4b8d-822f-cd9c8ab39309</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='變更密碼'])[1]/preceding::p[1]</value>
+      <webElementGuid>3eff7a7d-aeb7-4ec3-a132-020391ac6dba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='帳號密碼錯誤']/parent::*</value>
+      <webElementGuid>718095a6-3c28-4c73-9219-9d301815e765</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td/div/div/p</value>
+      <webElementGuid>4511ade7-c2bc-4c71-b718-ca34f594ef02</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = '帳號密碼錯誤' or . = '帳號密碼錯誤')]</value>
+      <webElementGuid>2ee442a5-f91b-42a8-bd5d-42c9d07868f3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

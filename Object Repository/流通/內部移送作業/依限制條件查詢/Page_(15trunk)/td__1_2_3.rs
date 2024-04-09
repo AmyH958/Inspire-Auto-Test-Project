@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td__1_2_3</name>
+   <tag></tag>
+   <elementGuidId>6922f2a2-85b0-4e18-9cd1-31b79e52f16d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//tr[@id='If_33']/td[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#If_33 > td:nth-of-type(2)</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>3f9ded57-baf2-429e-a0b7-238d04a833f4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+全系統記錄
+圖書
+期刊
+分析款目
+合集
+</value>
+      <webElementGuid>e1693995-36a7-4269-b2d8-9018eeb2443f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;If_33&quot;)/td[2]</value>
+      <webElementGuid>c907caa2-c256-4ef4-90eb-489ca5ac3f5b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//tr[@id='If_33']/td[2]</value>
+      <webElementGuid>89c1bf4e-b2c1-444f-87f7-870b876bd191</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='書目性質:'])[1]/following::td[1]</value>
+      <webElementGuid>b9439782-a93a-4581-a5f6-7d42b08f3fb4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='限制條件'])[2]/following::td[3]</value>
+      <webElementGuid>250582c4-81b3-4596-8696-d598ac63fcbe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='資料類型:'])[1]/preceding::td[1]</value>
+      <webElementGuid>0a85a612-df7c-446d-97b2-ea3a9db7c983</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='館藏地:'])[1]/preceding::td[3]</value>
+      <webElementGuid>0ff76033-d88a-429b-9fc2-80e50272dead</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[2]/td[2]</value>
+      <webElementGuid>8005d3f3-196e-4a78-a323-7e7d6f37838a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = '
+全系統記錄
+圖書
+期刊
+分析款目
+合集
+' or . = '
+全系統記錄
+圖書
+期刊
+分析款目
+合集
+')]</value>
+      <webElementGuid>59b99b54-9e1e-4a97-b71c-4326b3880b55</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

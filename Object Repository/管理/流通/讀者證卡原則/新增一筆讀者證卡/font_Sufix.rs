@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>font_Sufix</name>
+   <tag></tag>
+   <elementGuidId>f4249b4e-0cb3-4162-bff2-f64e5c268f81</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='2']/font</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#2 > font</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>font</value>
+      <webElementGuid>5a464a5a-8489-42e9-8061-27d1f21e1093</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>size</name>
+      <type>Main</type>
+      <value>4px</value>
+      <webElementGuid>d551cc90-59ff-4ed1-a8ed-e73172b58771</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>[Sufix]</value>
+      <webElementGuid>dc51c9bc-a767-411a-ac10-ac8537b3c519</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;2&quot;)/font[1]</value>
+      <webElementGuid>68ecaef4-162b-40e4-9783-8f8eaaa245d0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='2']/font</value>
+      <webElementGuid>6ede7a19-d90d-4663-993d-b0b7f05305e3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='[Prefix]'])[2]/following::font[1]</value>
+      <webElementGuid>be5eba04-4db4-49e0-99d8-d453a83cec27</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='(拖曳部份)'])[1]/following::font[2]</value>
+      <webElementGuid>96fa68a8-e0ac-46de-8b44-edd1b4989b11</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='[Number]'])[2]/preceding::font[1]</value>
+      <webElementGuid>b0c5ffd4-9d88-4310-8435-2fbf5644d933</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='[Location]'])[2]/preceding::font[2]</value>
+      <webElementGuid>556cd746-aab5-45af-80d7-21d95321a08a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/font</value>
+      <webElementGuid>1c09a444-c11a-4206-837d-7473384100a2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//font[(text() = '[Sufix]' or . = '[Sufix]')]</value>
+      <webElementGuid>19fe1552-4526-4f7c-8c96-2af8d7fe2428</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

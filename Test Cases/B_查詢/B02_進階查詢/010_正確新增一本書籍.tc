@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. 查詢 > 進階查詢 &#xd;
+2. 點選&quot;新增&quot; &#xd;
+3. 在新視窗點選&quot;確定&quot;&#xd;
+4. 跳至&quot;書目&quot;頁籤,必要欄位輸入&#xd;
+5. 點選&quot;修改/存檔&quot;&#xd;
+6. 查看結果</description>
+   <name>010_正確新增一本書籍</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>8f6f7e3f-dbaf-447b-858f-c40e98f034cb</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>f67da21f-7352-449d-b96e-bdab22c12822</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'測試書籍_20240222005'</defaultValue>
+      <description></description>
+      <id>f67da21f-7352-449d-b96e-bdab22c12822</id>
+      <masked>false</masked>
+      <name>CreateNewBook</name>
+   </variable>
+</TestCaseEntity>

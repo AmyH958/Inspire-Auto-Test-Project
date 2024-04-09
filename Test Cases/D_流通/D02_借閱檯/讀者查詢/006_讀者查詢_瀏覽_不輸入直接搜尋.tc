@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>006_讀者查詢_瀏覽_不輸入直接搜尋</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>efad7bea-a45b-41e0-8089-bfd9c5e0ff4e</testCaseGuid>
+</TestCaseEntity>

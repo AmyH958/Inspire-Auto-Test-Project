@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_(NR)</name>
+   <tag></tag>
+   <elementGuidId>d0164091-e549-49c8-bb40-c102d24434a4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#content-button</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='content-button']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>02a58051-0d80-4cce-a69d-ab9938205d32</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>content-button</value>
+      <webElementGuid>ebaabdf3-a51c-4b51-a754-177ec2b2dfa4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>align</name>
+      <type>Main</type>
+      <value>center</value>
+      <webElementGuid>d0cf5115-b58c-41c9-b65a-760ac1538cba</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+	        	請填寫必備欄位: 正題名(NR)
+	        </value>
+      <webElementGuid>7127749b-52a7-49e6-8dfe-a70c37cd80ed</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;content-button&quot;)</value>
+      <webElementGuid>1ff8f849-337d-4408-9078-d7b9b7233779</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='content-button']</value>
+      <webElementGuid>490a5c51-4443-4bfb-b98d-e35529a2c157</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='TinreadMessageDialog_content']/div</value>
+      <webElementGuid>4511e264-5a7a-4217-91cf-a2264713f4f8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='警告'])[1]/following::div[2]</value>
+      <webElementGuid>8b7d58eb-ce50-4c13-ac38-bb4a93fe90e9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='確定'])[1]/preceding::div[1]</value>
+      <webElementGuid>1af6180d-0a55-4c66-9033-26a807c00d7d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='請填寫必備欄位: 正題名(NR)']/parent::*</value>
+      <webElementGuid>ccaa75c1-2697-4792-9aef-baaf92ad2dfd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/table/tbody/tr[2]/td/div/div</value>
+      <webElementGuid>66d3c4d6-0c4c-47e4-8c99-ef0036557cf6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'content-button' and (text() = '
+	        	請填寫必備欄位: 正題名(NR)
+	        ' or . = '
+	        	請填寫必備欄位: 正題名(NR)
+	        ')]</value>
+      <webElementGuid>fa80484f-a03a-41d8-a69e-7eaaa3a998b4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

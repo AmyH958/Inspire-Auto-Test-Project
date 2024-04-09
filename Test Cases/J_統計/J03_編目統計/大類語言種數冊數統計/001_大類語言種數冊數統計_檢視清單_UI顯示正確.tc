@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>001_大類語言種數冊數統計_檢視清單_UI顯示正確</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3899e51e-02b4-4d9f-b781-13b6049174e2</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>002_讀者類型借閱暨歸還流通量統計報表_正常查詢</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f018d08e-358a-45ea-a010-0e35d5567db3</testCaseGuid>
+</TestCaseEntity>

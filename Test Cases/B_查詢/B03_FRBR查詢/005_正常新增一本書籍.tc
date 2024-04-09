@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>005_正常新增一本書籍</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>9d088583-4923-4610-87ad-b63718fe3035</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>00515b1c-fde9-4593-ba03-533c23af5a21</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'測試書籍_20240222_a003'</defaultValue>
+      <description></description>
+      <id>00515b1c-fde9-4593-ba03-533c23af5a21</id>
+      <masked>false</masked>
+      <name>CreateNewBook</name>
+   </variable>
+</TestCaseEntity>

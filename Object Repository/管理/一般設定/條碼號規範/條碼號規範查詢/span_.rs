@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_</name>
+   <tag></tag>
+   <elementGuidId>63340888-8ffd-496a-833e-9e49a864d06e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>td > span</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='ruleForm']/div[2]/table/tbody/tr/td/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>8f63c58f-51ac-44ef-9214-4701b0a4f381</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>條碼號類別篩選:</value>
+      <webElementGuid>f64fae49-1dbd-4cb4-bd95-aed58c7bfc85</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ruleForm&quot;)/div[@class=&quot;search1 l&quot;]/table[@class=&quot;table9&quot;]/tbody[1]/tr[1]/td[1]/span[1]</value>
+      <webElementGuid>46f098fb-83de-4dd8-805c-e5fd516067f2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='ruleForm']/div[2]/table/tbody/tr/td/span</value>
+      <webElementGuid>43d66d2b-0a9a-448b-807c-c8735efdf10a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='管理 > 一般設定 > 條碼號規範'])[1]/following::span[1]</value>
+      <webElementGuid>675a9927-8d29-4f23-8ff3-920226013139</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='電子資源狀況報表'])[1]/following::span[1]</value>
+      <webElementGuid>a9629f02-70b4-4f9e-b869-fab943658412</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='館藏地篩選:'])[1]/preceding::span[1]</value>
+      <webElementGuid>9ab78922-304b-4f0d-aabf-a0377a5f4425</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='規則:'])[1]/preceding::span[2]</value>
+      <webElementGuid>8a50bacd-9d4f-4997-93e2-c88972dd9d58</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='條碼號類別篩選:']/parent::*</value>
+      <webElementGuid>8a5ae7ad-857c-48fa-b469-9342ab011892</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td/span</value>
+      <webElementGuid>81610208-675e-4272-9f2b-69fcc367a626</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = '條碼號類別篩選:' or . = '條碼號類別篩選:')]</value>
+      <webElementGuid>8864eecb-93a3-4fa8-8922-edd2870e94c4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

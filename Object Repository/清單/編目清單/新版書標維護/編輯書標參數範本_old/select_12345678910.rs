@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_12345678910</name>
+   <tag></tag>
+   <elementGuidId>e56bc042-c1c2-45e8-b998-96d96a30abdc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#duplicate</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='duplicate']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>f9a467df-77ea-4d96-82d4-6ceddd81433b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>duplicate</value>
+      <webElementGuid>8e720bc2-dc81-4388-859d-675b5ce22780</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>duplicate</value>
+      <webElementGuid>5a2a0b80-334a-479f-a051-be6bcdd2c787</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+</value>
+      <webElementGuid>87078d58-cde3-4e42-ba6c-d395d1e2621f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;duplicate&quot;)</value>
+      <webElementGuid>421cb8cc-87ac-4aab-a536-d731acdea17f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='duplicate']</value>
+      <webElementGuid>87395dd7-1aab-4c90-9b14-4b665765cd75</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='LbaleParameterFrom']/table/tbody/tr[11]/td[2]/select</value>
+      <webElementGuid>563619a8-3a8f-4689-87af-27e820513639</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='數量:'])[1]/following::select[1]</value>
+      <webElementGuid>95efc22c-3afa-4c6d-9e51-8919c4bf60b6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='行距比例:'])[1]/preceding::select[1]</value>
+      <webElementGuid>caa778fa-611a-4e2d-bda4-45b7fc3c887a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='%'])[1]/preceding::select[1]</value>
+      <webElementGuid>055c14ad-0d82-4c72-adc9-0bcdbaff9e65</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[11]/td[2]/select</value>
+      <webElementGuid>5c0e98f2-521e-4961-b3da-6892653201c0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@name = 'duplicate' and @id = 'duplicate' and (text() = '
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+' or . = '
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+')]</value>
+      <webElementGuid>92eb1bce-3b84-47ae-8ab9-c97e50c21458</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

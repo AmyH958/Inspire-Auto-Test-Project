@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_ALL</name>
+   <tag></tag>
+   <elementGuidId>a2533825-4d61-490b-b558-807ed43127d6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>tr:nth-of-type(5) > td:nth-of-type(2) > ul.lable_list > li</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='searchForm']/div[2]/table/tbody/tr[5]/td[2]/ul/li</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>492a3bfc-ce15-42d6-85fc-798f61207d27</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+								ALL</value>
+      <webElementGuid>95428296-220e-40b5-b2f1-6ac03ddb58cb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;searchForm&quot;)/div[@class=&quot;right_box l&quot;]/table[@class=&quot;table1&quot;]/tbody[1]/tr[5]/td[2]/ul[@class=&quot;lable_list&quot;]/li[1]</value>
+      <webElementGuid>8a371b5c-a346-4727-858e-26b2f9d015d6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='searchForm']/div[2]/table/tbody/tr[5]/td[2]/ul/li</value>
+      <webElementGuid>ed18b77f-2d35-4004-9950-b42e6550d202</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='館藏狀態'])[1]/following::li[1]</value>
+      <webElementGuid>3ddd6c2b-7abf-491b-b213-c74149b25e8b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='此筆盤點'])[1]/preceding::li[1]</value>
+      <webElementGuid>6c4cf346-8e9a-4829-9ee0-b5b33907958f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[5]/td[2]/ul/li</value>
+      <webElementGuid>cd534e64-f255-4047-8fe5-04f7b2ec7058</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = '
+								ALL' or . = '
+								ALL')]</value>
+      <webElementGuid>81682671-bb4a-4709-a279-d1fcfaafc39e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

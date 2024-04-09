@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>001_查詢讀者_UI畫面正確</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a1c577f8-69a3-40ef-a3cf-69c541745310</testCaseGuid>
+</TestCaseEntity>

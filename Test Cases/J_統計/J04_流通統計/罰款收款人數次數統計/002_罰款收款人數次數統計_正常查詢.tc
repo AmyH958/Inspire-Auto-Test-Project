@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>002_罰款收款人數次數統計_正常查詢</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f9439b33-39a2-40b4-bde6-14870d186fe6</testCaseGuid>
+</TestCaseEntity>

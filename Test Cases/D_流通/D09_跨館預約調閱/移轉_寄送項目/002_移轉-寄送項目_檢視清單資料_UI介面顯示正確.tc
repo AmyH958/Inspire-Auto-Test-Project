@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>002_移轉-寄送項目_檢視清單資料_UI介面顯示正確</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>0f1de048-8739-4a8c-a296-960cb9b1643e</testCaseGuid>
+</TestCaseEntity>

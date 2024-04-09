@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_ISO (1)</name>
+   <tag></tag>
+   <elementGuidId>9371f555-ff82-42a9-b5f1-e5b5cbd7ef5b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='LinkSubmit']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#LinkSubmit</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>bee5e79f-4c03-4faf-a776-fbfd1303dffc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>javascript:tapestry.form.submit('priviewForm', 'LinkSubmit');</value>
+      <webElementGuid>c387db09-4d79-4675-8ad6-c54e97be9e48</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>LinkSubmit</value>
+      <webElementGuid>23e9bce2-4fcc-4dd3-a77f-0a03794409fd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>buttons</value>
+      <webElementGuid>f864e242-32d5-40c6-b6a8-1ec489d1f595</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>ISO 預覽</value>
+      <webElementGuid>21fd0565-867c-4079-9844-9f7df3a07a02</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;LinkSubmit&quot;)</value>
+      <webElementGuid>b9b536a6-6427-4563-a429-df0d39e1aade</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@id='LinkSubmit']</value>
+      <webElementGuid>7fe6be21-148f-4325-99b2-e51adb57f8a2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//span[@id='If_0']/div/a</value>
+      <webElementGuid>6e146258-f8ce-42f5-afa1-4b0fbe3f5a7b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'ISO 預覽')]</value>
+      <webElementGuid>5feaee97-ff32-49c4-a240-dc557c944077</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='檔案路徑:'])[1]/following::a[1]</value>
+      <webElementGuid>6abefa0b-a481-46cd-b1fa-fad3841c0c32</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='譯碼:'])[1]/following::a[1]</value>
+      <webElementGuid>5f6108ea-8b1e-41af-8aee-39930cc98664</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='提示'])[1]/preceding::a[2]</value>
+      <webElementGuid>95be99f6-7edd-4f5b-9524-7e0efd4d0576</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='ISO 預覽']/parent::*</value>
+      <webElementGuid>3f493a57-ba14-4f26-956d-630732fea8f2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, &quot;javascript:tapestry.form.submit('priviewForm', 'LinkSubmit');&quot;)]</value>
+      <webElementGuid>52e1eeee-074c-4be3-9063-dde9e73c1813</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/a</value>
+      <webElementGuid>188fcede-0360-4212-8a73-c4fdcf1bf724</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = concat(&quot;javascript:tapestry.form.submit(&quot; , &quot;'&quot; , &quot;priviewForm&quot; , &quot;'&quot; , &quot;, &quot; , &quot;'&quot; , &quot;LinkSubmit&quot; , &quot;'&quot; , &quot;);&quot;) and @id = 'LinkSubmit' and (text() = 'ISO 預覽' or . = 'ISO 預覽')]</value>
+      <webElementGuid>4f0c909c-23a1-4bc6-8619-4cf36e6c232e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

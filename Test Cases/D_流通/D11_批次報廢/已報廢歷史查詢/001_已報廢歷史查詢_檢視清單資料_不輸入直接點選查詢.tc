@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>001_已報廢歷史查詢_檢視清單資料_不輸入直接點選查詢</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e9ef4789-6a67-4423-a539-0c0451f916ec</testCaseGuid>
+</TestCaseEntity>

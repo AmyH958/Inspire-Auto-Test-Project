@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>b__1_2_3</name>
+   <tag></tag>
+   <elementGuidId>5ec14706-2753-4bde-a3f2-5ab7f49e9fd8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='viewPatronDetailsComponent']/tbody/tr/td[3]/table/tbody/tr/td/b</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>td:nth-of-type(3) > table.table4 > tbody > tr > td.table4_left > b</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>b</value>
+      <webElementGuid>46da5a3a-8a0a-4c38-bcc1-97eb388c52e6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>本館借閱量:</value>
+      <webElementGuid>f9f578c6-53cc-4e1a-8bdc-7bc98bb844e6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;viewPatronDetailsComponent&quot;)/tbody[1]/tr[1]/td[3]/table[@class=&quot;table4&quot;]/tbody[1]/tr[1]/td[@class=&quot;table4_left&quot;]/b[1]</value>
+      <webElementGuid>ff5bca33-60c7-45cf-ad83-9e84d14a9f2b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='viewPatronDetailsComponent']/tbody/tr/td[3]/table/tbody/tr/td/b</value>
+      <webElementGuid>b1652e2d-a296-4d00-9551-4f589d3714c7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='A11234'])[1]/following::b[1]</value>
+      <webElementGuid>162dc913-54c2-4e8b-aad9-80a895d27f61</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='借閱證號碼:'])[1]/following::b[2]</value>
+      <webElementGuid>3716f74a-7199-4342-82ff-b18b0c6df9b5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='賠款總計:'])[1]/preceding::b[1]</value>
+      <webElementGuid>7a0937bf-d326-48c4-8a54-e4e781c55b98</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='已借閱冊數:'])[1]/preceding::b[2]</value>
+      <webElementGuid>09af532e-56b7-479e-871b-04bb6afd00dc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='本館借閱量:']/parent::*</value>
+      <webElementGuid>0120cb82-4c28-4b9f-9812-2e28dad5232a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[3]/table/tbody/tr/td/b</value>
+      <webElementGuid>d441b0f6-00a0-4f6e-b573-af0df93d62cd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//b[(text() = '本館借閱量:' or . = '本館借閱量:')]</value>
+      <webElementGuid>df771886-ce91-42e7-8383-40c6141f2ef0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

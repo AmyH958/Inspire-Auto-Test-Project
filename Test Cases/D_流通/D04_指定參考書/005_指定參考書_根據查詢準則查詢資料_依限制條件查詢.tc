@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>005_指定參考書_根據查詢準則查詢資料_依限制條件查詢</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>0fed43f6-cf6a-4977-98c2-86999bab2b2e</testCaseGuid>
+</TestCaseEntity>

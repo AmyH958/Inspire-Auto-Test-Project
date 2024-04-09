@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>007_借用記錄_編輯一筆借用記錄_清空必填資料後存檔</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a133a6a7-8af0-495d-abdf-774a838d003e</testCaseGuid>
+</TestCaseEntity>

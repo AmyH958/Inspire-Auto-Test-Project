@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_PickListValues.15004108CWEN</name>
+   <tag></tag>
+   <elementGuidId>a59c7242-a435-47cc-a2e8-c36d789bea83</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//tr[@id='For_1_2']/td[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#For_1_2 > td:nth-of-type(2)</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>3f82497c-dc75-4df0-8f49-94cdae85da10</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+
+在架
+借出
+預約保留
+遺失
+盤點未到
+聲明歸還
+採購處理中
+移送編目
+編目處理中
+移送閱覽
+流通處理中
+此筆盤點
+核准跨館移送
+等待送回原館藏地
+等待轉送其他館藏地
+跨館移送中
+跨館轉送中
+送回原館藏地
+報銷中
+報銷找回
+重新歸架
+展示中
+已送裝訂
+暫時不可提供
+待報廢
+已報廢
+書箱借出
+久借未還
+尋書未獲
+PickListValues.15004108
+盤點結果狀態測試
+測試選項
+CWEN測試
+</value>
+      <webElementGuid>86bf971c-d4d5-4142-b9b2-8ba85eee6df3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;For_1_2&quot;)/td[2]</value>
+      <webElementGuid>c018cc29-f32f-45d1-b10a-090a9e649d31</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//tr[@id='For_1_2']/td[2]</value>
+      <webElementGuid>098c2b71-a8c7-4593-b4a7-48419bfc8b21</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='館藏狀態:'])[1]/following::td[1]</value>
+      <webElementGuid>34346a31-90f1-4267-aef5-2bccddca6e89</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='條碼號類別:'])[1]/following::td[3]</value>
+      <webElementGuid>1a7791f0-1385-4cd3-8a20-b4ee13c37635</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='分類法:'])[1]/preceding::td[1]</value>
+      <webElementGuid>1d0446c4-9f85-4218-a400-f96ab9b90764</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='資料類型:'])[1]/preceding::td[3]</value>
+      <webElementGuid>d27705d5-951f-4e7a-86a6-ddc9bd45a467</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[5]/td[2]</value>
+      <webElementGuid>9ac4b653-7bda-4e76-bfdc-8bf012e0ba8c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = '
+
+在架
+借出
+預約保留
+遺失
+盤點未到
+聲明歸還
+採購處理中
+移送編目
+編目處理中
+移送閱覽
+流通處理中
+此筆盤點
+核准跨館移送
+等待送回原館藏地
+等待轉送其他館藏地
+跨館移送中
+跨館轉送中
+送回原館藏地
+報銷中
+報銷找回
+重新歸架
+展示中
+已送裝訂
+暫時不可提供
+待報廢
+已報廢
+書箱借出
+久借未還
+尋書未獲
+PickListValues.15004108
+盤點結果狀態測試
+測試選項
+CWEN測試
+' or . = '
+
+在架
+借出
+預約保留
+遺失
+盤點未到
+聲明歸還
+採購處理中
+移送編目
+編目處理中
+移送閱覽
+流通處理中
+此筆盤點
+核准跨館移送
+等待送回原館藏地
+等待轉送其他館藏地
+跨館移送中
+跨館轉送中
+送回原館藏地
+報銷中
+報銷找回
+重新歸架
+展示中
+已送裝訂
+暫時不可提供
+待報廢
+已報廢
+書箱借出
+久借未還
+尋書未獲
+PickListValues.15004108
+盤點結果狀態測試
+測試選項
+CWEN測試
+')]</value>
+      <webElementGuid>a69baa11-ea0e-44ac-bb4c-3addb4b40024</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

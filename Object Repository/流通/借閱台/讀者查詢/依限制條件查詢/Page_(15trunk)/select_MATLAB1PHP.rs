@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_MATLAB1PHP</name>
+   <tag></tag>
+   <elementGuidId>e6b64c62-036e-4532-a1bd-dcddf77570bd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#PropertySelection_0</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='PropertySelection_0']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>76890250-55da-4f79-9ce9-f073964de38e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>PropertySelection_0</value>
+      <webElementGuid>af6b0bd9-0aa5-4a9a-843f-33d28c9ffa27</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>PropertySelection_0</value>
+      <webElementGuid>56670b31-78eb-4c49-a6a8-8a1dc7ec9364</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+
+有效讀者
+微波通訊
+MATLAB程式設計
+無線行動網路架構
+電力電子學
+硬體描述語言設計
+電路板設計實務
+通訊實習
+手持式裝置設計與應用
+進階數學
+半導體元件及量測實務
+科技英文
+創意與專利1
+PHP程式設計
+離職離校
+</value>
+      <webElementGuid>98a8fa51-618c-49d7-9ed5-791947942a7d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;PropertySelection_0&quot;)</value>
+      <webElementGuid>0a4a0f2a-7f37-430c-ad7f-8d10e6af37d9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='PropertySelection_0']</value>
+      <webElementGuid>28892196-54a5-4f09-b5f3-807289235178</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//tr[@id='For_1_0']/td[2]/select</value>
+      <webElementGuid>95131cea-a075-4b3c-9301-356ddbde03f3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='讀者狀態:'])[1]/following::select[1]</value>
+      <webElementGuid>b20107d7-ec0f-4865-be39-dc519792fcaa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='限制條件'])[2]/following::select[1]</value>
+      <webElementGuid>785a6cbb-2a7d-42cb-b65e-b749b77de83d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='預設所屬圖書館:'])[1]/preceding::select[1]</value>
+      <webElementGuid>8c215df0-7c57-4437-bd93-8008c184c4d3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='讀者其他館別:'])[1]/preceding::select[1]</value>
+      <webElementGuid>5710543f-8800-4eb8-9949-9e94906a2c6c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[2]/select</value>
+      <webElementGuid>cca26414-8579-43e0-89ff-4c7ba738c4bc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@name = 'PropertySelection_0' and @id = 'PropertySelection_0' and (text() = '
+
+有效讀者
+微波通訊
+MATLAB程式設計
+無線行動網路架構
+電力電子學
+硬體描述語言設計
+電路板設計實務
+通訊實習
+手持式裝置設計與應用
+進階數學
+半導體元件及量測實務
+科技英文
+創意與專利1
+PHP程式設計
+離職離校
+' or . = '
+
+有效讀者
+微波通訊
+MATLAB程式設計
+無線行動網路架構
+電力電子學
+硬體描述語言設計
+電路板設計實務
+通訊實習
+手持式裝置設計與應用
+進階數學
+半導體元件及量測實務
+科技英文
+創意與專利1
+PHP程式設計
+離職離校
+')]</value>
+      <webElementGuid>0fc8dc30-752e-4635-826c-47acc0e087a4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

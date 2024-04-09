@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_</name>
+   <tag></tag>
+   <elementGuidId>87d99102-33fd-4d82-b483-68b18b32a70b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>td:nth-of-type(2) > div > span</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='payPenaltiesArea']/table/tbody/tr/td[2]/div/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>e58a97b8-a58f-4512-8a7d-fa9be29ff64b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> 讀者罰款交易明細
+						</value>
+      <webElementGuid>b711f7d0-8dea-4787-bae9-5545f2e61389</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;payPenaltiesArea&quot;)/table[1]/tbody[1]/tr[1]/td[2]/div[1]/span[1]</value>
+      <webElementGuid>b7f051d7-bbc8-43a3-bf71-b75e7e9a20f0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='payPenaltiesArea']/table/tbody/tr/td[2]/div/span</value>
+      <webElementGuid>363837c7-5c63-41b7-8da9-7c01f17d3d5c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Penalties'])[1]/following::span[1]</value>
+      <webElementGuid>510a4508-537c-483f-89eb-f48a17479c3f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='罰款類型'])[2]/preceding::span[1]</value>
+      <webElementGuid>4198372a-6659-404e-8a07-48e04267953c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='書名'])[2]/preceding::span[1]</value>
+      <webElementGuid>9a8ba43d-f442-4137-9393-8923bf48d984</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='讀者罰款交易明細']/parent::*</value>
+      <webElementGuid>5fea1b90-f09a-4f09-8d37-8964959e63e0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[2]/div/span</value>
+      <webElementGuid>e5b0ab9a-d4a8-40f3-879c-7fb3eee20a5e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = ' 讀者罰款交易明細
+						' or . = ' 讀者罰款交易明細
+						')]</value>
+      <webElementGuid>45b9ae6e-6464-42c4-9e1e-2e08f723bc65</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>007_執行報廢_根據查詢準則查詢資料_清除查詢條件</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4df79382-fc8e-4510-a72a-148c4131fae5</testCaseGuid>
+</TestCaseEntity>

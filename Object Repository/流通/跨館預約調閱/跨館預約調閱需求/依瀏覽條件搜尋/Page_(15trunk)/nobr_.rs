@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>nobr_</name>
+   <tag></tag>
+   <elementGuidId>10fc3f18-5fb7-4355-b7a7-b0a171205548</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='HiddenBrowse']/table/tbody/tr/td[3]/nobr</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>td:nth-of-type(3) > nobr</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>nobr</value>
+      <webElementGuid>0f88ce34-f2ac-4d90-aa0d-298bcd4be246</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>起始以:</value>
+      <webElementGuid>ffbb10f6-37f4-4d58-801a-a74929be14b7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;HiddenBrowse&quot;)/table[@class=&quot;table9&quot;]/tbody[1]/tr[1]/td[3]/nobr[1]</value>
+      <webElementGuid>4a99286a-870c-4e35-99eb-b20d901b9d9c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='HiddenBrowse']/table/tbody/tr/td[3]/nobr</value>
+      <webElementGuid>241cc2e0-2064-4f4e-b354-642d8a9814ce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='瀏覽條件:'])[1]/following::nobr[1]</value>
+      <webElementGuid>7edccfeb-a376-4b6f-8758-93dfbbc84284</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='館藏流通類別:'])[1]/following::nobr[3]</value>
+      <webElementGuid>87652cee-c0a5-48b1-bcc7-434780e2bceb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='排序條件:'])[1]/preceding::nobr[1]</value>
+      <webElementGuid>36679d3b-eca1-4148-b9e5-e53360a0d0de</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[3]/nobr</value>
+      <webElementGuid>6a3110a4-2ebd-4bb5-b5ae-aeb7ae088eb1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//nobr[(text() = '起始以:' or . = '起始以:')]</value>
+      <webElementGuid>7d7a29a4-9f26-4785-b789-09752a646939</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

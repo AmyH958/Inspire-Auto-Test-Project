@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_BROWSER_UPLOADLOCAL_FILE_SYSTEM</name>
+   <tag></tag>
+   <elementGuidId>6da37c8c-78cc-4ac9-8db4-d45a4a568c86</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='selectFileLoadOption']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#selectFileLoadOption</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>d9bd5abb-4202-442f-a2ae-144d684edb3a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>selectFileLoadOption</value>
+      <webElementGuid>c496ad2e-38e9-460f-8772-7f5d91c991e6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>selectFileLoadOption</value>
+      <webElementGuid>a78aad1d-2ebf-470e-b3dc-2b585f8d3c38</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+BROWSER_UPLOAD
+LOCAL_FILE_SYSTEM
+</value>
+      <webElementGuid>7c9ea370-ea06-4a40-8356-a160c28638fc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;selectFileLoadOption&quot;)</value>
+      <webElementGuid>5dc9491f-aa78-4695-be92-08626a8c570d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='selectFileLoadOption']</value>
+      <webElementGuid>88e44da5-42d6-4b21-8106-1771bfe2df9c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='headerArea_0']/div/table/tbody/tr/td[2]/select</value>
+      <webElementGuid>0e0fb6fc-e03b-41eb-b3fd-209b94d6c7e1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Load file from'])[1]/following::select[1]</value>
+      <webElementGuid>2e805fb5-7e9a-43d1-a4fa-6048b851cde0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='訂購明細'])[4]/following::select[1]</value>
+      <webElementGuid>91cae796-b029-4f7a-ae36-82f0ba734537</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='檔案路徑:'])[1]/preceding::select[1]</value>
+      <webElementGuid>f2d10989-6694-4bc5-b127-df0642b9af38</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Local file path'])[1]/preceding::select[1]</value>
+      <webElementGuid>57aa3f85-8525-41f3-b844-ce087e3c4c07</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[2]/select</value>
+      <webElementGuid>3988cbb6-b821-4a1e-99bc-2c28f7353647</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@name = 'selectFileLoadOption' and @id = 'selectFileLoadOption' and (text() = '
+BROWSER_UPLOAD
+LOCAL_FILE_SYSTEM
+' or . = '
+BROWSER_UPLOAD
+LOCAL_FILE_SYSTEM
+')]</value>
+      <webElementGuid>af7950f6-4ac0-4164-be1c-b49a311dfb42</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

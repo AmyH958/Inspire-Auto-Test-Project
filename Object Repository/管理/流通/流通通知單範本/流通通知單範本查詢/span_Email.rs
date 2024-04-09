@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Email</name>
+   <tag></tag>
+   <elementGuidId>3c48aa2e-1bef-4ae3-9b3a-e3aa98ed59d0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@id='For_60']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#For_60</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>5af3e815-3cdb-48c5-938c-857a2e61f8b5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>For_60</value>
+      <webElementGuid>c2070e32-171d-428a-b2e4-7fbb1acb4ffb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+					
+				Email
+				</value>
+      <webElementGuid>5d6a5e27-91d6-46a9-9c39-0fad4aa193a4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;For_60&quot;)</value>
+      <webElementGuid>b76d0e13-829c-4c5b-8f5b-722e9e664a24</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//span[@id='For_60']</value>
+      <webElementGuid>360a92d2-c797-4c75-bfc5-aca13b15b822</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='editTemplateForm']/table/tbody/tr[3]/td[2]/span</value>
+      <webElementGuid>fc9a333a-dcf3-4e91-ba72-fc3de1b6125b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='寄送方式:'])[1]/following::span[1]</value>
+      <webElementGuid>73aeb828-09cf-45a5-80b7-51f6cbfdc2b7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='通知單類型:'])[1]/following::span[1]</value>
+      <webElementGuid>c7167671-a70f-4cf3-9c46-45291cac45eb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Email']/parent::*</value>
+      <webElementGuid>99d535bb-ece8-4d95-8f01-d260dce4786c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[2]/span</value>
+      <webElementGuid>7a2f51b5-cfbc-4891-a3cb-f2a88249da29</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[@id = 'For_60' and (text() = '
+					
+				Email
+				' or . = '
+					
+				Email
+				')]</value>
+      <webElementGuid>c51cc0fa-f83d-41ad-8437-ffa7c4ace668</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

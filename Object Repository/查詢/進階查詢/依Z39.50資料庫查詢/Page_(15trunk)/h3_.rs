@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h3_</name>
+   <tag></tag>
+   <elementGuidId>e1bb6143-082f-4133-8335-76cd7fa7e6db</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#If_35 > h3</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='If_35']/h3</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h3</value>
+      <webElementGuid>8507ed10-c331-4968-8b87-62735e945e6a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>自家館藏</value>
+      <webElementGuid>cb239ad2-6c60-4a02-aa19-95db39a06bc7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;If_35&quot;)/h3[1]</value>
+      <webElementGuid>be4fc8e7-cb65-4ee1-b053-009b82f43412</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='If_35']/h3</value>
+      <webElementGuid>c02cd580-f6d0-4698-8a2c-f06876bcdc3f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/h3</value>
+      <webElementGuid>a728d53e-002d-44a6-813b-851b8bae59e9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h3[(text() = '自家館藏' or . = '自家館藏')]</value>
+      <webElementGuid>6f311191-ef3f-4bda-894f-8fb0c5c1a519</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

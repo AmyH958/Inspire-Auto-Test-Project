@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_PickListValues.15004108CWEN</name>
+   <tag></tag>
+   <elementGuidId>ab80ad4d-5671-4112-a942-2946464c341d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='PropertySelection_2']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#PropertySelection_2</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>8820e1a1-a587-4d32-bdde-49983812dc7d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>PropertySelection_2</value>
+      <webElementGuid>2d9cb693-29c3-4285-8083-4d3cf0becf23</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>PropertySelection_2</value>
+      <webElementGuid>4f317b5a-8409-44b5-b323-9e56555a6d85</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+
+在架
+借出
+預約保留
+遺失
+盤點未到
+聲明歸還
+採購處理中
+移送編目
+編目處理中
+移送閱覽
+流通處理中
+此筆盤點
+核准跨館移送
+等待送回原館藏地
+等待轉送其他館藏地
+跨館移送中
+跨館轉送中
+送回原館藏地
+報銷中
+報銷找回
+重新歸架
+展示中
+已送裝訂
+暫時不可提供
+待報廢
+已報廢
+書箱借出
+久借未還
+尋書未獲
+PickListValues.15004108
+盤點結果狀態測試
+測試選項
+CWEN測試
+</value>
+      <webElementGuid>5dcb9468-adc2-46d9-9664-0d3dbe26a0f8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;PropertySelection_2&quot;)</value>
+      <webElementGuid>5f563ff7-c39f-46ef-a049-75a08ed51fed</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='PropertySelection_2']</value>
+      <webElementGuid>58954673-b57c-4348-af84-e0c6d21d7e8c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//tr[@id='If_54']/td[2]/select</value>
+      <webElementGuid>c21466af-d0c2-4e32-a386-07c56ad816ef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='館藏狀態:'])[1]/following::select[1]</value>
+      <webElementGuid>4aa4b61d-9f66-4945-b0f3-cdf1ec3f6837</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='館藏使用類型:'])[1]/following::select[2]</value>
+      <webElementGuid>1b728c78-284e-40d7-94ab-e7848e303359</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='館藏流通類別:'])[1]/preceding::select[1]</value>
+      <webElementGuid>c369b0be-255b-40e7-b0a8-74b689228cb5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='瀏覽條件:'])[1]/preceding::select[1]</value>
+      <webElementGuid>3df6aa3e-bf51-454b-833c-21bb518a7d4f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[8]/td[2]/select</value>
+      <webElementGuid>eeded76c-0155-407b-be94-33c67b3090dd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@name = 'PropertySelection_2' and @id = 'PropertySelection_2' and (text() = '
+
+在架
+借出
+預約保留
+遺失
+盤點未到
+聲明歸還
+採購處理中
+移送編目
+編目處理中
+移送閱覽
+流通處理中
+此筆盤點
+核准跨館移送
+等待送回原館藏地
+等待轉送其他館藏地
+跨館移送中
+跨館轉送中
+送回原館藏地
+報銷中
+報銷找回
+重新歸架
+展示中
+已送裝訂
+暫時不可提供
+待報廢
+已報廢
+書箱借出
+久借未還
+尋書未獲
+PickListValues.15004108
+盤點結果狀態測試
+測試選項
+CWEN測試
+' or . = '
+
+在架
+借出
+預約保留
+遺失
+盤點未到
+聲明歸還
+採購處理中
+移送編目
+編目處理中
+移送閱覽
+流通處理中
+此筆盤點
+核准跨館移送
+等待送回原館藏地
+等待轉送其他館藏地
+跨館移送中
+跨館轉送中
+送回原館藏地
+報銷中
+報銷找回
+重新歸架
+展示中
+已送裝訂
+暫時不可提供
+待報廢
+已報廢
+書箱借出
+久借未還
+尋書未獲
+PickListValues.15004108
+盤點結果狀態測試
+測試選項
+CWEN測試
+')]</value>
+      <webElementGuid>7e655419-28f0-466e-a394-affdd57caa48</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

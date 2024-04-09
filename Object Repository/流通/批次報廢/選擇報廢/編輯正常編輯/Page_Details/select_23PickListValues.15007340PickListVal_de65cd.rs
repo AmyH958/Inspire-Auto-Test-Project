@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_23PickListValues.15007340PickListVal_de65cd</name>
+   <tag></tag>
+   <elementGuidId>80f7ce9a-3831-4417-a1fb-4fb58a6def0b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='collection']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#collection</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>29b153c1-8f41-48ea-a1f8-58d5f11d3090</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>collection</value>
+      <webElementGuid>230e08ed-e961-4d50-a967-9095e3575e9e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>collection</value>
+      <webElementGuid>dcddb92b-b46c-4047-81ac-3fac87f27c54</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+測試2
+測試3
+PickListValues.15007340
+PickListValues.15007339
+PickListValues.15007338
+PickListValues.15007337
+商務企劃專案實務
+PickListValues.15007336
+測試0
+通用特藏
+禮物
+測試4
+電腦動畫視覺特效實務
+電腦輔助繪圖
+測試1
+一般藏書
+贈書
+中英筆譯(二)
+英語會話(二)
+基礎寫作(二)
+進階英語聽講練習(二)
+進階實用英文寫作(二)
+寫作入門(二)
+專題研究方法
+第二外語 (二) –日文
+第二外語 (二) –西班牙文
+第二外語聽講練習(二) –日文
+第二外語聽講練習(二) –西班牙文
+多媒體語言學習(二)
+表演藝術(二)
+語言測驗檢析(二)
+閱讀與簡報(二)
+實用英文寫作(二)
+機械實務設計
+測試5
+</value>
+      <webElementGuid>0eec15d8-5ef5-483e-9c56-ef2a380fb8da</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;collection&quot;)</value>
+      <webElementGuid>6f627aae-29c5-4a83-a39b-2d642adc3e84</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='collection']</value>
+      <webElementGuid>e15aa336-fad8-40d0-b931-123e17359272</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='editForm']/div[4]/div/table/tbody/tr[5]/td[4]/select</value>
+      <webElementGuid>4ec1e807-816a-4369-bd38-6d7112c3e829</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='特藏:'])[1]/following::select[1]</value>
+      <webElementGuid>e922b15f-4437-452e-9027-54cf9f5f7c3f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='分類方法:'])[1]/following::select[2]</value>
+      <webElementGuid>a682ccea-9385-45dd-9fb0-e96a8c621e65</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='分類號:'])[1]/preceding::select[1]</value>
+      <webElementGuid>cc36d55b-aea3-40bf-977b-600b11540a9f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='分類法版本:'])[1]/preceding::select[1]</value>
+      <webElementGuid>4dc7df06-1c37-4fb6-8dc9-2658be526b0d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[4]/select</value>
+      <webElementGuid>c0e100a8-b087-4a57-bf1c-202526527470</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@name = 'collection' and @id = 'collection' and (text() = '
+測試2
+測試3
+PickListValues.15007340
+PickListValues.15007339
+PickListValues.15007338
+PickListValues.15007337
+商務企劃專案實務
+PickListValues.15007336
+測試0
+通用特藏
+禮物
+測試4
+電腦動畫視覺特效實務
+電腦輔助繪圖
+測試1
+一般藏書
+贈書
+中英筆譯(二)
+英語會話(二)
+基礎寫作(二)
+進階英語聽講練習(二)
+進階實用英文寫作(二)
+寫作入門(二)
+專題研究方法
+第二外語 (二) –日文
+第二外語 (二) –西班牙文
+第二外語聽講練習(二) –日文
+第二外語聽講練習(二) –西班牙文
+多媒體語言學習(二)
+表演藝術(二)
+語言測驗檢析(二)
+閱讀與簡報(二)
+實用英文寫作(二)
+機械實務設計
+測試5
+' or . = '
+測試2
+測試3
+PickListValues.15007340
+PickListValues.15007339
+PickListValues.15007338
+PickListValues.15007337
+商務企劃專案實務
+PickListValues.15007336
+測試0
+通用特藏
+禮物
+測試4
+電腦動畫視覺特效實務
+電腦輔助繪圖
+測試1
+一般藏書
+贈書
+中英筆譯(二)
+英語會話(二)
+基礎寫作(二)
+進階英語聽講練習(二)
+進階實用英文寫作(二)
+寫作入門(二)
+專題研究方法
+第二外語 (二) –日文
+第二外語 (二) –西班牙文
+第二外語聽講練習(二) –日文
+第二外語聽講練習(二) –西班牙文
+多媒體語言學習(二)
+表演藝術(二)
+語言測驗檢析(二)
+閱讀與簡報(二)
+實用英文寫作(二)
+機械實務設計
+測試5
+')]</value>
+      <webElementGuid>5d2673e1-e27d-4ac1-9887-f905d83b20c3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

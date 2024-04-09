@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_()()()()</name>
+   <tag></tag>
+   <elementGuidId>692793c8-d97a-48a4-9a6c-3cc156a6cb84</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#comparator2</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='comparator2']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>07167554-2c77-42fc-b535-064683293217</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>comparator2</value>
+      <webElementGuid>17890871-4673-4d9d-915b-b94e3b987dd8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>comparator2</value>
+      <webElementGuid>3ce417d5-b2e5-40b9-8eda-aa57173ee395</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+起始以
+包含
+等於(=)
+大於(>=)
+小於(&lt;=)
+不等於(≠)
+</value>
+      <webElementGuid>235d0c02-4ffc-4da1-923d-a7714a13e47d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;comparator2&quot;)</value>
+      <webElementGuid>815adbef-29dc-4fb8-a3e2-20be14f72237</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='comparator2']</value>
+      <webElementGuid>99c36c00-9b98-4486-8c17-75ac4e01094e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//p[@id='If_9']/select[3]</value>
+      <webElementGuid>24ec0207-8281-4713-be02-bf2ce808d8f8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='鍾佩恩'])[1]/following::select[3]</value>
+      <webElementGuid>cffc68eb-7915-4b4f-9249-8882b62017ca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='鍾佩君'])[1]/following::select[3]</value>
+      <webElementGuid>c1e10581-fb49-4d17-8a99-1fad03d6fc6e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='限制條件'])[1]/preceding::select[7]</value>
+      <webElementGuid>7955aace-7641-4c6f-8972-d506583b5c86</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='reset'])[1]/preceding::select[7]</value>
+      <webElementGuid>f6d98ccd-f4f6-44f1-adad-fca7d61b6b87</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//select[3]</value>
+      <webElementGuid>190c5f88-d228-4133-b983-58fd9d5bcd2c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@name = 'comparator2' and @id = 'comparator2' and (text() = '
+起始以
+包含
+等於(=)
+大於(>=)
+小於(&lt;=)
+不等於(≠)
+' or . = '
+起始以
+包含
+等於(=)
+大於(>=)
+小於(&lt;=)
+不等於(≠)
+')]</value>
+      <webElementGuid>f2b4cdba-89cb-493b-9b37-8e4e58ba553e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

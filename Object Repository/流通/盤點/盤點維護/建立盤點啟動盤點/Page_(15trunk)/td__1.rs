@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td__1</name>
+   <tag></tag>
+   <elementGuidId>e39f09d3-6809-4c8c-8bd5-220b783e9396</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//tr[@id='For_5']/td[4]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#For_5 > td:nth-of-type(4)</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>42c14fca-dc77-455d-8bec-36f1eaf6d1ca</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>啟動盤點</value>
+      <webElementGuid>afcd2c69-d7c7-497d-9adb-ec75ac7b9f44</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;For_5&quot;)/td[4]</value>
+      <webElementGuid>c63d9d31-8136-44cd-8876-93d94f161de9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//tr[@id='For_5']/td[4]</value>
+      <webElementGuid>57190c3a-04c7-414d-b957-890d235bfd01</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='測試盤點_20240313'])[1]/following::td[1]</value>
+      <webElementGuid>5db18bf9-37c6-4220-87b2-23123ed3bf31</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='測試盤點_202403130145'])[1]/preceding::td[1]</value>
+      <webElementGuid>a66f635e-ad9e-4284-93c0-74cc9fcb8428</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[3]/td[4]</value>
+      <webElementGuid>f09d3906-2097-46fa-aadb-4e40e7c3f91f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = '啟動盤點' or . = '啟動盤點')]</value>
+      <webElementGuid>927d14cf-251f-4a3a-b0bf-54a242bd0463</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

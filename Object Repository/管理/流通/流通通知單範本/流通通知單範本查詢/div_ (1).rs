@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_ (1)</name>
+   <tag></tag>
+   <elementGuidId>8b895014-c61e-45c3-a12e-3f0a6c57c576</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>ㄍ</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#position_main</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>46206a2b-0037-49ed-80d9-2951ac54f75e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>position l position_ico15</value>
+      <webElementGuid>6dbc7225-671e-48f6-92c8-5608defeaac4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>position_main</value>
+      <webElementGuid>f2ffa200-b711-4b05-a55c-6bd66cd962d2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>管理 > 流通 > 流通通知單範本</value>
+      <webElementGuid>3a7972a3-45ab-4330-b57b-03d27799171d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;position_main&quot;)</value>
+      <webElementGuid>a9954c3a-2166-4704-b28d-f991756609d9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='position_main']</value>
+      <webElementGuid>b5de4d1f-285c-4197-863e-6625e09c0009</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//body[@id='Body']/div/div/div[2]/div</value>
+      <webElementGuid>e78e5faa-cbad-455e-ae01-b9d153c38698</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='電子資源狀況報表'])[1]/following::div[2]</value>
+      <webElementGuid>326c0309-ef8b-4cb4-9561-72e0e374220a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='查詢電子資源狀態'])[1]/following::div[2]</value>
+      <webElementGuid>929a22a2-67eb-42b6-ac15-aadf29bdca4d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='圖書即將到期提醒通知(Due notice first)'])[1]/preceding::div[1]</value>
+      <webElementGuid>14f29c37-4697-48d1-96f0-dbdeaa1c716e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='圖書即將到期再次提醒通知(Due notice repeat)'])[1]/preceding::div[1]</value>
+      <webElementGuid>dd69cc97-722d-4dce-845e-81fef9f643ef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='管理 > 流通 > 流通通知單範本']/parent::*</value>
+      <webElementGuid>6a298030-ff1a-44e4-96ef-4c77f021a0ed</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div[2]/div</value>
+      <webElementGuid>355ced79-2e37-43eb-a96f-48fe02790fb1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'position_main' and (text() = '管理 > 流通 > 流通通知單範本' or . = '管理 > 流通 > 流通通知單範本')]</value>
+      <webElementGuid>cced53f6-c2ac-4125-a90f-e16e801a9f06</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

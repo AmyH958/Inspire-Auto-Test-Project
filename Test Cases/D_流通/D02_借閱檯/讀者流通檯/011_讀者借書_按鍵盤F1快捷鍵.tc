@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>011_讀者借書_按鍵盤F1快捷鍵</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>cb0587ab-43d1-4fc8-b585-b296d9117501</testCaseGuid>
+</TestCaseEntity>

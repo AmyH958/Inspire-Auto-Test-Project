@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>001_移轉-收到項目_檢視清單資料_不輸入直接點選查詢</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>dd0189c9-a98a-434d-963f-056527a363af</testCaseGuid>
+</TestCaseEntity>

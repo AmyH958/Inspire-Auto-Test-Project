@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>005_單項維護_根據查詢準則查詢資料_根據查詢條件欄位查詢</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>adcae8f2-3a52-4856-bd9c-ac9fa573ec06</testCaseGuid>
+</TestCaseEntity>

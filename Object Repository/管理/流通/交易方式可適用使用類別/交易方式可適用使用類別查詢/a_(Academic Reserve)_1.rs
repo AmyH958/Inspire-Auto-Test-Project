@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_(Academic Reserve)_1</name>
+   <tag></tag>
+   <elementGuidId>268d0a8f-f5ff-438e-883d-e5bb294bece9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='DirectLink_1']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#DirectLink_1</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>c230456c-1f2a-46dc-86c7-3d42f664bf97</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>DirectLink_1</value>
+      <webElementGuid>9d491f72-f667-476e-b46d-00a4a50740c1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/inspireapp/TransactionsToUsageClass,$DirectLink.sdirect?sp=0&amp;updateParts=continut</value>
+      <webElementGuid>79131bab-7e7f-4769-b4d0-209a6df3ac92</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onclick</name>
+      <type>Main</type>
+      <value>return tapestry.linkOnClick(this.href,'DirectLink_1', false)</value>
+      <webElementGuid>e6302402-de41-420f-8dbb-986484d0a6ad</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+					指參(Academic Reserve) </value>
+      <webElementGuid>52a24b74-5849-4183-9874-c5f6e87a199c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;DirectLink_1&quot;)</value>
+      <webElementGuid>c08e1552-c07c-4e32-83d3-9e7146237ff6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@id='DirectLink_1']</value>
+      <webElementGuid>e6e8537f-69d7-497a-8417-ab545091614c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ul[@id='For_0']/li/a</value>
+      <webElementGuid>8ba15827-ff47-476e-9382-685f2fb01709</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'指參(Academic Reserve)')]</value>
+      <webElementGuid>5644d3b6-43fd-46b0-b1e4-202dcc0729d7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='管理 > 流通 > 交易方式可適用使用類別'])[1]/following::a[1]</value>
+      <webElementGuid>c025e0e6-e05d-4612-9be8-c244cce9cb52</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='電子資源狀況報表'])[1]/following::a[1]</value>
+      <webElementGuid>71871300-4375-4bac-bf7f-65b9dbcc18b3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='展示(Exhibition)'])[1]/preceding::a[1]</value>
+      <webElementGuid>8e3e1576-2914-4b88-bb80-39b4b267922e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='新書(New Book)'])[1]/preceding::a[2]</value>
+      <webElementGuid>44f5f4f8-a715-4130-8609-cc445df9e1aa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='指參(Academic Reserve)']/parent::*</value>
+      <webElementGuid>b6c25eab-d7bb-4af8-917b-fc019d27c5db</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/inspireapp/TransactionsToUsageClass,$DirectLink.sdirect?sp=0&amp;updateParts=continut')]</value>
+      <webElementGuid>c8349940-4617-45f6-b978-92b229610163</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/form/div[2]/div/ul/li/a</value>
+      <webElementGuid>cda3c800-a715-4506-9967-a7f9403e5cda</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@id = 'DirectLink_1' and @href = '/inspireapp/TransactionsToUsageClass,$DirectLink.sdirect?sp=0&amp;updateParts=continut' and (text() = '
+					指參(Academic Reserve) ' or . = '
+					指參(Academic Reserve) ')]</value>
+      <webElementGuid>b1d809ea-8a70-456e-89d6-dfd612bc59ee</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_1234567890</name>
+   <tag></tag>
+   <elementGuidId>a00e7f1f-f910-42ed-a6a8-14931cace513</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//tr[@id='eTr_2']/td[7]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#eTr_2 > td:nth-of-type(7)</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>1cb495ee-16f2-422b-bd87-6a43b0d17799</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>1234567890</value>
+      <webElementGuid>b4fe90eb-0364-407e-8b23-0ac19bde73a5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;eTr_2&quot;)/td[7]</value>
+      <webElementGuid>79b486c9-c5b7-4557-b1b4-d10e0d712d1c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//tr[@id='eTr_2']/td[7]</value>
+      <webElementGuid>26dcec53-7b59-40de-aa4c-d2188d050b98</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='台中總館書庫'])[2]/following::td[4]</value>
+      <webElementGuid>cec55cae-12e1-4051-a0e1-8ad132fae09a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='[Prefix][Sufix][Number][Location][Patron class][National ID number]'])[1]/following::td[5]</value>
+      <webElementGuid>153bcdcc-3189-4060-8b41-7541f0b0f4d4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='新增'])[1]/preceding::td[1]</value>
+      <webElementGuid>da862312-7432-4da2-9c6e-7600a73f7c2a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='選擇控制項:'])[1]/preceding::td[2]</value>
+      <webElementGuid>28155661-39c5-4ec5-98df-521e066c3ce3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='1234567890']/parent::*</value>
+      <webElementGuid>64e3d675-23fc-456e-b456-43736eced13b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[4]/td[7]</value>
+      <webElementGuid>441bf619-4a41-4cc6-a581-191ae9e29b77</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = '1234567890' or . = '1234567890')]</value>
+      <webElementGuid>6e0a986d-5d2a-49d2-8113-077c9237a00f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

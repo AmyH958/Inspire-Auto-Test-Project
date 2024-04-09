@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>001_編目工作量統計(各館)_UI顯示正確</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a6b70c23-8400-419a-b3ea-9d5c6d839ff5</testCaseGuid>
+</TestCaseEntity>

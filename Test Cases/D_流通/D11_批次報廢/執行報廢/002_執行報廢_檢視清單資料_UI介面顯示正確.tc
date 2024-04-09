@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>002_執行報廢_檢視清單資料_UI介面顯示正確</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a23dbf00-7e38-429c-a465-94eff0efbe80</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td__1_2</name>
+   <tag></tag>
+   <elementGuidId>da75424a-5dfa-4dcb-9a45-8c1bb2134fd5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>tr:nth-of-type(8) > td.table1_left</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='searchForm']/div[2]/table/tbody/tr[8]/td</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>781faa5a-8fbf-4c6e-b0d1-adcddd735826</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>table1_left</value>
+      <webElementGuid>0db8b258-d81e-48d7-9f60-d6cddada18e7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>*條碼號:</value>
+      <webElementGuid>5fe0ea3a-133e-4490-9207-26ffc47bdffb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;searchForm&quot;)/div[@class=&quot;right_box l&quot;]/table[@class=&quot;table1&quot;]/tbody[1]/tr[8]/td[@class=&quot;table1_left&quot;]</value>
+      <webElementGuid>0c096799-734e-47e4-9f71-d071cc6cc33e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='searchForm']/div[2]/table/tbody/tr[8]/td</value>
+      <webElementGuid>3340bf08-b501-4e9a-b3d8-b5cf82e91977</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='請輸入欲指定之圖書條碼號'])[1]/following::td[1]</value>
+      <webElementGuid>5cb4d1da-020f-4361-9e23-3cad4ee53a87</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='備註'])[1]/following::td[3]</value>
+      <webElementGuid>7fa642d5-9415-4de3-b66c-b70d2463cbf3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='本館藏書，且仍在館內，才可以做指定'])[1]/preceding::td[4]</value>
+      <webElementGuid>2606a354-5c86-44a5-b151-4d8c25e7fdc0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='條碼號:']/parent::*</value>
+      <webElementGuid>26b98d8e-9b34-454d-a5dd-1aeba4a7567b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[8]/td</value>
+      <webElementGuid>95c2f7fd-e9c6-4c69-a3d5-40097e783182</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = '*條碼號:' or . = '*條碼號:')]</value>
+      <webElementGuid>82542063-d865-4653-bc55-fda8d591ae9a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

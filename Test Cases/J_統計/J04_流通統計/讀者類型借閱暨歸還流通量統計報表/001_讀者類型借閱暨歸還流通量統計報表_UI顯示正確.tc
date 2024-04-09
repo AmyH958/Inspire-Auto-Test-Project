@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>001_讀者類型借閱暨歸還流通量統計報表_UI顯示正確</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4b437541-76cb-4093-ad7b-086dcf437d6c</testCaseGuid>
+</TestCaseEntity>

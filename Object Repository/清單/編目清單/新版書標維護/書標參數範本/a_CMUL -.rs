@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_CMUL -</name>
+   <tag></tag>
+   <elementGuidId>347426b6-b839-41f9-bf22-abc3c5d04bc6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='swindow.dSelectTreeStructure1']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>d98c3639-9000-4feb-8a8a-413ccceaa9ec</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>swindow.dSelectTreeStructure1</value>
+      <webElementGuid>75cb0e76-78b4-4015-a33f-045dab168d40</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>node</value>
+      <webElementGuid>175c284b-a03a-46fc-92f8-81732728731c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>javascript:window.dSelectTreeStructure.selectElement('CMUL - \u795E\u8CC7\u5716\u66F8\u9928', 1, true)</value>
+      <webElementGuid>b096810e-134f-4a89-8bf3-792f7d4c9507</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onclick</name>
+      <type>Main</type>
+      <value>javascript: window.dSelectTreeStructure.s(1);</value>
+      <webElementGuid>ca28b7b9-35b1-4ba1-af22-1737f6e5fcd4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>CMUL - 神資圖書館</value>
+      <webElementGuid>834ab7f7-ba3f-4e16-b87c-1b759be10a46</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;swindow.dSelectTreeStructure1&quot;)</value>
+      <webElementGuid>8f5a4491-b76c-4a7b-a752-f8ac40c0b087</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@id='swindow.dSelectTreeStructure1']</value>
+      <webElementGuid>9f4ffff6-e3c2-4c14-babf-5730300106cb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='dwindow.dSelectTreeStructure0']/div/a[2]</value>
+      <webElementGuid>480e858a-e9e0-4fad-ac33-ce01532555ae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'CMUL - 神資圖書館')]</value>
+      <webElementGuid>4ae5c81b-055c-47f3-a3ad-9b4a62ca7ad7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='館藏地名稱'])[1]/following::a[2]</value>
+      <webElementGuid>38975944-19cb-4276-a530-638120172fc1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='範本館別:'])[1]/following::a[5]</value>
+      <webElementGuid>3ba634b9-a17b-4322-a5f7-00b2fd8b2053</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='AH - 安南醫院'])[1]/preceding::a[4]</value>
+      <webElementGuid>a0e661f7-aa69-47fb-af96-6da7e1c647db</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='AHGL - 安南圖書區'])[1]/preceding::a[5]</value>
+      <webElementGuid>194d8826-eccd-4a52-90a5-0da868ebe46e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='CMUL - 神資圖書館']/parent::*</value>
+      <webElementGuid>870efb54-80d5-44f6-bad6-43fb806d7400</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, &quot;javascript:window.dSelectTreeStructure.selectElement('CMUL - \u795E\u8CC7\u5716\u66F8\u9928', 1, true)&quot;)]</value>
+      <webElementGuid>4f023800-edaf-49f1-a047-d443d9cc0be6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span/div/div[2]/div/a[2]</value>
+      <webElementGuid>01b0b590-6ef5-44ee-b66d-a0fd3190f62e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@id = 'swindow.dSelectTreeStructure1' and @href = concat(&quot;javascript:window.dSelectTreeStructure.selectElement(&quot; , &quot;'&quot; , &quot;CMUL - \u795E\u8CC7\u5716\u66F8\u9928&quot; , &quot;'&quot; , &quot;, 1, true)&quot;) and (text() = 'CMUL - 神資圖書館' or . = 'CMUL - 神資圖書館')]</value>
+      <webElementGuid>c95646ec-1019-41e3-bb6d-ad201bd3cea3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

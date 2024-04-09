@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select__1</name>
+   <tag></tag>
+   <elementGuidId>698bd665-455f-4976-b585-c23e9a10f4e2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#PropertySelection_2</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='PropertySelection_2']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>be0886d5-9622-4e48-a81e-0818f180831e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>PropertySelection_2</value>
+      <webElementGuid>2576b01f-0aa2-4a76-824e-e9fa584ca3d3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>PropertySelection_2</value>
+      <webElementGuid>54f456bc-cd14-462a-9fb9-23b75d023a79</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+
+一般
+預約逾期未取
+讀者取消
+館員取消
+下一筆借出
+遺失
+聲明歸還
+還書箱
+自助借還書機
+預約重新連結至題名
+結束盤點
+預約駁回
+預約核准
+書移送到非點收館
+預約停權
+</value>
+      <webElementGuid>a459d2d5-db27-465a-8740-664076b294ca</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;PropertySelection_2&quot;)</value>
+      <webElementGuid>5a3a0670-e983-4f93-ad76-50bb381ccce8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='PropertySelection_2']</value>
+      <webElementGuid>0af20501-d653-45e0-8ad4-0a3af8611b27</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//tr[@id='For_1_2']/td[2]/select</value>
+      <webElementGuid>130470cb-33a5-4f69-8830-3262edf7e113</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='交易結束模式:'])[1]/following::select[1]</value>
+      <webElementGuid>cbdfb33f-fcc0-4c42-9bf8-d74bdb6b47b5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='交易紀錄類型:'])[1]/following::select[2]</value>
+      <webElementGuid>5fca25ef-f8c1-4889-a743-8605aeb35120</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='館藏狀態:'])[1]/preceding::select[1]</value>
+      <webElementGuid>4240c982-61b7-49c7-815c-77c12e9c8374</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='館藏地:'])[1]/preceding::select[2]</value>
+      <webElementGuid>b5ebf16a-ae2b-4f77-a854-b8ec14ec142e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[4]/td[2]/select</value>
+      <webElementGuid>05aef072-15db-44cd-aa21-199c701ffc97</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@name = 'PropertySelection_2' and @id = 'PropertySelection_2' and (text() = '
+
+一般
+預約逾期未取
+讀者取消
+館員取消
+下一筆借出
+遺失
+聲明歸還
+還書箱
+自助借還書機
+預約重新連結至題名
+結束盤點
+預約駁回
+預約核准
+書移送到非點收館
+預約停權
+' or . = '
+
+一般
+預約逾期未取
+讀者取消
+館員取消
+下一筆借出
+遺失
+聲明歸還
+還書箱
+自助借還書機
+預約重新連結至題名
+結束盤點
+預約駁回
+預約核准
+書移送到非點收館
+預約停權
+')]</value>
+      <webElementGuid>a79e4bfb-b64c-4269-bbb5-2050b27f330e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

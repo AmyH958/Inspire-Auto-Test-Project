@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>007_場地設備黑名單_根據查詢準則查詢資料_清除查詢條件</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c55faf76-970f-4251-86dd-eb742a8bfc03</testCaseGuid>
+</TestCaseEntity>

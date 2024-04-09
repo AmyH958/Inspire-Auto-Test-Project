@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>005_預約紀錄_編輯一筆預約紀錄_UI顯示正確</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a2f0a6e8-df81-4e1c-bf34-28b153685560</testCaseGuid>
+</TestCaseEntity>

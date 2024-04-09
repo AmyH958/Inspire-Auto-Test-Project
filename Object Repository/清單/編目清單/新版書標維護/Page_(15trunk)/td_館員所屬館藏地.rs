@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_館員所屬館藏地</name>
+   <tag></tag>
+   <elementGuidId>4e9cba26-894f-46e7-be83-4d37645ea1bb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#list_searchForm > table.table1 > tbody > tr > td.table1_right</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//td[(text() = '
+					館員所屬館藏地:
+				' or . = '
+					館員所屬館藏地:
+				')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>6fbdf3e4-3b66-4942-8909-e41dc7613538</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>table1_right</value>
+      <webElementGuid>0a9421e0-369b-472f-aeb1-b77925451e3c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+					館員所屬館藏地:
+				</value>
+      <webElementGuid>98f5755d-d9b6-4908-839e-c7fa56b10754</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;list_searchForm&quot;)/table[@class=&quot;table1&quot;]/tbody[1]/tr[1]/td[@class=&quot;table1_right&quot;]</value>
+      <webElementGuid>e34eab04-c859-4ba9-a3cf-3cda598c6df1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='list_searchForm']/table/tbody/tr/td[3]</value>
+      <webElementGuid>65cbaa7d-8622-4099-8193-4e592c3f6b3c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='待印清單名稱:'])[1]/following::td[2]</value>
+      <webElementGuid>b621bd3c-b585-4310-9f0d-41b465af8e1e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='新增'])[1]/following::td[3]</value>
+      <webElementGuid>97162da6-08c7-43ce-8f9f-8056ed14b466</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='館藏地'])[2]/preceding::td[2]</value>
+      <webElementGuid>8a6d9583-2244-4113-80b2-2f10ae646ef1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='CMUL - 神資圖書館'])[2]/preceding::td[2]</value>
+      <webElementGuid>411a52f3-0e4e-4a1b-9ee6-312150a4f7a0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='館員所屬館藏地:']/parent::*</value>
+      <webElementGuid>ac7a379b-081d-4e13-b1da-f990e7264bdc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/form/table/tbody/tr/td[3]</value>
+      <webElementGuid>ae6b32aa-6af7-4120-8b58-ff0c8083543d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = '
+					館員所屬館藏地:
+				' or . = '
+					館員所屬館藏地:
+				')]</value>
+      <webElementGuid>37937ded-f280-429a-bb31-15b2e7e70846</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

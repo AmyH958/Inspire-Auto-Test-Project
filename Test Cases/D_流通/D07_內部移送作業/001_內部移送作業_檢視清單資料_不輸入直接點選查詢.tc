@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>001_內部移送作業_檢視清單資料_不輸入直接點選查詢</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2a561bbf-de0e-4e86-8f44-f513e458aaec</testCaseGuid>
+</TestCaseEntity>

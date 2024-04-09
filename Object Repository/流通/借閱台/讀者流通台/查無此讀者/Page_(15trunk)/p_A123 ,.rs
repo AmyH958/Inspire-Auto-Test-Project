@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_A123 ,</name>
+   <tag></tag>
+   <elementGuidId>665a1c9f-1d08-496b-bc89-17a1dfa4948f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//p[@id='Any_0_1']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#Any_0_1</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>aa918ed4-7c6c-4961-b10d-4a04aa4bc4c3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>Any_0_1</value>
+      <webElementGuid>9e1734e1-eed1-49aa-b6f6-8c1521fe58b9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+				讀者 A123 不存在,請重新輸入正確讀者資訊</value>
+      <webElementGuid>4fc95c6e-b4a8-4307-a8b2-89f5a1ed7316</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;Any_0_1&quot;)</value>
+      <webElementGuid>de5d37f9-8eda-4d67-99cd-1ac32a294fec</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//p[@id='Any_0_1']</value>
+      <webElementGuid>3c88d8b4-cbc6-4ec6-9625-2cfaa643b8c9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='If_24']/tbody/tr/td/p</value>
+      <webElementGuid>6d48a9e9-9234-4f4a-a16a-6a20f07a5091</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='/inspireapp/'])[1]/following::p[1]</value>
+      <webElementGuid>9689502e-d7a9-4060-b84b-86c00099e37a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='選擇'])[1]/following::p[1]</value>
+      <webElementGuid>12d74d3e-9e85-46ca-8684-2c0b11565e1c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='罰款'])[1]/preceding::p[1]</value>
+      <webElementGuid>e66b2d54-d498-491e-b7c1-cb5fdb6c1a3d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Penalties'])[1]/preceding::p[1]</value>
+      <webElementGuid>72e4e1de-4368-4e2e-b700-90c280eb0b5a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='讀者 A123 不存在,請重新輸入正確讀者資訊']/parent::*</value>
+      <webElementGuid>5a57e8ad-6c45-41fc-b27b-13d6586907ae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p</value>
+      <webElementGuid>378b9462-8e2d-4fb4-b581-5317c5738e4a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[@id = 'Any_0_1' and (text() = '
+				讀者 A123 不存在,請重新輸入正確讀者資訊' or . = '
+				讀者 A123 不存在,請重新輸入正確讀者資訊')]</value>
+      <webElementGuid>87c8e371-9b10-4e69-9400-eb0e24026cd8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

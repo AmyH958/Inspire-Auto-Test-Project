@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_</name>
+   <tag></tag>
+   <elementGuidId>261c6a74-daf1-4847-b368-701a37f465d9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='DirectLink_1']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#DirectLink_1</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>0385ced7-2d06-4556-ace1-6a0b25dcd6ea</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>DirectLink_1</value>
+      <webElementGuid>4d795257-1e11-4a66-ac7a-25bb3c12963f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/inspireapp/circulation/patron/PatronEdit,$DirectLink_0.sdirect?sp=F&amp;sp=l1&amp;updateParts=CardsDetailsArea</value>
+      <webElementGuid>9983870a-04d3-42f7-8284-a347deb0cb6d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onclick</name>
+      <type>Main</type>
+      <value>return tapestry.linkOnClick(this.href,'DirectLink_1', false)</value>
+      <webElementGuid>091c850c-fd3a-4654-b6f8-c12a8e51b04a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+    
+    
+    讀者證號資料
+  </value>
+      <webElementGuid>70e03d3c-7323-4020-8cc3-11a2b188abc8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;DirectLink_1&quot;)</value>
+      <webElementGuid>13cf303c-5f63-45de-b664-3525694617fe</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@id='DirectLink_1']</value>
+      <webElementGuid>5aa0118a-3d93-4ad9-b536-0b13efa8748d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='Any_2_2']/div/a</value>
+      <webElementGuid>20983b25-f6f7-4f17-824c-694a4534ef53</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='A11234'])[1]/following::a[1]</value>
+      <webElementGuid>732bb5e6-c81d-442a-a231-236b552a8a48</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='借閱證號碼'])[1]/following::a[1]</value>
+      <webElementGuid>6dd5a41d-d045-439e-b51e-9584b3568cfb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='查無資料'])[1]/preceding::a[1]</value>
+      <webElementGuid>116f0d03-b1e3-416c-b2de-96b9245b8c23</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='新證卡'])[1]/preceding::a[1]</value>
+      <webElementGuid>cabd8a78-d33a-484c-95f3-1a26c02fa097</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='讀者證號資料']/parent::*</value>
+      <webElementGuid>226b0ebe-8920-4bff-92ba-e2a389a8e2a1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/inspireapp/circulation/patron/PatronEdit,$DirectLink_0.sdirect?sp=F&amp;sp=l1&amp;updateParts=CardsDetailsArea')]</value>
+      <webElementGuid>be3b6acf-9cd3-49f9-a94f-b551af7cb0e2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/a</value>
+      <webElementGuid>4924098e-3061-47e7-9d03-7b8d04901ff4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@id = 'DirectLink_1' and @href = '/inspireapp/circulation/patron/PatronEdit,$DirectLink_0.sdirect?sp=F&amp;sp=l1&amp;updateParts=CardsDetailsArea' and (text() = '
+    
+    
+    讀者證號資料
+  ' or . = '
+    
+    
+    讀者證號資料
+  ')]</value>
+      <webElementGuid>c5552679-53fc-4b5b-af1a-2bc6de78f88b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

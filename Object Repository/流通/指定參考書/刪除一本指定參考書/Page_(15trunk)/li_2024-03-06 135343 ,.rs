@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_2024-03-06 135343 ,</name>
+   <tag></tag>
+   <elementGuidId>1504876d-44b6-43f5-9b6f-a7866fe521e9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>li:nth-of-type(4)</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='LanguageForm']/div[2]/div/ul/li[4]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>4c033321-75ab-49c7-a3b7-50d479ddc0ec</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>最近登入:2024-03-06 13:53:43 ,成功</value>
+      <webElementGuid>dcac552c-dc31-491a-8ca4-369a7622208f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;LanguageForm&quot;)/div[@class=&quot;header l&quot;]/div[@class=&quot;top_menu r&quot;]/ul[1]/li[4]</value>
+      <webElementGuid>0c2a9a42-59b7-48d5-8386-53ec9093d0d1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='LanguageForm']/div[2]/div/ul/li[4]</value>
+      <webElementGuid>b238e77b-6d8b-40cc-a358-501ebbf35f1f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='繁體中文'])[1]/preceding::li[4]</value>
+      <webElementGuid>c0678a22-c189-40b8-8270-806c5565ac3c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[4]</value>
+      <webElementGuid>5090607a-74ac-4b33-8e25-34f669ec2d86</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = '最近登入:2024-03-06 13:53:43 ,成功' or . = '最近登入:2024-03-06 13:53:43 ,成功')]</value>
+      <webElementGuid>5587ea7b-5469-4ca1-96a8-0b2c68ff92c4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

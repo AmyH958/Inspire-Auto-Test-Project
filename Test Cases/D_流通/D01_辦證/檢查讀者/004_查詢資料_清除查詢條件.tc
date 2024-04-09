@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>004_查詢資料_清除查詢條件</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>bcdb5efb-c64c-4e43-a2d4-d9439b379d08</testCaseGuid>
+</TestCaseEntity>

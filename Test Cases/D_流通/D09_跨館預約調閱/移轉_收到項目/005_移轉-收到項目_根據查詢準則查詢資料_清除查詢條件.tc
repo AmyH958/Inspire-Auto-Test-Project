@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>005_移轉-收到項目_根據查詢準則查詢資料_清除查詢條件</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>9837bc59-4f0c-4324-a9f8-02035685481a</testCaseGuid>
+</TestCaseEntity>

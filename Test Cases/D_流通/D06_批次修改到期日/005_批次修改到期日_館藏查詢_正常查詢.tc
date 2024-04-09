@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>005_批次修改到期日_館藏查詢_正常查詢</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ca1d2ac1-6545-499b-9edb-db90591d3784</testCaseGuid>
+</TestCaseEntity>

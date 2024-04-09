@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>b_starts with  order by , on servers iNspire</name>
+   <tag></tag>
+   <elementGuidId>c59c746c-1818-4538-9603-796822721931</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#viewRecommend > b</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='viewRecommend']/b</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>b</value>
+      <webElementGuid>ea1c83a5-f49a-4fbb-b965-63b9c414631a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>正題名 starts with '健康' order by 正題名, on servers: iNspire</value>
+      <webElementGuid>0fa07688-29fe-46c5-86b2-fbb270fe0f8e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;viewRecommend&quot;)/b[1]</value>
+      <webElementGuid>6e597230-6c99-47b1-a402-a24e72c0c4ce</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id='viewRecommend']/b</value>
+      <webElementGuid>7c800681-e03a-4fed-afe8-4eaf2bfc8dc9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='日期'])[1]/following::b[1]</value>
+      <webElementGuid>c09d266f-e579-4171-a01b-a08b96f06cc2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='檢索策略內容'])[1]/following::b[2]</value>
+      <webElementGuid>42fa0df6-3701-4924-920e-24f6080632aa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a/b</value>
+      <webElementGuid>cc0efddb-354a-41b6-aee1-a3c1631d6f85</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//b[(text() = concat(&quot;正題名 starts with &quot; , &quot;'&quot; , &quot;健康&quot; , &quot;'&quot; , &quot; order by 正題名, on servers: iNspire&quot;) or . = concat(&quot;正題名 starts with &quot; , &quot;'&quot; , &quot;健康&quot; , &quot;'&quot; , &quot; order by 正題名, on servers: iNspire&quot;))]</value>
+      <webElementGuid>4428fbb5-ef4a-4126-95dd-7e500c5a3388</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

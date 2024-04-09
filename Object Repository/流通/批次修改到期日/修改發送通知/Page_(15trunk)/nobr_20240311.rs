@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>nobr_20240311</name>
+   <tag></tag>
+   <elementGuidId>448d93ac-2fa6-4959-90b4-485e8c232938</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//tr[@id='For_79']/td[14]/p/nobr</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>td:nth-of-type(14) > p > nobr</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>nobr</value>
+      <webElementGuid>2e13871d-36e0-44ae-a579-585edf0d4d40</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>2024/03/11</value>
+      <webElementGuid>384faece-ac78-4a3f-a057-85cee194726a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;For_79&quot;)/td[14]/p[1]/nobr[1]</value>
+      <webElementGuid>73972654-dabc-476f-a82e-a8a488858de9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//tr[@id='For_79']/td[14]/p/nobr</value>
+      <webElementGuid>1c814d73-e1b9-48ce-997c-50640f3b6d0b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='歐陽菲菲'])[1]/following::nobr[5]</value>
+      <webElementGuid>20f8fab6-45ed-4e2c-aa4e-740e362822a1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='超不健康2'])[1]/following::nobr[5]</value>
+      <webElementGuid>f495f67d-402e-480a-ba5a-59b7b7853e27</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Borrow-day'])[2]/preceding::nobr[2]</value>
+      <webElementGuid>5deff21b-590c-402a-8acd-39609308fcbc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='CU2021010593ABCD'])[1]/preceding::nobr[2]</value>
+      <webElementGuid>9788dc2c-f66c-4d4f-ae3b-c9dd8b19d05d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[14]/p/nobr</value>
+      <webElementGuid>770bf772-7be1-47fc-85fb-bfeaecd2d57c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//nobr[(text() = '2024/03/11' or . = '2024/03/11')]</value>
+      <webElementGuid>36bf0404-1368-46e8-9826-a12932d8efea</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

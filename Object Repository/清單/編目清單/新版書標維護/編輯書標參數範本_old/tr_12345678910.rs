@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>tr_12345678910</name>
+   <tag></tag>
+   <elementGuidId>8a99c0e1-82b4-4345-8e00-52b2bb394169</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='LbaleParameterFrom']/table/tbody/tr[11]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>tr</value>
+      <webElementGuid>a57948ec-9f4f-4be0-8cb3-c4ed150b4973</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+					數量:
+					
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+
+					行距比例:
+					%
+				</value>
+      <webElementGuid>5e4c7c66-2b71-41e1-8e5a-91b03707d68d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;LbaleParameterFrom&quot;)/table[1]/tbody[1]/tr[11]</value>
+      <webElementGuid>e20f1bc0-c5a0-48b5-b954-87c224428b0a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='LbaleParameterFrom']/table/tbody/tr[11]</value>
+      <webElementGuid>85facb38-4f88-4143-96b9-f899485070fa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='顯示邊框:'])[1]/following::tr[1]</value>
+      <webElementGuid>e6a32ef2-eff6-4d6c-9e1d-f77ff06987a9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[11]</value>
+      <webElementGuid>6bd4cd5d-409f-4577-b79a-e88529b06172</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//tr[(text() = '
+					數量:
+					
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+
+					行距比例:
+					%
+				' or . = '
+					數量:
+					
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+
+					行距比例:
+					%
+				')]</value>
+      <webElementGuid>69efb424-f5ee-42f3-8d48-3b1dfc04070a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

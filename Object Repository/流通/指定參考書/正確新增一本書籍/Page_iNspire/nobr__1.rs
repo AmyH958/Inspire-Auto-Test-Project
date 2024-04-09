@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>nobr__1</name>
+   <tag></tag>
+   <elementGuidId>6010d339-23fa-43e5-bee9-953190b77324</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>td:nth-of-type(5) > nobr</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@id='If_8']/table/tbody/tr/td[5]/nobr</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>nobr</value>
+      <webElementGuid>026237cc-2032-4aee-b622-1d9050e4b758</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+											條碼號
+										</value>
+      <webElementGuid>d8179a10-48a5-4479-a604-219e7ef182d0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;If_8&quot;)/table[@class=&quot;search_list&quot;]/tbody[1]/tr[@class=&quot;search_list_t&quot;]/td[5]/nobr[1]</value>
+      <webElementGuid>17d79c66-cf3d-41de-b59a-0b5523b42efc</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//span[@id='If_8']/table/tbody/tr/td[5]/nobr</value>
+      <webElementGuid>afb6812e-2eb5-4598-9e72-9fed552d2d64</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='教師姓名'])[1]/following::nobr[1]</value>
+      <webElementGuid>9439e045-d574-457a-945d-c6f5eb643ce0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='教師證號'])[1]/following::nobr[2]</value>
+      <webElementGuid>b4987723-01f3-4b81-ae32-e87a081b296e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='索書號'])[1]/preceding::nobr[1]</value>
+      <webElementGuid>81e9539d-74df-42bf-8106-1ecac39044dd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='指定有效日期(迄)'])[1]/preceding::nobr[2]</value>
+      <webElementGuid>4104e0f6-484e-41d8-a3e2-1593b52e30de</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='條碼號']/parent::*</value>
+      <webElementGuid>d37f17ca-b728-4f37-89fd-180327b3600c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[5]/nobr</value>
+      <webElementGuid>595f8734-d7d4-4ab1-b595-de37a1a2077a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//nobr[(text() = '
+											條碼號
+										' or . = '
+											條碼號
+										')]</value>
+      <webElementGuid>b60cf364-4c73-45ad-94eb-afda6108f255</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

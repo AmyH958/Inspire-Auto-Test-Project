@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>002_不同時段使用次數統計_檢視清單_報表狀態</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>83792790-03b9-44fd-9573-00f7a775ce22</testCaseGuid>
+</TestCaseEntity>

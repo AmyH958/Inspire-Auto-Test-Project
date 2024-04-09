@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>012_選擇報廢_條碼號輸入模式_不輸入直接搜尋</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e1475e1c-32d4-4c5d-a68a-0d6af7e0fa50</testCaseGuid>
+</TestCaseEntity>

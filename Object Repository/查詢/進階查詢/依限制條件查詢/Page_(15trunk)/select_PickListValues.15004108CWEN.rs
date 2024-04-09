@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_PickListValues.15004108CWEN</name>
+   <tag></tag>
+   <elementGuidId>8e758a59-7654-4830-8659-e9ff0d9241b7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#PropertySelection_25</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='PropertySelection_25']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>cf55a110-1dac-45dd-ba12-5e8586a6182b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>PropertySelection_25</value>
+      <webElementGuid>8463f1cf-d4ea-4a1c-95b1-c04b96111098</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>PropertySelection_25</value>
+      <webElementGuid>4b39ee18-45db-47e1-919a-d1900690c2ca</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+
+在架
+借出
+預約保留
+遺失
+盤點未到
+聲明歸還
+採購處理中
+移送編目
+編目處理中
+移送閱覽
+流通處理中
+此筆盤點
+核准跨館移送
+等待送回原館藏地
+等待轉送其他館藏地
+跨館移送中
+跨館轉送中
+送回原館藏地
+報銷中
+報銷找回
+重新歸架
+展示中
+已送裝訂
+暫時不可提供
+待報廢
+已報廢
+書箱借出
+久借未還
+尋書未獲
+PickListValues.15004108
+盤點結果狀態測試
+測試選項
+CWEN測試
+</value>
+      <webElementGuid>e287307f-76bb-487c-bb2d-2be7213451b8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;PropertySelection_25&quot;)</value>
+      <webElementGuid>a56b8ac0-0403-459e-8d00-4bd1bfcf3d3a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='PropertySelection_25']</value>
+      <webElementGuid>b1970a6a-2c3e-4b18-8389-33e181472e5d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='If_49']/tbody/tr[14]/td[2]/select</value>
+      <webElementGuid>7999cc16-b1f1-4ad4-8c02-0c5607a509ef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[14]/td[2]/select</value>
+      <webElementGuid>e35d94b5-247d-40f3-9617-dd32037de7aa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@name = 'PropertySelection_25' and @id = 'PropertySelection_25' and (text() = '
+
+在架
+借出
+預約保留
+遺失
+盤點未到
+聲明歸還
+採購處理中
+移送編目
+編目處理中
+移送閱覽
+流通處理中
+此筆盤點
+核准跨館移送
+等待送回原館藏地
+等待轉送其他館藏地
+跨館移送中
+跨館轉送中
+送回原館藏地
+報銷中
+報銷找回
+重新歸架
+展示中
+已送裝訂
+暫時不可提供
+待報廢
+已報廢
+書箱借出
+久借未還
+尋書未獲
+PickListValues.15004108
+盤點結果狀態測試
+測試選項
+CWEN測試
+' or . = '
+
+在架
+借出
+預約保留
+遺失
+盤點未到
+聲明歸還
+採購處理中
+移送編目
+編目處理中
+移送閱覽
+流通處理中
+此筆盤點
+核准跨館移送
+等待送回原館藏地
+等待轉送其他館藏地
+跨館移送中
+跨館轉送中
+送回原館藏地
+報銷中
+報銷找回
+重新歸架
+展示中
+已送裝訂
+暫時不可提供
+待報廢
+已報廢
+書箱借出
+久借未還
+尋書未獲
+PickListValues.15004108
+盤點結果狀態測試
+測試選項
+CWEN測試
+')]</value>
+      <webElementGuid>d6c950d8-8536-4665-af3d-928fc627e45d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

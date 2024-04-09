@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>006_已報廢歷史查詢_根據查詢準則查詢資料_依限制條件查詢</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>9a687c22-0647-4a57-9d22-11d6c4b1fc98</testCaseGuid>
+</TestCaseEntity>

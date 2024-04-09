@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td__20230725</name>
+   <tag></tag>
+   <elementGuidId>57eaebf2-6721-4ce9-9580-f3e0aab724a1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//tr[@id='For_4']/td[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#For_4 > td:nth-of-type(2)</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>f0db4c27-8a0d-49e3-936a-87ea9bf8e809</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+				測試流通範本_20230725</value>
+      <webElementGuid>93fb52a3-0ef2-4bda-9d99-c07fe4eb3223</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;For_4&quot;)/td[2]</value>
+      <webElementGuid>9cd1a3bc-fb24-4a6a-aab2-7d0f2cec695e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//tr[@id='For_4']/td[2]</value>
+      <webElementGuid>99bdf06c-eb9d-4b67-83bd-f1e22ca0173c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='圖書逾期再次通知(Overdue notice repeat)'])[1]/following::td[3]</value>
+      <webElementGuid>c8695b5a-be5f-43c2-bcbf-4030f1832605</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='圖書逾期通知123(Overdue first notice)'])[1]/following::td[6]</value>
+      <webElementGuid>bd172ce7-d896-40ab-a2d2-681491090885</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='圖書長期逾期通知(Overdue notice last)'])[1]/preceding::td[3]</value>
+      <webElementGuid>0e0a340a-02f3-4822-9c1e-c5b8be117f64</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[6]/td[2]</value>
+      <webElementGuid>399d46f1-a681-4a36-9ed6-543994c1ebeb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = '
+				測試流通範本_20230725' or . = '
+				測試流通範本_20230725')]</value>
+      <webElementGuid>eb32c3fd-3c40-4bfa-a96f-4acd109beb7f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

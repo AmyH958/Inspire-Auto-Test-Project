@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>001_類號區間統計報表_檢視清單_UI顯示正確</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>0909c837-e1b5-46e8-af1c-eaec534291e8</testCaseGuid>
+</TestCaseEntity>

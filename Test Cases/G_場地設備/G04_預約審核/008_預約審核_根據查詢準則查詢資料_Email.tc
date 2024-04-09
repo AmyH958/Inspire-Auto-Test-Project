@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>008_預約審核_根據查詢準則查詢資料_Email</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e7e57a31-2b5e-4e21-9ced-13454bf99e05</testCaseGuid>
+</TestCaseEntity>

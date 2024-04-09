@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>005_跨館預約調閱需求_根據查詢準則查詢資料_清除查詢條件</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fc1b4f63-d491-4d4f-b6d4-bec56498e0e7</testCaseGuid>
+</TestCaseEntity>

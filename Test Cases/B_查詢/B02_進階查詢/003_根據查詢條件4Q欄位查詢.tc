@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>003_根據查詢條件4Q欄位查詢</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>96746467-9ce2-46ac-902f-9f1c20b6106d</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>de6a2f5d-b2a1-42e3-9493-2d6ce662efff</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>findTestData(null)</defaultValue>
+      <description></description>
+      <id>de6a2f5d-b2a1-42e3-9493-2d6ce662efff</id>
+      <masked>false</masked>
+      <name>variable</name>
+   </variable>
+</TestCaseEntity>

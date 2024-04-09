@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>002_編目館別大類交叉分析報表_檢視清單_清除區間檢索日期查詢</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b0f37ebc-0b39-4a8a-ad48-820135a7ab48</testCaseGuid>
+</TestCaseEntity>

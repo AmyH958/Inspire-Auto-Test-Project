@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_ISBNISSN_1</name>
+   <tag></tag>
+   <elementGuidId>d8898447-97b7-4c36-995e-6ced8e23dde3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#sCriteria3</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='sCriteria3']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>f108023d-e72a-4ed7-9f0a-67fa23da7b3a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>sCriteria3</value>
+      <webElementGuid>ae573d94-cb89-47fb-b940-4a6192932f66</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>sCriteria3</value>
+      <webElementGuid>d52ff175-d917-4156-b178-58653065b183</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+正題名
+書名
+作者
+出版者/書商/捐贈者
+出版地
+出版年
+ISBN/ISSN
+主題
+條碼號
+集叢名
+館藏登收日期
+索書號
+分類號
+系統識別號
+舊系統識別碼
+館員註記
+流通註記
+採購註記
+期刊註記
+官書編號
+叢刊代碼
+附註項
+版本項
+其他資料識別號
+其他號碼
+美國國會圖書館控制號
+國家圖書館書目號
+書目建立日期
+書目建立館員姓名
+書目建立館員帳號
+書目修改日期
+書目修改館員姓名
+書目修改館員帳號
+</value>
+      <webElementGuid>024d7e59-363f-4fa5-972f-99aee321b7e0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;sCriteria3&quot;)</value>
+      <webElementGuid>8d1a083f-2259-4d4e-a167-706802ddc611</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='sCriteria3']</value>
+      <webElementGuid>3d27bc28-cb70-4f23-9e8e-21cfc23bcbfb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//p[@id='If_21']/select[2]</value>
+      <webElementGuid>60a4dc46-c3c4-4eb0-87bc-356c333bd57f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p[5]/select[2]</value>
+      <webElementGuid>bd0e6605-54e6-478a-a145-2ac21f9e53ed</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@name = 'sCriteria3' and @id = 'sCriteria3' and (text() = '
+正題名
+書名
+作者
+出版者/書商/捐贈者
+出版地
+出版年
+ISBN/ISSN
+主題
+條碼號
+集叢名
+館藏登收日期
+索書號
+分類號
+系統識別號
+舊系統識別碼
+館員註記
+流通註記
+採購註記
+期刊註記
+官書編號
+叢刊代碼
+附註項
+版本項
+其他資料識別號
+其他號碼
+美國國會圖書館控制號
+國家圖書館書目號
+書目建立日期
+書目建立館員姓名
+書目建立館員帳號
+書目修改日期
+書目修改館員姓名
+書目修改館員帳號
+' or . = '
+正題名
+書名
+作者
+出版者/書商/捐贈者
+出版地
+出版年
+ISBN/ISSN
+主題
+條碼號
+集叢名
+館藏登收日期
+索書號
+分類號
+系統識別號
+舊系統識別碼
+館員註記
+流通註記
+採購註記
+期刊註記
+官書編號
+叢刊代碼
+附註項
+版本項
+其他資料識別號
+其他號碼
+美國國會圖書館控制號
+國家圖書館書目號
+書目建立日期
+書目建立館員姓名
+書目建立館員帳號
+書目修改日期
+書目修改館員姓名
+書目修改館員帳號
+')]</value>
+      <webElementGuid>cf32dea7-27b0-4891-ac18-983822c42458</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

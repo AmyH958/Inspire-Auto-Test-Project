@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>b__1_2_3</name>
+   <tag></tag>
+   <elementGuidId>52ceed4d-4644-4daf-b33b-29d97a70d960</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='HiddenBrowse']/table/tbody/tr/td[3]/nobr/font/b</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>td:nth-of-type(3) > nobr > font > b</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>b</value>
+      <webElementGuid>2e981780-48d2-49b9-a48c-a4d13bed408b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>起始以:</value>
+      <webElementGuid>21aca496-6054-4bb2-8913-62e83bf57f19</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;HiddenBrowse&quot;)/table[@class=&quot;table9&quot;]/tbody[1]/tr[1]/td[3]/nobr[1]/font[1]/b[1]</value>
+      <webElementGuid>d517cc1e-4656-4eaf-a6f9-e88156491c34</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='HiddenBrowse']/table/tbody/tr/td[3]/nobr/font/b</value>
+      <webElementGuid>3cec0469-1215-4133-a631-5fdefd21a050</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='瀏覽條件:'])[1]/following::b[1]</value>
+      <webElementGuid>e1f94d59-7b0c-4032-860a-e53972d2bea4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='查詢條件'])[1]/following::b[2]</value>
+      <webElementGuid>25913da3-471b-4fca-a950-c2d0ada07217</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='排序條件:'])[1]/preceding::b[1]</value>
+      <webElementGuid>6deaf023-63df-4cc0-89be-6aceff76df99</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='符號表:'])[1]/preceding::b[2]</value>
+      <webElementGuid>117b7703-b403-49b5-a4a3-af2071116945</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='起始以:']/parent::*</value>
+      <webElementGuid>ea3fd25f-52cc-4c38-ae9e-1c5990ef8e4d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[3]/nobr/font/b</value>
+      <webElementGuid>f9b46e9e-cecf-4aa7-9a61-9c204d58b8ca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//b[(text() = '起始以:' or . = '起始以:')]</value>
+      <webElementGuid>0aedbfcf-027b-49d4-8f20-2c8c11119a14</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

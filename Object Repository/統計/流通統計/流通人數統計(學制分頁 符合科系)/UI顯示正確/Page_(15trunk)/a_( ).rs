@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_( )</name>
+   <tag></tag>
+   <elementGuidId>58dbaf22-0ec2-41c4-9996-8c898b9f8c30</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>li.current > ul.ssub_nav_ul > li:nth-of-type(3) > a</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='menu2']/ul[11]/li[4]/ul/li[3]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>5a242f6b-12bc-4cda-9cb2-21fcfb7aa9be</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/inspireapp/reports/circulation/circulation_statistics_number_report?init=1</value>
+      <webElementGuid>7e7fbd39-413b-4e0c-bad9-845730b99d79</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>流通人數統計(學制分頁 符合科系)</value>
+      <webElementGuid>52c0e577-8df4-4c06-aef7-c15f21b309a6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;menu2&quot;)/ul[@class=&quot;sub_nav_ul&quot;]/li[@class=&quot;current&quot;]/ul[@class=&quot;ssub_nav_ul&quot;]/li[3]/a[1]</value>
+      <webElementGuid>f215821e-824c-4dcb-a897-42b414c27d29</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='menu2']/ul[11]/li[4]/ul/li[3]/a</value>
+      <webElementGuid>82d4ae27-39cc-46dd-91a4-511def791974</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'流通人數統計(學制分頁 符合科系)')]</value>
+      <webElementGuid>534b410c-e2cd-4a6b-b338-21858ce4e05c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='書展借閱清單'])[1]/following::a[1]</value>
+      <webElementGuid>426a25ca-bf1b-413b-95d7-de51572058e7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='讀者借閱排行榜'])[1]/following::a[2]</value>
+      <webElementGuid>00e8f562-b795-4d51-bbe3-d079b33e53ca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='讀者類型借閱暨歸還流通量統計報表'])[1]/preceding::a[1]</value>
+      <webElementGuid>21e909c8-bdcb-48a4-ad06-e5a71091624b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='流通人次冊數統計'])[1]/preceding::a[2]</value>
+      <webElementGuid>c968329b-5edc-45f6-9521-f8d216fafb2e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='流通人數統計(學制分頁 符合科系)']/parent::*</value>
+      <webElementGuid>71c48666-bb20-48a3-b5a6-965db16d34b2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/inspireapp/reports/circulation/circulation_statistics_number_report?init=1')]</value>
+      <webElementGuid>2890788a-ea18-49df-9cb9-347211d5e8f6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//ul[11]/li[4]/ul/li[3]/a</value>
+      <webElementGuid>ff813ccb-30c4-494a-ae64-c426f4ab381b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/inspireapp/reports/circulation/circulation_statistics_number_report?init=1' and (text() = '流通人數統計(學制分頁 符合科系)' or . = '流通人數統計(學制分頁 符合科系)')]</value>
+      <webElementGuid>c0e71f31-c3e0-4241-8c2c-030542e1952a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

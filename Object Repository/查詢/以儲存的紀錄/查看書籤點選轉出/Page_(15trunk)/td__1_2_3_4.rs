@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td__1_2_3_4</name>
+   <tag></tag>
+   <elementGuidId>6ab6d9e7-cc58-4a6e-a1f6-56dd6ef58f1b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='exportDialog_content']/table/tbody/tr[5]/td</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#exportDialog_content > table > tbody > tr:nth-of-type(5) > td</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>2a5c9e18-22bb-417f-8d2b-d85d282d76d4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>館藏地</value>
+      <webElementGuid>901bd33e-1c17-47b8-ad06-1c05879bf5c6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;exportDialog_content&quot;)/table[1]/tbody[1]/tr[5]/td[1]</value>
+      <webElementGuid>11700371-0b63-4d1b-bd23-1463fd444d42</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='exportDialog_content']/table/tbody/tr[5]/td</value>
+      <webElementGuid>fbbb6219-4ae6-4209-801d-bae1df8bc02b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='限制條件'])[1]/following::td[2]</value>
+      <webElementGuid>dc4502fb-c77c-4573-aff4-e44a54ef4468</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='館藏'])[1]/following::td[4]</value>
+      <webElementGuid>0d1789ad-4114-4889-8a3a-7415ae4ee7a1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='館藏地'])[3]/preceding::td[2]</value>
+      <webElementGuid>2b7b38f5-37d7-4a0d-84ca-5ce7f99b7078</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='CMUL - 神資圖書館'])[1]/preceding::td[2]</value>
+      <webElementGuid>033849a1-56db-4d3e-96d3-0614aa5f88a5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td/div/table/tbody/tr[5]/td</value>
+      <webElementGuid>1e2a8b25-25cf-40fe-854a-04cb93382d6d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = '館藏地' or . = '館藏地')]</value>
+      <webElementGuid>80a20eb0-0ffa-41c6-9902-0b8ea223d030</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

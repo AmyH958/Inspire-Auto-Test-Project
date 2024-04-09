@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a__1_2</name>
+   <tag></tag>
+   <elementGuidId>bb7fc95a-2796-4585-9422-afdd5c05ec54</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id = 'DirectLink_1' and @href = '/inspireapp/BibliographicEdit,$PopupBorder.$DirectLink_1.sdirect' and (text() = '&#xd;
+				  是  &#xd;
+			' or . = '&#xd;
+				  是  &#xd;
+			')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#DirectLink_1</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[contains(text(),'是')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>d9ca271c-8960-4f3d-8782-d0fc8227286a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>DirectLink_1</value>
+      <webElementGuid>e00afc1e-34d6-4f6f-86c4-966750acd6b8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>butonsub</value>
+      <webElementGuid>b2ad3993-5475-4411-a00f-83ac7ebd5f75</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/inspireapp/BibliographicEdit,$PopupBorder.$DirectLink_1.sdirect</value>
+      <webElementGuid>c88e2a2f-36de-4d5c-92ce-aec7a772b51e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>&#xd;
+				  是  &#xd;
+			</value>
+      <webElementGuid>50718602-bcde-44dd-8233-af069d70e319</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;DirectLink_1&quot;)</value>
+      <webElementGuid>e89bc532-6ee8-42d1-97d0-e8e6ea1c4361</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@id='DirectLink_1']</value>
+      <webElementGuid>1612f349-a37b-425b-a4c0-631a86c51488</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='CloseReminderDialog_content']/table/tbody/tr/td[2]/a</value>
+      <webElementGuid>0d0ad93b-8998-4bbc-bfad-0016b1395eaa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'是')]</value>
+      <webElementGuid>52582a21-3cc8-4b98-a32c-0512179045ab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='提示'])[1]/following::a[1]</value>
+      <webElementGuid>b6c1d3c9-06a6-4c7d-afa3-9d1371fd3392</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='建立關聯者資訊'])[1]/following::a[2]</value>
+      <webElementGuid>666060c2-bedf-4583-b9ce-86ed9b058a21</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/inspireapp/BibliographicEdit,$PopupBorder.$DirectLink_1.sdirect')]</value>
+      <webElementGuid>97f35d26-30bc-4e69-97e9-732fe7ec6b0a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td/div/table/tbody/tr/td[2]/a</value>
+      <webElementGuid>406c2cb0-14d1-4993-9dd5-088d4875099a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@id = 'DirectLink_1' and @href = '/inspireapp/BibliographicEdit,$PopupBorder.$DirectLink_1.sdirect' and (text() = '
+				  是  
+			' or . = '
+				  是  
+			')]</value>
+      <webElementGuid>20e599a9-c406-47fb-b15b-3e2223107b4a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

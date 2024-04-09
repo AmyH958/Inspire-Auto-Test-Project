@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>b__1_2</name>
+   <tag></tag>
+   <elementGuidId>a57765ba-c65f-4cef-a5f6-22fe94838b20</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='RadioGroup']/tbody/tr[2]/td/div/table/tbody/tr/td[5]/b</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div > table > tbody > tr > td:nth-of-type(5) > b</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>b</value>
+      <webElementGuid>0b7ed88f-140c-4c08-bb50-b6560788f3aa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>台中總館</value>
+      <webElementGuid>fc6e761d-bb23-4af2-a5a4-123bdb7842a2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;RadioGroup&quot;)/tbody[1]/tr[2]/td[1]/div[1]/table[1]/tbody[1]/tr[1]/td[5]/b[1]</value>
+      <webElementGuid>1ba87502-35e7-4b52-89af-8f67a2620660</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='RadioGroup']/tbody/tr[2]/td/div/table/tbody/tr/td[5]/b</value>
+      <webElementGuid>7bd7e6d1-3224-4182-a700-f82cca76a1e0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='神資圖書館'])[1]/following::b[1]</value>
+      <webElementGuid>294b96bf-9197-472f-bc9e-0415508e1ee6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='A123456789'])[1]/following::b[2]</value>
+      <webElementGuid>0025ff98-8310-4dbf-b7b2-874e42460cb0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='神通測試帳號12'])[1]/preceding::b[1]</value>
+      <webElementGuid>5ff024a0-7f2d-492f-8bfa-299daddd0ed2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='E123456780'])[1]/preceding::b[2]</value>
+      <webElementGuid>24ff9b73-a79f-4e12-9331-a50a6447a9a1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='台中總館']/parent::*</value>
+      <webElementGuid>82395625-3985-46ef-aed3-cb1f55147edc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/table/tbody/tr/td[5]/b</value>
+      <webElementGuid>87e0784a-4a15-4fa8-840e-bcea9a6a3c6f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//b[(text() = '台中總館' or . = '台中總館')]</value>
+      <webElementGuid>9e2e273a-3991-4160-9243-e2274227c836</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_External transit</name>
+   <tag></tag>
+   <elementGuidId>08c5fbb9-74e3-4863-8e04-94e6464d99f9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#DirectLink_1</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='DirectLink_1']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>e5ea9896-39fd-48c8-a4ca-1b7e6be681c4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>DirectLink_1</value>
+      <webElementGuid>52c43ad3-06ed-4d7d-a2ca-b7a7d6cc1285</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onclick</name>
+      <type>Main</type>
+      <value>return createPop(this.href);</value>
+      <webElementGuid>d021c6bd-79cf-42c7-a8f7-fd404e3a4a0e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/inspireapp/circulation/pages/SearchTransactions,crsAreaTransactions.$DirectLink.sdirect?sp=l1109221</value>
+      <webElementGuid>0cd176b5-fbf2-4d6c-9c8d-3ef36cf0994a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+				外館通閱  
+					External transit
+		    </value>
+      <webElementGuid>13a388f1-1ef1-4cbd-8d43-9d9195b7e8c7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;DirectLink_1&quot;)</value>
+      <webElementGuid>625edaf0-aad1-4813-b0fa-4c7d21a089bb</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@id='DirectLink_1']</value>
+      <webElementGuid>5386f46e-7d52-4d66-9881-25aae570b554</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//tr[@id='For_8']/td[3]/nobr/a</value>
+      <webElementGuid>3bccd3f5-9640-40b4-ae41-76c2cf9eb53a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'外館通閱  
+					External transit')]</value>
+      <webElementGuid>9c62eced-b67b-4125-826d-999858a503eb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='預約可取夾書單號'])[5]/following::a[1]</value>
+      <webElementGuid>a058f18a-714c-4ec1-9608-f61585d669d3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='完成日期'])[6]/following::a[1]</value>
+      <webElementGuid>1ab5dffa-61d3-4228-a17a-bf904554964b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='中醫五官科學臺北市 : 啟業, 民75'])[1]/preceding::a[1]</value>
+      <webElementGuid>6d8ca8f9-0fbd-4747-bf1e-2c51d07f189d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='台中總館書庫'])[1]/preceding::a[1]</value>
+      <webElementGuid>ccec1f2d-4d4b-4eee-b451-944e48fead28</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/inspireapp/circulation/pages/SearchTransactions,crsAreaTransactions.$DirectLink.sdirect?sp=l1109221')]</value>
+      <webElementGuid>b03bc0c5-2a3d-44fa-aa87-9c2d1dc0e8e4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[3]/nobr/a</value>
+      <webElementGuid>8417090b-e81a-454f-b1d0-a0887ffb7baa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@id = 'DirectLink_1' and @href = '/inspireapp/circulation/pages/SearchTransactions,crsAreaTransactions.$DirectLink.sdirect?sp=l1109221' and (text() = '
+				外館通閱  
+					External transit
+		    ' or . = '
+				外館通閱  
+					External transit
+		    ')]</value>
+      <webElementGuid>23f2b637-e229-484a-ad5d-3e540abf44df</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>006_跨館預約調閱需求_根據查詢準則查詢資料_依限制條件查詢</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>30b3ca04-ce17-4276-8bcd-3bc3d07c55a9</testCaseGuid>
+</TestCaseEntity>

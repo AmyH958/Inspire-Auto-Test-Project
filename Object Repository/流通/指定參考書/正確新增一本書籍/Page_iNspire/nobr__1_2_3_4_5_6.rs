@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>nobr__1_2_3_4_5_6</name>
+   <tag></tag>
+   <elementGuidId>abc8b962-ad8f-430b-9c6b-e137e44b180c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>td:nth-of-type(11) > nobr</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@id='If_8']/table/tbody/tr/td[11]/nobr</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>nobr</value>
+      <webElementGuid>c0caad71-7d8b-4cfa-b080-bbc3d98ae363</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+											指定館藏地
+										</value>
+      <webElementGuid>444edbe4-5da3-4af8-9ed7-b2dedf7e8e16</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;If_8&quot;)/table[@class=&quot;search_list&quot;]/tbody[1]/tr[@class=&quot;search_list_t&quot;]/td[11]/nobr[1]</value>
+      <webElementGuid>ae94f2e1-3c70-4e78-a5c6-a2cc517f1106</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//span[@id='If_8']/table/tbody/tr/td[11]/nobr</value>
+      <webElementGuid>8d840475-06f5-4dc7-9ac3-e75a7eb90c05</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='單位所系'])[1]/following::nobr[1]</value>
+      <webElementGuid>bda6d52e-3028-452e-959a-12eeadf3959b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='課程名稱'])[1]/following::nobr[2]</value>
+      <webElementGuid>a2d2d559-243e-4231-a241-45a5d3af22f5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='.'])[1]/preceding::nobr[1]</value>
+      <webElementGuid>73fd17a5-a3d3-4ff0-b80e-0f38150da0f3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='A11234'])[1]/preceding::nobr[1]</value>
+      <webElementGuid>90180af1-5180-4cda-b7dd-d390fc2ba3bb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='指定館藏地']/parent::*</value>
+      <webElementGuid>81a748e2-f683-425a-a57e-806b9f0cca71</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[11]/nobr</value>
+      <webElementGuid>0d0f6195-2287-48d9-9586-03a2e6bc7322</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//nobr[(text() = '
+											指定館藏地
+										' or . = '
+											指定館藏地
+										')]</value>
+      <webElementGuid>0dd65047-5b5e-4925-9007-e1e9f12df512</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

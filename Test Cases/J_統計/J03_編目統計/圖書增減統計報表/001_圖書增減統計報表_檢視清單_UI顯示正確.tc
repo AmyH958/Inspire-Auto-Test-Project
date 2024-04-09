@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>001_圖書增減統計報表_檢視清單_UI顯示正確</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>6c8468e4-00a8-474e-8cf3-8a6d4746749c</testCaseGuid>
+</TestCaseEntity>

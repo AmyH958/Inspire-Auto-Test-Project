@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>font_Patron class</name>
+   <tag></tag>
+   <elementGuidId>20f3bc2e-9c37-47a7-8680-dc3b738304a9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='5']/font</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#5 > font</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>font</value>
+      <webElementGuid>5fdc6211-b10a-49f7-8657-877324bc8fa1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>size</name>
+      <type>Main</type>
+      <value>4px</value>
+      <webElementGuid>62b6f51b-833d-41c8-a640-745a3a7d2b03</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>[Patron class]</value>
+      <webElementGuid>4cf646dc-c85e-4181-9167-de7c0aa52ab7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;5&quot;)/font[1]</value>
+      <webElementGuid>43a1bc8a-d7ea-456e-bb65-4b72b7e93ea4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='5']/font</value>
+      <webElementGuid>56507035-b4bc-4c45-bc58-8d76f7aec4f7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='[Location]'])[2]/following::font[1]</value>
+      <webElementGuid>2707e450-177c-4a60-9843-3cc3551467df</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='[Number]'])[2]/following::font[2]</value>
+      <webElementGuid>a9a1772b-8dd7-4ca9-8d39-91a1320ce777</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='[National ID number]'])[2]/preceding::font[1]</value>
+      <webElementGuid>58828671-51d5-412a-98a3-d943d7212cbe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='前置碼:'])[2]/preceding::font[2]</value>
+      <webElementGuid>df907191-d50e-4e3c-b8bb-dfebb4d25b82</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/font</value>
+      <webElementGuid>a7c451f6-2bf2-4e55-9a87-5670ae241d7a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//font[(text() = '[Patron class]' or . = '[Patron class]')]</value>
+      <webElementGuid>d0e9b67a-f438-4dc1-a4bb-b79aba598627</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

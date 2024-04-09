@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>002_類號區間統計報表_檢視清單_正常查詢</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>18893b5c-786d-48a9-be61-3015402608bd</testCaseGuid>
+</TestCaseEntity>

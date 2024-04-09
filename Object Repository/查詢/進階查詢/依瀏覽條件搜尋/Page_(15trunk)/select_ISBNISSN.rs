@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_ISBNISSN</name>
+   <tag></tag>
+   <elementGuidId>5f79db89-6a3c-4c46-b884-abe51e32e1c1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#browseCriteria</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='browseCriteria']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>bd8f51ed-a193-4a5f-9085-f709a4e54623</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>browseCriteria</value>
+      <webElementGuid>e49b92f7-8aa0-4554-b387-670b06569fc0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>browseCriteria</value>
+      <webElementGuid>148f9cac-68ce-497a-8a36-8118bb892fa3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+正題名
+書名
+作者
+出版者/書商/捐贈者
+出版地
+出版年
+ISBN/ISSN
+主題
+條碼號
+集叢名
+書目建立日期
+修改日期
+館藏登收日期
+索書號
+分類號
+書目建立館員姓名
+書目修改館員姓名
+系統識別號
+舊系統識別碼
+館員註記
+流通註記
+採購註記
+期刊註記
+官書編號
+叢刊代碼
+附註項
+版本項
+其他資料識別號
+其他號碼
+</value>
+      <webElementGuid>e4b58ec8-e74a-48da-9eef-e932e7f6e16d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;browseCriteria&quot;)</value>
+      <webElementGuid>fbff0321-0b7e-45ae-abc8-002b81b043ca</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='browseCriteria']</value>
+      <webElementGuid>1008505a-e203-4881-8ccc-b569c47ae26e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//td[@id='If_43']/select</value>
+      <webElementGuid>b61a2c54-0a8d-4830-ba97-bb48fc6b4994</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='瀏覽條件:'])[1]/following::select[1]</value>
+      <webElementGuid>bbcddd7b-ec21-4835-9d62-5d0dec18471b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='限制條件'])[2]/preceding::select[1]</value>
+      <webElementGuid>b55e12f9-0ddb-4309-b6d5-017cad7d3333</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[2]/select</value>
+      <webElementGuid>f3c57f67-2dce-4d02-8b0b-204a250b9b98</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@name = 'browseCriteria' and @id = 'browseCriteria' and (text() = '
+正題名
+書名
+作者
+出版者/書商/捐贈者
+出版地
+出版年
+ISBN/ISSN
+主題
+條碼號
+集叢名
+書目建立日期
+修改日期
+館藏登收日期
+索書號
+分類號
+書目建立館員姓名
+書目修改館員姓名
+系統識別號
+舊系統識別碼
+館員註記
+流通註記
+採購註記
+期刊註記
+官書編號
+叢刊代碼
+附註項
+版本項
+其他資料識別號
+其他號碼
+' or . = '
+正題名
+書名
+作者
+出版者/書商/捐贈者
+出版地
+出版年
+ISBN/ISSN
+主題
+條碼號
+集叢名
+書目建立日期
+修改日期
+館藏登收日期
+索書號
+分類號
+書目建立館員姓名
+書目修改館員姓名
+系統識別號
+舊系統識別碼
+館員註記
+流通註記
+採購註記
+期刊註記
+官書編號
+叢刊代碼
+附註項
+版本項
+其他資料識別號
+其他號碼
+')]</value>
+      <webElementGuid>6749a526-a416-4173-9d5e-a399010182be</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_MARC_1</name>
+   <tag></tag>
+   <elementGuidId>e8249c67-ad10-4271-adde-d078bce0b480</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#SelectMarcFormat > table.table1 > tbody > tr > td.table1_left > span</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='SelectMarcFormat']/table/tbody/tr/td/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>9ce013e1-5e3c-4040-8389-f85c06557cd8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>選擇 MARC 格式</value>
+      <webElementGuid>a81c787c-6e9c-4b64-bec1-7f1a874ea841</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;SelectMarcFormat&quot;)/table[@class=&quot;table1&quot;]/tbody[1]/tr[1]/td[@class=&quot;table1_left&quot;]/span[1]</value>
+      <webElementGuid>86594069-2386-4c4a-ad8c-c6cd10588390</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='SelectMarcFormat']/table/tbody/tr/td/span</value>
+      <webElementGuid>5d26a548-fb1c-4627-a0f4-856686f88e06</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='選擇 MARC 群組'])[1]/following::span[1]</value>
+      <webElementGuid>24ca90c0-56ba-4c0b-9224-a53a74b4dd4b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='管理 > 編目 > MARC規範'])[1]/following::span[2]</value>
+      <webElementGuid>f9030b90-3f63-4d4b-a6c1-dfbeff7cba5c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='選擇 MARC 格式']/parent::*</value>
+      <webElementGuid>abaa2e28-19df-42dc-8f63-161525eaf82c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form[2]/table/tbody/tr/td/span</value>
+      <webElementGuid>e67ffb06-b666-4781-92eb-c439318579ed</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = '選擇 MARC 格式' or . = '選擇 MARC 格式')]</value>
+      <webElementGuid>d7999fcc-4dad-41af-a74d-be2a0225e02e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

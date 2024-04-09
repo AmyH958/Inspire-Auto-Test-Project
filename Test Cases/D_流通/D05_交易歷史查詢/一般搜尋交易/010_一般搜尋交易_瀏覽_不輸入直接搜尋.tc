@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>010_一般搜尋交易_瀏覽_不輸入直接搜尋</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ee187cc5-a40b-486e-a016-23470a5e829b</testCaseGuid>
+</TestCaseEntity>

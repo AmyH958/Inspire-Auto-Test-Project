@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_102050100</name>
+   <tag></tag>
+   <elementGuidId>e6b9b333-77bb-4769-8861-f21e80a549ec</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='displayCriteria2']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#displayCriteria2</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>dea92ad3-2b55-4283-ba35-89008034b2f6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>displayCriteria2</value>
+      <webElementGuid>d57bd328-d517-48ee-b0c2-0d4d0e474528</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>displayCriteria2</value>
+      <webElementGuid>76df3c91-ee38-4be7-bfa6-05bc011f6ff2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>num l</value>
+      <webElementGuid>0ef8b9cb-b20a-4d2b-bd51-d087ab5d406d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onchange</name>
+      <type>Main</type>
+      <value>clickLinkSubmit('searchForm', 'remakeSearch', true)</value>
+      <webElementGuid>171d00c0-1de0-4d97-aa32-45a9e352103b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+10
+20
+50
+100
+</value>
+      <webElementGuid>05048a25-9df2-4da1-9380-ae963ef66b43</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;displayCriteria2&quot;)</value>
+      <webElementGuid>6ffbecb2-5890-4bfa-b146-d1d4a0d7dfcd</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='displayCriteria2']</value>
+      <webElementGuid>93b333c1-a4dc-427c-9b4f-d3fb043d7c8f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='nrResults']/span/select</value>
+      <webElementGuid>c0b6c075-4371-471a-9cd0-00a16d3cfd0d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ⅹ'])[1]/following::select[1]</value>
+      <webElementGuid>d49d60a8-4dde-497f-812e-66793c1186d5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ⅸ'])[1]/following::select[1]</value>
+      <webElementGuid>135cb8e2-b20e-4668-b496-edbb2800b9c1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='筆'])[1]/preceding::select[1]</value>
+      <webElementGuid>f30e14d9-8014-4d91-9570-edee42b9e3c7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/div/span/select</value>
+      <webElementGuid>8f34bab7-8872-4ead-8186-dbc98b696211</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@name = 'displayCriteria2' and @id = 'displayCriteria2' and (text() = '
+10
+20
+50
+100
+' or . = '
+10
+20
+50
+100
+')]</value>
+      <webElementGuid>dfab9f3f-d473-4b3f-8436-01475c1ea9c7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

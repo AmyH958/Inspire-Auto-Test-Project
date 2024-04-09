@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>001_不輸入資料直接查詢</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>03aa55e1-64f3-498b-906b-2d3d606cc3c7</testCaseGuid>
+</TestCaseEntity>

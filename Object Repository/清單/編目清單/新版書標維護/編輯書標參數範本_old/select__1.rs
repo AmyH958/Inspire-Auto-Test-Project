@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select__1</name>
+   <tag></tag>
+   <elementGuidId>bf6fe4f0-554a-48e9-b585-2fa03ae45454</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#FieldMode_0_avail</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='FieldMode_0_avail']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>2296c82c-5418-4673-9165-1336da9bb1d6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>multiple</name>
+      <type>Main</type>
+      <value>multiple</value>
+      <webElementGuid>f450a423-a166-4395-be40-58addf689d0c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>FieldMode_0_avail</value>
+      <webElementGuid>e6d5530e-f07a-4a3d-89bb-e94819ecc563</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>FieldMode_0_avail</value>
+      <webElementGuid>fd4e3318-ce37-4720-badd-1c98a039475b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>size</name>
+      <type>Main</type>
+      <value>10</value>
+      <webElementGuid>035eb959-9383-4aad-8f62-8988ceda8d37</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+採購備註
+自訂圖書館名稱
+館藏地代碼
+特藏
+附件
+期刊備註
+備註欄
+</value>
+      <webElementGuid>9fde3a37-fc21-413b-88f4-e99eb3a2e33e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;FieldMode_0_avail&quot;)</value>
+      <webElementGuid>cb3a341e-f9c7-4ce5-ac17-479b0196702c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='FieldMode_0_avail']</value>
+      <webElementGuid>adcbfaa5-dd42-497e-a902-b340ff0d3b34</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='Any_13']/tbody/tr[2]/td/select</value>
+      <webElementGuid>bade3800-241e-4a3d-a4cf-1c0541c271f2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='列印欄位'])[1]/following::select[1]</value>
+      <webElementGuid>ba6c4358-db7f-4573-94e0-edaa2128b70b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='不印欄位'])[1]/following::select[1]</value>
+      <webElementGuid>2e2ac303-6088-4d03-83f4-2ceb0c500d8b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='取消'])[1]/preceding::select[2]</value>
+      <webElementGuid>c30a0e4e-8181-418f-9b42-6b039ce46286</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//table[3]/tbody/tr[2]/td/select</value>
+      <webElementGuid>da3b4d19-a353-4b14-bc8c-b5fed1fe424f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@name = 'FieldMode_0_avail' and @id = 'FieldMode_0_avail' and (text() = '
+採購備註
+自訂圖書館名稱
+館藏地代碼
+特藏
+附件
+期刊備註
+備註欄
+' or . = '
+採購備註
+自訂圖書館名稱
+館藏地代碼
+特藏
+附件
+期刊備註
+備註欄
+')]</value>
+      <webElementGuid>03f4218a-7654-4724-90df-be141ee7f52d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

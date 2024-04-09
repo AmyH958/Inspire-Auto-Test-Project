@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a__1_2</name>
+   <tag></tag>
+   <elementGuidId>c7f243c2-f304-4951-a851-8fc5144d509c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#DirectLink_0_2</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='DirectLink_0_2']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>0812d0ac-edbc-44bd-9c66-751078664af7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>DirectLink_0_2</value>
+      <webElementGuid>7ec04dc4-c661-40b6-994c-060fdafecd6b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onclick</name>
+      <type>Main</type>
+      <value>return createPopEdit(this.href);</value>
+      <webElementGuid>f2ca7782-d04c-45a8-80f4-0ed42b89d17e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/inspireapp/CautareSimpla,$DirectLink_0.sdirect?sp=l53879</value>
+      <webElementGuid>781edcad-e18f-4d01-9613-cce8fa82976f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                    哈利波特的魔法與科學 / 
+                  </value>
+      <webElementGuid>26ae260f-23ea-4b79-9e2d-57890fe1ee3d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;DirectLink_0_2&quot;)</value>
+      <webElementGuid>d68f9c8f-1182-4452-a9c1-8744ab02a9a4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@id='DirectLink_0_2']</value>
+      <webElementGuid>6afe2e70-53a7-4e84-8968-b4984e65a04d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='For_8']/table/tbody/tr/td[2]/h3/a</value>
+      <webElementGuid>e3537c9c-e487-4dd2-824a-c2d8ab3f2f6a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'哈利波特的魔法與科學 /')]</value>
+      <webElementGuid>53ad73d6-238a-45f1-9c82-be0c7c3adf56</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/inspireapp/CautareSimpla,$DirectLink_0.sdirect?sp=l53879')]</value>
+      <webElementGuid>5fbf753b-1c55-4325-a05f-0fc496d69969</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[3]/table/tbody/tr/td[2]/h3/a</value>
+      <webElementGuid>2a8213b7-9d0c-4b6f-8bcc-16edc934a874</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@id = 'DirectLink_0_2' and @href = '/inspireapp/CautareSimpla,$DirectLink_0.sdirect?sp=l53879' and (text() = '
+                    哈利波特的魔法與科學 / 
+                  ' or . = '
+                    哈利波特的魔法與科學 / 
+                  ')]</value>
+      <webElementGuid>07ae0b87-f6a7-4c0b-a430-fc0453211b55</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

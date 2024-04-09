@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>002_批次修改到期日_讀者查詢_正常查詢</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>733e8ba4-3ca0-4057-8feb-d7118b20cb1d</testCaseGuid>
+</TestCaseEntity>

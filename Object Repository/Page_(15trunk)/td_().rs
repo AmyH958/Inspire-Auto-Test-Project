@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_()</name>
+   <tag></tag>
+   <elementGuidId>fe4c0ac0-ef07-4fa4-b9b2-203bfb33fbf6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//td[(text() = '
+          白雪壞公主(測試)
+      ' or . = '
+          白雪壞公主(測試)
+      ')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#For_10 > td</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[(text() = '
+          白雪壞公主(測試)
+      ' or . = '
+          白雪壞公主(測試)
+      ')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>2df3d6b2-3687-400e-a71c-85487cff7c0e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>valign</name>
+      <type>Main</type>
+      <value>middle</value>
+      <webElementGuid>6e9e2e1d-1316-4718-9fa9-a226dca8dcd6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>width</name>
+      <type>Main</type>
+      <value>40%</value>
+      <webElementGuid>67f87d53-600c-4d23-b091-602b4818acc3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+          白雪壞公主(測試)
+      </value>
+      <webElementGuid>05caff4c-2a7b-4c68-b468-6b48f3aae172</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;For_10&quot;)/td[1]</value>
+      <webElementGuid>14dc6a14-12ba-4cd5-a942-af47cdca25ce</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//tr[@id='For_10']/td</value>
+      <webElementGuid>f847425e-e564-46a8-afb9-761dd0f50f56</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='台北分院'])[1]/following::td[4]</value>
+      <webElementGuid>e1ffd032-ba5b-4420-9dbc-00d729186465</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='旅遊圖書精選'])[1]/following::td[5]</value>
+      <webElementGuid>30b24d00-c613-42fe-b5e3-89e29a046c1e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='電子資源'])[1]/preceding::td[1]</value>
+      <webElementGuid>1b1e52f9-6ee0-47f1-b3d8-290ed7e8becb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='存入書單'])[1]/preceding::td[5]</value>
+      <webElementGuid>86049af9-f00e-4303-91e3-4123568ff701</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='白雪壞公主(測試)']/parent::*</value>
+      <webElementGuid>e495530c-d14c-4947-8ed2-f833c0f6436a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[10]/td</value>
+      <webElementGuid>df59ebff-a95d-4ce8-9a11-ef00931b0f9c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = '
+          白雪壞公主(測試)
+      ' or . = '
+          白雪壞公主(測試)
+      ')]</value>
+      <webElementGuid>a0d868fa-71f9-49b0-8669-127e96c0cb6e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

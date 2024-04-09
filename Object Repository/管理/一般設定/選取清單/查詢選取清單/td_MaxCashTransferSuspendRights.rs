@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_MaxCashTransferSuspendRights</name>
+   <tag></tag>
+   <elementGuidId>7fe76b18-1427-42e0-a644-05dac5c066be</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='paginateList']/div[2]/table/tbody/tr[2]/td[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>bc8b65e7-2cb3-408a-ad58-3207f495b86b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+					MaxCashTransferSuspendRights</value>
+      <webElementGuid>6f5c18ca-e39a-436d-bd5f-45358a559477</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;paginateList&quot;)/div[2]/table[@class=&quot;search_list&quot;]/tbody[1]/tr[@class=&quot;search_list_c&quot;]/td[2]</value>
+      <webElementGuid>1486bbd1-aaf3-4d1e-bd43-a343a4803b8a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='paginateList']/div[2]/table/tbody/tr[2]/td[2]</value>
+      <webElementGuid>3c044958-556e-416a-ab0f-9395f182e6f8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='是否啟用'])[1]/following::td[2]</value>
+      <webElementGuid>91c7f583-e14b-4a4e-9462-e6f3eadd17e9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='顯示順序'])[1]/following::td[3]</value>
+      <webElementGuid>0fc81f71-507a-4298-a026-e6816329110a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='true'])[1]/preceding::td[2]</value>
+      <webElementGuid>2fa80632-a70b-4bf0-b833-fc90ae010bce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[2]/td[2]</value>
+      <webElementGuid>6e305f02-5307-435f-b745-499c6f9ba372</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = '
+					MaxCashTransferSuspendRights' or . = '
+					MaxCashTransferSuspendRights')]</value>
+      <webElementGuid>7a0c5cc4-89ec-40aa-ba76-e2734245dbde</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

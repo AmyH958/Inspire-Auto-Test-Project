@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>b__1_2_3_4_5</name>
+   <tag></tag>
+   <elementGuidId>4f13c7e7-c11e-4bda-9933-6542d1604b48</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='viewPatronDetailsComponent']/tbody/tr/td[3]/table/tbody/tr[3]/td/b</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>td:nth-of-type(3) > table.table4 > tbody > tr:nth-of-type(3) > td.table4_left > b</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>b</value>
+      <webElementGuid>51039a6a-37ab-4e10-97a9-120d1314a1c3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>預約未取:</value>
+      <webElementGuid>9076eed0-a81b-403c-8c2a-97a0d483f3a8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;viewPatronDetailsComponent&quot;)/tbody[1]/tr[1]/td[3]/table[@class=&quot;table4&quot;]/tbody[1]/tr[3]/td[@class=&quot;table4_left&quot;]/b[1]</value>
+      <webElementGuid>6a638896-78b3-4190-b269-9c1958c49d73</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='viewPatronDetailsComponent']/tbody/tr/td[3]/table/tbody/tr[3]/td/b</value>
+      <webElementGuid>ba530770-b49c-4047-a861-550988fbde05</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='逾期罰款:'])[1]/following::b[1]</value>
+      <webElementGuid>27459030-e9d7-4f67-9928-029cd2c3b8a4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='已借閱冊數:'])[1]/following::b[2]</value>
+      <webElementGuid>01fd7e23-9a95-4a73-8662-342cbc7b5963</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='設備罰款金額:'])[1]/preceding::b[1]</value>
+      <webElementGuid>6162858b-dc99-4d0b-9ae6-2f8678d4d71e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='逾期停權天數:'])[1]/preceding::b[2]</value>
+      <webElementGuid>14d8360f-2be1-4ebd-bdfa-c0c25ed5746e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='預約未取:']/parent::*</value>
+      <webElementGuid>0a6b979c-3683-4454-9f93-1ff92d4501f1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[3]/table/tbody/tr[3]/td/b</value>
+      <webElementGuid>ddaaae17-ebdd-44e3-8b33-5b11efd0e0f2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//b[(text() = '預約未取:' or . = '預約未取:')]</value>
+      <webElementGuid>7134601e-ee04-40c4-b97a-9a86d696f589</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

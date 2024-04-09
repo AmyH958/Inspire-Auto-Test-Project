@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>007_單項維護_根據查詢準則查詢資料_依限制條件查詢</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>da438c5e-292a-41fb-823f-769377451f60</testCaseGuid>
+</TestCaseEntity>

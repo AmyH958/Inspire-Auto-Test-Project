@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td__1_2_3</name>
+   <tag></tag>
+   <elementGuidId>f6cb33ed-6f1d-4374-8094-5b8b6c9703f5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='weekDayForm']/table/tbody/tr[2]/td[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>c3e9826d-4e18-400f-b553-5f04aa4621e7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>table1_right</value>
+      <webElementGuid>1d09ed50-7a8b-43e4-9084-42b601ad1932</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+				隔夜借閱到期時段: </value>
+      <webElementGuid>46e6be6e-528d-4c57-b9d7-ff1c0703769d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;weekDayForm&quot;)/table[@class=&quot;table1&quot;]/tbody[1]/tr[2]/td[@class=&quot;table1_right&quot;]</value>
+      <webElementGuid>2dea8a3c-fed1-477c-8b4a-4f9d439ef2cf</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='weekDayForm']/table/tbody/tr[2]/td[3]</value>
+      <webElementGuid>996d2fee-62d3-4edb-a8e5-0192bbc2f4aa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='any'])[3]/following::td[2]</value>
+      <webElementGuid>bf0d0974-8f26-4189-a9c4-93ac32b14c5e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='下午'])[3]/following::td[3]</value>
+      <webElementGuid>f2e569c4-45ec-4f08-a653-6d7fd3dcb63a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='小時'])[4]/preceding::td[2]</value>
+      <webElementGuid>6027922c-a3f0-43ef-97e8-d1c527e2eb6b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='分鐘'])[4]/preceding::td[3]</value>
+      <webElementGuid>2daa8974-b617-412c-8de0-78649d8ef691</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='隔夜借閱到期時段:']/parent::*</value>
+      <webElementGuid>b99b2bba-38ab-4dae-ac18-a3d4ece8484c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[2]/td[3]</value>
+      <webElementGuid>78719b7c-56e1-470b-a9e8-e7228c618586</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = '
+				隔夜借閱到期時段: ' or . = '
+				隔夜借閱到期時段: ')]</value>
+      <webElementGuid>acd3025b-2f4e-403a-a799-28d482e1c2ff</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

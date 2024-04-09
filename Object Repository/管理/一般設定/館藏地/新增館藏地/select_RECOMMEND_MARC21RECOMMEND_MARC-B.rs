@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_RECOMMEND_MARC21RECOMMEND_MARC-B</name>
+   <tag></tag>
+   <elementGuidId>244665f3-f3bd-43d0-9a4d-597ef58731bb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#PropertySelection_4</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='PropertySelection_4']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>86be05ca-ab0a-4a68-8390-31737fde9621</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>PropertySelection_4</value>
+      <webElementGuid>6e238823-ff9e-4ead-8852-6492e3091b29</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>PropertySelection_4</value>
+      <webElementGuid>ad2f43bd-c0b8-4913-899e-2ca18e101804</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+
+RECOMMEND_MARC21
+RECOMMEND_MARC-B
+</value>
+      <webElementGuid>52971912-47b5-4916-b178-be4be5e81a0d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;PropertySelection_4&quot;)</value>
+      <webElementGuid>a61ab6db-1fdc-42c8-822f-b0b9f8aedade</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='PropertySelection_4']</value>
+      <webElementGuid>0207de8b-fd0f-4138-ba78-ea44c35b3c33</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='locationDescription']/tbody/tr[29]/td[2]/select</value>
+      <webElementGuid>23bbb5cb-8b24-4a4e-a26e-086eb77c6336</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='推薦範本:'])[1]/following::select[1]</value>
+      <webElementGuid>c96a925c-683c-4904-ab15-952d98aef3dc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='開閉館日期'])[1]/preceding::select[1]</value>
+      <webElementGuid>37534cb1-5537-40e3-9348-2acf14c4f037</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='隔夜借閱開始時段:'])[1]/preceding::select[1]</value>
+      <webElementGuid>0a3dc590-7fc0-47b2-82ab-b6191208b655</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[29]/td[2]/select</value>
+      <webElementGuid>27f3e178-b994-4ea1-9911-46e46dd96a38</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@name = 'PropertySelection_4' and @id = 'PropertySelection_4' and (text() = '
+
+RECOMMEND_MARC21
+RECOMMEND_MARC-B
+' or . = '
+
+RECOMMEND_MARC21
+RECOMMEND_MARC-B
+')]</value>
+      <webElementGuid>b85fbfcb-e141-47f0-b43a-3c2df0bd2a38</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

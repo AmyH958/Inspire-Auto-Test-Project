@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>001_檢索點檢索語統計報表_檢視清單_區間檢索日期查詢</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a580b2e7-3699-496a-8cb3-0594aa4754cf</testCaseGuid>
+</TestCaseEntity>

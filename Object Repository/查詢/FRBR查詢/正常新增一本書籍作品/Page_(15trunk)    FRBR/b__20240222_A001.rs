@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>b__20240222_A001</name>
+   <tag></tag>
+   <elementGuidId>0dc060f4-3f08-420f-85ce-44be637ee589</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#DirectLink_3 > b</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='DirectLink_3']/b</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>b</value>
+      <webElementGuid>26fd4f4d-60ee-44e0-8eff-a8d0f6553735</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>測試書籍_20240222_A001</value>
+      <webElementGuid>413df7c8-518a-40cc-a7ee-81b452be3cf6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;DirectLink_3&quot;)/b[1]</value>
+      <webElementGuid>7874f43c-d853-46e1-b0e1-bcc19b7df726</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id='DirectLink_3']/b</value>
+      <webElementGuid>d14f9802-d00f-4d21-a16f-5e3c373aef90</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='測試書籍_20240222_A001'])[1]/following::b[1]</value>
+      <webElementGuid>906a1387-eb3b-45ab-87d6-cd1875b1cd63</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='館藏地'])[2]/following::b[1]</value>
+      <webElementGuid>edf2f074-8d36-42a7-8930-cbbfd60afa63</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='GO'])[2]/preceding::b[1]</value>
+      <webElementGuid>2551325d-6149-4dfd-8ee5-c00ebf2b4329</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a/b</value>
+      <webElementGuid>48c52f76-34b4-40e2-97e1-88610c53701a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//b[(text() = '測試書籍_20240222_A001' or . = '測試書籍_20240222_A001')]</value>
+      <webElementGuid>b76681b8-0114-4139-928e-a5f0fa20c2a9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

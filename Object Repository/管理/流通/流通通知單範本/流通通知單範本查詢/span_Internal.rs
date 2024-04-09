@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Internal</name>
+   <tag></tag>
+   <elementGuidId>2467ddff-d8c3-4263-9332-7c03917d05cd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@id='For_63']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#For_63</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>7a9d203b-8e49-4735-86ec-7a900b8bb1d5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>For_63</value>
+      <webElementGuid>7cb00435-a423-446b-8a40-bc0d6cdd9356</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+					
+				Internal
+				</value>
+      <webElementGuid>4f20ff31-d206-45fb-8ad4-9179de86a250</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;For_63&quot;)</value>
+      <webElementGuid>d709e4f6-8319-4eef-bff8-864784c7e4d0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//span[@id='For_63']</value>
+      <webElementGuid>54491cac-65d0-42e5-8425-b79e3e356d62</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='editTemplateForm']/table/tbody/tr[3]/td[2]/span[4]</value>
+      <webElementGuid>7af7f6be-72fb-4cc3-83d9-d70013466f00</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='語文別:'])[1]/preceding::span[2]</value>
+      <webElementGuid>8249e3a2-11fd-4f17-81e1-b24c596c86c2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='預設值:'])[1]/preceding::span[2]</value>
+      <webElementGuid>adffa934-9050-4fe1-966a-9e5070254b81</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Internal']/parent::*</value>
+      <webElementGuid>2337a8f7-38b7-426d-acbf-d5ffd15d5f97</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span[4]</value>
+      <webElementGuid>46859fcd-fc63-4b31-a0be-27c93c2111c0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[@id = 'For_63' and (text() = '
+					
+				Internal
+				' or . = '
+					
+				Internal
+				')]</value>
+      <webElementGuid>e7e0dcb7-a7c3-402c-a71d-a809a09bac47</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

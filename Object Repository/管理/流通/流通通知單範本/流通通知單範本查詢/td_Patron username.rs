@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_Patron username</name>
+   <tag></tag>
+   <elementGuidId>645dd884-e7be-4711-afc3-25e2120aabc5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//td[@id='xToolbar']/table[14]/tbody/tr/td[4]/div/table/tbody/tr/td[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.TB_Button_On_Over > table > tbody > tr > td.TB_Button_Text</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>dbcace98-3ff6-420b-b714-2e1feba095b8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>TB_Button_Text</value>
+      <webElementGuid>73f5ea10-6ab8-4e71-9f46-54ca8770da9d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Patron username</value>
+      <webElementGuid>e45fd6a0-80cf-4457-825a-b02a3276b151</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;xToolbar&quot;)/table[@class=&quot;TB_Toolbar&quot;]/tbody[1]/tr[1]/td[4]/div[@class=&quot;TB_Button_On_Over&quot;]/table[1]/tbody[1]/tr[1]/td[@class=&quot;TB_Button_Text&quot;]</value>
+      <webElementGuid>9303841c-48e6-4a6f-96de-3f746ebbf7b6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/管理/流通/流通通知單範本/新增流通通知範本/iframe__RichTextArea___Frame</value>
+      <webElementGuid>1910246a-eec6-420b-896d-e8ab48a3d03b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//td[@id='xToolbar']/table[14]/tbody/tr/td[4]/div/table/tbody/tr/td[2]</value>
+      <webElementGuid>735c21b3-ed78-43ad-9407-59b271b90275</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Department'])[1]/following::td[4]</value>
+      <webElementGuid>e21d4ceb-cc37-4684-892f-8c6a9ca19ebe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Patron name'])[1]/following::td[8]</value>
+      <webElementGuid>a8642f75-b43c-401d-928e-d5ab23616682</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Patron class'])[1]/preceding::td[3]</value>
+      <webElementGuid>e879e0ad-75f8-4639-9f9a-5cec1ad4c337</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Phone'])[1]/preceding::td[7]</value>
+      <webElementGuid>2e7de730-0fb7-4c22-9b95-9dea3dae5640</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Patron username']/parent::*</value>
+      <webElementGuid>7890753d-c982-4855-b210-99f2fca59b99</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//table[14]/tbody/tr/td[4]/div/table/tbody/tr/td[2]</value>
+      <webElementGuid>7321a432-d93b-4e1b-96e6-66dce0d2b175</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = 'Patron username' or . = 'Patron username')]</value>
+      <webElementGuid>1bbed9d2-f0a9-4852-8855-847b24393a00</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

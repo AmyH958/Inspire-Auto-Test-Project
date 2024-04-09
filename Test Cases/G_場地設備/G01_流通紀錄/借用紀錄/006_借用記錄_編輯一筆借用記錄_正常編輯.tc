@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>006_借用記錄_編輯一筆借用記錄_正常編輯</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>83c24ac3-a5bd-4b62-91f7-4b1343fcae23</testCaseGuid>
+</TestCaseEntity>

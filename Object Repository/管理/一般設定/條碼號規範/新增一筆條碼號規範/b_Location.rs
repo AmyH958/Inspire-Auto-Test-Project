@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>b_Location</name>
+   <tag></tag>
+   <elementGuidId>ffde7e5f-9657-4323-ba95-d1fc6ec6190c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#For_32 > b</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[(text() = '[Location]' or . = '[Location]')]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//td[@id='For_32']/b</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>b</value>
+      <webElementGuid>377c0f45-f16c-4cb9-b5a2-aaa9fcb1eb13</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>[Location]</value>
+      <webElementGuid>85613ebb-3831-4392-8384-0af2d51429a3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;For_32&quot;)/b[1]</value>
+      <webElementGuid>4f93cb19-8a22-4248-8661-8c5c7e4bb738</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//td[@id='For_32']/b</value>
+      <webElementGuid>5b44f4e9-18a1-47ef-a1ef-d1bfc47e7dc3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='[Number]'])[3]/following::b[1]</value>
+      <webElementGuid>f98f93da-1de4-4125-b698-3f528dde35c5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='[Sufix]'])[1]/following::b[2]</value>
+      <webElementGuid>400bcbbe-d834-4e9c-8485-f30027fca93e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='[Inventory class]'])[1]/preceding::b[1]</value>
+      <webElementGuid>72ab5a8c-9bd0-423e-8bbb-ba9821974557</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='[Location]']/parent::*</value>
+      <webElementGuid>9f69a8db-517d-43bf-894d-cb12217fc782</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[4]/b</value>
+      <webElementGuid>e183edfe-6c99-49fd-97cb-791ad51fa7e7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//b[(text() = '[Location]' or . = '[Location]')]</value>
+      <webElementGuid>d210fde7-6bb4-495c-bf9b-52d1210d46ba</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

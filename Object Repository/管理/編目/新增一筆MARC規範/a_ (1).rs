@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_ (1)</name>
+   <tag></tag>
+   <elementGuidId>3e6675f1-88ac-42a1-ac01-2b36840ba3a1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#DirectLink_1</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[(text() = ' 
+	新增 
+	' or . = ' 
+	新增 
+	')]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id = 'DirectLink_1' and @href = '/inspireapp/EditareMarcCatalogare,$DirectLink_1.sdirect' and (text() = ' 
+	新增 
+	' or . = ' 
+	新增 
+	')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>eed61df1-ab43-4ac9-899f-8b05bde8848e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>DirectLink_1</value>
+      <webElementGuid>f134d0db-6b09-4a3e-bde2-a44a980796a5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>buttons</value>
+      <webElementGuid>3ff03eba-4959-4471-8b70-ec874288a53d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/inspireapp/EditareMarcCatalogare,$DirectLink_1.sdirect</value>
+      <webElementGuid>79bcd021-580f-4b9c-b330-dda01c83291b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> 
+	新增 
+	</value>
+      <webElementGuid>dd81bd91-a6c0-4742-9e53-e4e445c687e7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;DirectLink_1&quot;)</value>
+      <webElementGuid>f0afe7ec-64f7-4a03-9d21-ce446d5529f1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@id='DirectLink_1']</value>
+      <webElementGuid>8d5d80c1-ea24-4db7-94c3-8fec363bbbbf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='listForm']/a</value>
+      <webElementGuid>7b6f2b63-ff6e-4b62-b686-37cadc540df5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>(//a[contains(text(),'新增')])[2]</value>
+      <webElementGuid>0a1f65dc-cc89-46a0-a9f9-eb61099ca733</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='選擇 MARC 格式'])[1]/following::a[1]</value>
+      <webElementGuid>2e616beb-0b8a-4181-99ee-fc46469cd700</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='序號'])[1]/preceding::a[1]</value>
+      <webElementGuid>d644f971-6f29-48c0-a914-7940aec9e7dc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='編輯'])[1]/preceding::a[1]</value>
+      <webElementGuid>b50cb9b7-31c6-4ce8-bf36-af268f186801</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/inspireapp/EditareMarcCatalogare,$DirectLink_1.sdirect')]</value>
+      <webElementGuid>81ca7aed-fb77-44a0-a063-f4d05392aa9a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/a</value>
+      <webElementGuid>df3be8d0-1f6a-4eb1-8f36-f099f5c2edc7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@id = 'DirectLink_1' and @href = '/inspireapp/EditareMarcCatalogare,$DirectLink_1.sdirect' and (text() = ' 
+	新增 
+	' or . = ' 
+	新增 
+	')]</value>
+      <webElementGuid>2cdf7038-1b0d-4187-8572-327797f96c49</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

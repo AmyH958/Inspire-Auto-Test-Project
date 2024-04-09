@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_e-resources -</name>
+   <tag></tag>
+   <elementGuidId>afed40bd-a185-4630-848e-528324c33bbc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='swindow.dlocations56']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>dc2a6bcb-583f-44aa-9665-46caaa543efe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>swindow.dlocations56</value>
+      <webElementGuid>915585b4-1544-435a-995d-2c97a971e119</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>node</value>
+      <webElementGuid>cc3be2c3-7cd5-496d-a4b1-60e1191ae08a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>javascript:window.dlocations.selectElement('e-resources - \u96FB\u5B50\u8CC7\u6E90', 3, true)</value>
+      <webElementGuid>e74e5b7d-64a5-4208-a483-4eea97e9881b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onclick</name>
+      <type>Main</type>
+      <value>javascript: window.dlocations.s(56);</value>
+      <webElementGuid>c7813164-9604-46f5-af4b-7e60d1cf3b09</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>e-resources - 電子資源</value>
+      <webElementGuid>c15888ac-7e80-4122-9ef8-b4a7767ea398</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;swindow.dlocations56&quot;)</value>
+      <webElementGuid>5a440f87-05fc-41a9-9862-d80e4c2fd3fe</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@id='swindow.dlocations56']</value>
+      <webElementGuid>7d5916f2-6814-416d-8b60-bcd512f6cb35</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='dwindow.dlocations1']/div[20]/a</value>
+      <webElementGuid>90fd6741-7f77-444e-bfe8-63363e672418</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'e-resources - 電子資源')]</value>
+      <webElementGuid>b80289d4-6f26-45b5-81de-bcf67a044434</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ONLN - 台中總館線上資料'])[1]/following::a[1]</value>
+      <webElementGuid>37b3ae9f-bc5a-496f-aa41-a1707f0916f1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='new item 7 - new item 7'])[1]/following::a[2]</value>
+      <webElementGuid>7b8ee394-3f26-4378-9cad-6240b7bcdc30</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='EB-P - EB-P'])[1]/preceding::a[1]</value>
+      <webElementGuid>2edf1537-531a-476c-a07c-766b7c49571b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='elect - elect'])[1]/preceding::a[2]</value>
+      <webElementGuid>78734b32-c1c9-4d8a-bfad-632e3d1bf89f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='e-resources - 電子資源']/parent::*</value>
+      <webElementGuid>8c32a7ba-a77d-40e2-8d66-1443a05d09c8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, &quot;javascript:window.dlocations.selectElement('e-resources - \u96FB\u5B50\u8CC7\u6E90', 3, true)&quot;)]</value>
+      <webElementGuid>50ec4ec8-0888-4901-a4d6-33f30a518693</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[20]/a</value>
+      <webElementGuid>70a18d1f-95b9-447a-b842-964aa966e4d2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@id = 'swindow.dlocations56' and @href = concat(&quot;javascript:window.dlocations.selectElement(&quot; , &quot;'&quot; , &quot;e-resources - \u96FB\u5B50\u8CC7\u6E90&quot; , &quot;'&quot; , &quot;, 3, true)&quot;) and (text() = 'e-resources - 電子資源' or . = 'e-resources - 電子資源')]</value>
+      <webElementGuid>e604d016-57e2-41d7-a621-5f7c76138f93</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

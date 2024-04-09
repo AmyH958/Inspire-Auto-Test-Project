@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>002_借用記錄_依條件4Q查詢_根據查詢條件4Q欄位查詢</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3aefbfc5-183d-4451-9fb1-b53b125c8dee</testCaseGuid>
+</TestCaseEntity>

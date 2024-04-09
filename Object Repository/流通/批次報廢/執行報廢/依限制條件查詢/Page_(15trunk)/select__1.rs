@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select__1</name>
+   <tag></tag>
+   <elementGuidId>cab6c650-4c1a-4870-9cf2-7e87b757ec73</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='PropertySelection_0_3']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#PropertySelection_0_3</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>b4c32450-2517-4182-b60c-ac98ae20f453</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>PropertySelection_0_3</value>
+      <webElementGuid>b123e91d-4eea-4b3d-9917-2cfa6e257818</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>PropertySelection_0_3</value>
+      <webElementGuid>a37b4ca9-e617-4a8a-bd47-afbf62801567</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+
+中文圖書分類法
+美國國會圖書分類法
+杜威分類法
+美國國家醫學圖書館分類法
+何日章中國圖書十進分類法
+</value>
+      <webElementGuid>07cf237b-9ebf-4b99-be24-0f51eb75d05d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;PropertySelection_0_3&quot;)</value>
+      <webElementGuid>23c0cb48-e5f1-4a06-bd95-4a75b5c8708e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='PropertySelection_0_3']</value>
+      <webElementGuid>17e870a4-2d6f-48c9-aa38-92d2060027ff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//tr[@id='For_1_4']/td[2]/select</value>
+      <webElementGuid>2023e7fa-9a4b-439a-8b31-b65bc1339d45</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='分類法:'])[1]/following::select[1]</value>
+      <webElementGuid>af6a09a2-4960-462f-9478-71487c9878bb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='館藏狀態:'])[1]/following::select[2]</value>
+      <webElementGuid>22a62c26-b713-41bb-92c1-9f9d5d5eb50b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='館藏地:'])[1]/preceding::select[1]</value>
+      <webElementGuid>6bb25eb9-6779-41b3-a312-12e58a42dccd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='使用類型:'])[1]/preceding::select[1]</value>
+      <webElementGuid>964d104f-4c7b-4d84-82e1-3293eaf44dc9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[7]/td[2]/select</value>
+      <webElementGuid>8bbff859-f5c3-4925-9ea0-51260e4aec2d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@name = 'PropertySelection_0_3' and @id = 'PropertySelection_0_3' and (text() = '
+
+中文圖書分類法
+美國國會圖書分類法
+杜威分類法
+美國國家醫學圖書館分類法
+何日章中國圖書十進分類法
+' or . = '
+
+中文圖書分類法
+美國國會圖書分類法
+杜威分類法
+美國國家醫學圖書館分類法
+何日章中國圖書十進分類法
+')]</value>
+      <webElementGuid>c6bd511b-b535-41e9-85b2-19f72e90b962</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

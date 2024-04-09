@@ -1,0 +1,592 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_AcquisitionAuCallNumberGeneratorAuth_b0a976</name>
+   <tag></tag>
+   <elementGuidId>81606349-e9f5-489b-b842-0085f343b3a1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#PropertySelection_0</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='PropertySelection_0']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>bf1b0d44-2886-4a7a-8ef1-c4042e3a0c29</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>PropertySelection_0</value>
+      <webElementGuid>43079669-b8e3-423c-89f6-0792ddb52a12</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>PropertySelection_0</value>
+      <webElementGuid>009b087c-c1e4-4e5e-9b0d-3cfc2e5af541</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+
+Acquisition
+AuCallNumberGenerator
+AuthorityTracingCode
+AutomaticSuspensionOfSubitems
+BibliographicLevel
+BibliographicReportTypes
+Binding
+BindingColor
+BindingFont
+BindingSize
+BindingType
+BookLabelsFontOption
+BooleanValues
+CallNumberGenerator
+CancelOFFromPOReason
+CancelReservReason
+CardIssueStatus
+CardIssueType
+CardStatus
+CardType
+CategoryType
+CheckinStatus
+CheckinStatus2
+CheckinType
+ChronologyCode
+ChronologyPattern
+ClaimSendStatus
+ClassificationName
+CodeTypes
+CostCenterSubject
+CostTransactionExtractType
+CostTransactionType2
+CountryCodes
+Course
+course_public_flag
+CSMAvailability
+CSMStatus
+DayInWeek
+DefaultFormsValues
+DefaultMethodPassword
+Dept
+Education Level
+EquipmentStatus
+ExpenseTypes
+FMR
+Frequency
+Gender
+GlobalChangeFlags
+HasItemsBooleanValues
+HoldingReportTypes
+ILLRequestDirection
+ILLRequestStatus
+ILLRequestType
+ImportISOType
+IndexStrategy
+IntervalType
+InventoryClass
+InventoryItemResult
+InventoryListStatus
+InventoryOperations
+InventoryStatus
+InvoiceHandling
+InvoiceStatus
+InvToOFTypes
+InvToOFValidatorSelector
+ItemAvailability
+ItemCollection
+ItemCurrentStatus
+ItemsFilter
+Language
+LANGUAGE
+Library level
+MaterialDesignation
+MaterialTypeOptions
+Modules
+ModuleType
+Month
+NatIdValidationRule
+NewFiscalYearTransferingWay
+Occupation
+OrderFlowAcqType
+OrderFlowInvoiceStatus
+OrderStatus
+OrderType
+OUType
+PatronBlack
+PatronRights
+PaymentCashTypes
+PaymentLimitPolicy
+PaymentMethods
+PaymentPolicy
+PaymentStatus
+PaymentType
+Penalty Type
+POType
+PublicationStatus
+PurchaseOrderFilter
+PurchaseOrderStatus
+Rating
+RDA Carrier type
+RDA Content type
+RDA Media type
+ReaderStatus
+RecommendFilter
+Recommend_Status
+RecommendType
+RejectApproveMess
+RejectPrereqMess
+RejectReasons
+Relator codes
+RenewPolicy
+ReportCategories
+ReportOptions
+review_public_flag
+SchoolTerm
+SchoolYear
+SDI_NOTICE_FREQUENCY
+SearchBooleanOperators
+SearchComparator
+Season
+seb_status
+SecretQuestion
+SelfCheckLanguages
+SendNoticesConfig
+SENDType
+ser_status
+ShelfInventoryResult
+ShelfStatus
+ShipVia
+SIPMediaTypes
+SituatieProvenienta
+SlaveCardType
+SMPLocationsSetupCategory1
+SMPLocationsSetupCategory2
+SMPLocationsSetupCategory3
+SMPLocationsSetupJournalType
+SMPLocationsSetupSource
+SMPStatus
+SourceOfSolicitation
+status
+StopOrderMess
+SubjectSystemCodes
+SubmoduleType
+SupplierType
+SuspendRightsType
+SuspensionType
+teacher_evaluation_state
+teacher_review_public_flag
+TransactionCloseMode
+TransactionLoanShortPolicy
+TransactionStatusFilter
+TransactionTypeFilter
+TransactionTypes
+TransTMU
+UserGroups
+UseStatus
+WeekInMonth
+</value>
+      <webElementGuid>d73158b8-a97d-4d39-b833-93e353914797</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;PropertySelection_0&quot;)</value>
+      <webElementGuid>49481c0c-3ce9-492c-91eb-c572da900009</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='PropertySelection_0']</value>
+      <webElementGuid>6a7cd983-b35a-49d6-bd13-c62e82be4ad6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='EditareSubtag']/table/tbody/tr/td/div/div[2]/div/div/div/div/table/tbody/tr[4]/td[3]/select</value>
+      <webElementGuid>c26a0f9f-d222-4455-9e54-fe888d59be51</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Link picklist:'])[1]/following::select[1]</value>
+      <webElementGuid>1708051e-589c-4e93-afbe-76adaa176e23</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='後置碼'])[1]/following::select[1]</value>
+      <webElementGuid>c3a7d2d4-bef0-4ad2-9e99-ca730752553c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='模式'])[1]/preceding::select[1]</value>
+      <webElementGuid>44ee487c-604a-4052-a833-f3d45e372e9a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[3]/select</value>
+      <webElementGuid>f122b825-6b79-464d-b35e-d6ca24d10265</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@name = 'PropertySelection_0' and @id = 'PropertySelection_0' and (text() = '
+
+Acquisition
+AuCallNumberGenerator
+AuthorityTracingCode
+AutomaticSuspensionOfSubitems
+BibliographicLevel
+BibliographicReportTypes
+Binding
+BindingColor
+BindingFont
+BindingSize
+BindingType
+BookLabelsFontOption
+BooleanValues
+CallNumberGenerator
+CancelOFFromPOReason
+CancelReservReason
+CardIssueStatus
+CardIssueType
+CardStatus
+CardType
+CategoryType
+CheckinStatus
+CheckinStatus2
+CheckinType
+ChronologyCode
+ChronologyPattern
+ClaimSendStatus
+ClassificationName
+CodeTypes
+CostCenterSubject
+CostTransactionExtractType
+CostTransactionType2
+CountryCodes
+Course
+course_public_flag
+CSMAvailability
+CSMStatus
+DayInWeek
+DefaultFormsValues
+DefaultMethodPassword
+Dept
+Education Level
+EquipmentStatus
+ExpenseTypes
+FMR
+Frequency
+Gender
+GlobalChangeFlags
+HasItemsBooleanValues
+HoldingReportTypes
+ILLRequestDirection
+ILLRequestStatus
+ILLRequestType
+ImportISOType
+IndexStrategy
+IntervalType
+InventoryClass
+InventoryItemResult
+InventoryListStatus
+InventoryOperations
+InventoryStatus
+InvoiceHandling
+InvoiceStatus
+InvToOFTypes
+InvToOFValidatorSelector
+ItemAvailability
+ItemCollection
+ItemCurrentStatus
+ItemsFilter
+Language
+LANGUAGE
+Library level
+MaterialDesignation
+MaterialTypeOptions
+Modules
+ModuleType
+Month
+NatIdValidationRule
+NewFiscalYearTransferingWay
+Occupation
+OrderFlowAcqType
+OrderFlowInvoiceStatus
+OrderStatus
+OrderType
+OUType
+PatronBlack
+PatronRights
+PaymentCashTypes
+PaymentLimitPolicy
+PaymentMethods
+PaymentPolicy
+PaymentStatus
+PaymentType
+Penalty Type
+POType
+PublicationStatus
+PurchaseOrderFilter
+PurchaseOrderStatus
+Rating
+RDA Carrier type
+RDA Content type
+RDA Media type
+ReaderStatus
+RecommendFilter
+Recommend_Status
+RecommendType
+RejectApproveMess
+RejectPrereqMess
+RejectReasons
+Relator codes
+RenewPolicy
+ReportCategories
+ReportOptions
+review_public_flag
+SchoolTerm
+SchoolYear
+SDI_NOTICE_FREQUENCY
+SearchBooleanOperators
+SearchComparator
+Season
+seb_status
+SecretQuestion
+SelfCheckLanguages
+SendNoticesConfig
+SENDType
+ser_status
+ShelfInventoryResult
+ShelfStatus
+ShipVia
+SIPMediaTypes
+SituatieProvenienta
+SlaveCardType
+SMPLocationsSetupCategory1
+SMPLocationsSetupCategory2
+SMPLocationsSetupCategory3
+SMPLocationsSetupJournalType
+SMPLocationsSetupSource
+SMPStatus
+SourceOfSolicitation
+status
+StopOrderMess
+SubjectSystemCodes
+SubmoduleType
+SupplierType
+SuspendRightsType
+SuspensionType
+teacher_evaluation_state
+teacher_review_public_flag
+TransactionCloseMode
+TransactionLoanShortPolicy
+TransactionStatusFilter
+TransactionTypeFilter
+TransactionTypes
+TransTMU
+UserGroups
+UseStatus
+WeekInMonth
+' or . = '
+
+Acquisition
+AuCallNumberGenerator
+AuthorityTracingCode
+AutomaticSuspensionOfSubitems
+BibliographicLevel
+BibliographicReportTypes
+Binding
+BindingColor
+BindingFont
+BindingSize
+BindingType
+BookLabelsFontOption
+BooleanValues
+CallNumberGenerator
+CancelOFFromPOReason
+CancelReservReason
+CardIssueStatus
+CardIssueType
+CardStatus
+CardType
+CategoryType
+CheckinStatus
+CheckinStatus2
+CheckinType
+ChronologyCode
+ChronologyPattern
+ClaimSendStatus
+ClassificationName
+CodeTypes
+CostCenterSubject
+CostTransactionExtractType
+CostTransactionType2
+CountryCodes
+Course
+course_public_flag
+CSMAvailability
+CSMStatus
+DayInWeek
+DefaultFormsValues
+DefaultMethodPassword
+Dept
+Education Level
+EquipmentStatus
+ExpenseTypes
+FMR
+Frequency
+Gender
+GlobalChangeFlags
+HasItemsBooleanValues
+HoldingReportTypes
+ILLRequestDirection
+ILLRequestStatus
+ILLRequestType
+ImportISOType
+IndexStrategy
+IntervalType
+InventoryClass
+InventoryItemResult
+InventoryListStatus
+InventoryOperations
+InventoryStatus
+InvoiceHandling
+InvoiceStatus
+InvToOFTypes
+InvToOFValidatorSelector
+ItemAvailability
+ItemCollection
+ItemCurrentStatus
+ItemsFilter
+Language
+LANGUAGE
+Library level
+MaterialDesignation
+MaterialTypeOptions
+Modules
+ModuleType
+Month
+NatIdValidationRule
+NewFiscalYearTransferingWay
+Occupation
+OrderFlowAcqType
+OrderFlowInvoiceStatus
+OrderStatus
+OrderType
+OUType
+PatronBlack
+PatronRights
+PaymentCashTypes
+PaymentLimitPolicy
+PaymentMethods
+PaymentPolicy
+PaymentStatus
+PaymentType
+Penalty Type
+POType
+PublicationStatus
+PurchaseOrderFilter
+PurchaseOrderStatus
+Rating
+RDA Carrier type
+RDA Content type
+RDA Media type
+ReaderStatus
+RecommendFilter
+Recommend_Status
+RecommendType
+RejectApproveMess
+RejectPrereqMess
+RejectReasons
+Relator codes
+RenewPolicy
+ReportCategories
+ReportOptions
+review_public_flag
+SchoolTerm
+SchoolYear
+SDI_NOTICE_FREQUENCY
+SearchBooleanOperators
+SearchComparator
+Season
+seb_status
+SecretQuestion
+SelfCheckLanguages
+SendNoticesConfig
+SENDType
+ser_status
+ShelfInventoryResult
+ShelfStatus
+ShipVia
+SIPMediaTypes
+SituatieProvenienta
+SlaveCardType
+SMPLocationsSetupCategory1
+SMPLocationsSetupCategory2
+SMPLocationsSetupCategory3
+SMPLocationsSetupJournalType
+SMPLocationsSetupSource
+SMPStatus
+SourceOfSolicitation
+status
+StopOrderMess
+SubjectSystemCodes
+SubmoduleType
+SupplierType
+SuspendRightsType
+SuspensionType
+teacher_evaluation_state
+teacher_review_public_flag
+TransactionCloseMode
+TransactionLoanShortPolicy
+TransactionStatusFilter
+TransactionTypeFilter
+TransactionTypes
+TransTMU
+UserGroups
+UseStatus
+WeekInMonth
+')]</value>
+      <webElementGuid>7c0d2dfb-1979-4efe-a9eb-59cf1f274b58</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

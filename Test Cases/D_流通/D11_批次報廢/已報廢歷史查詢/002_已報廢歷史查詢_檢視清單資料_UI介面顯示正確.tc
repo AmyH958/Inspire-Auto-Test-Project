@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>002_已報廢歷史查詢_檢視清單資料_UI介面顯示正確</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>bb51727e-8b0b-422f-a80e-ccfa4260a31e</testCaseGuid>
+</TestCaseEntity>

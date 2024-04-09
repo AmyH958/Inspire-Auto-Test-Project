@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. 查詢 > 簡單查詢 &#xd;
+2. 查詢欄位輸入作者名(eg:崔明德) &#xd;
+3. 點選&quot;查詢&quot; &#xd;
+4. 查看結果</description>
+   <name>004_輸入作者名稱查詢</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f08ce85f-dad1-4829-8d69-e010bba76362</testCaseGuid>
+</TestCaseEntity>

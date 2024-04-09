@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select__1_2</name>
+   <tag></tag>
+   <elementGuidId>0bf2a626-b922-4d8e-8f56-e1493532dc66</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='PropertySelection_14']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#PropertySelection_14</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>09e722ec-50bc-40eb-baf8-a29d1c4266fa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>PropertySelection_14</value>
+      <webElementGuid>598b6136-9afd-4134-b219-2b2145c7700b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>PropertySelection_14</value>
+      <webElementGuid>2fda13c4-b182-4779-96e0-5323536e8963</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+粗體
+標準
+</value>
+      <webElementGuid>4dd4923b-263c-464f-9f11-66c49a86c62b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;PropertySelection_14&quot;)</value>
+      <webElementGuid>a134ec03-05d4-461e-be3e-054d9941a76b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='PropertySelection_14']</value>
+      <webElementGuid>fe6107d8-8e36-4d11-9002-78041ecce1cf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='LbaleParameterFrom']/table/tbody/tr[4]/td[4]/select</value>
+      <webElementGuid>d4620381-3782-4a06-bf96-a349a810fa24</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='樣式:'])[1]/following::select[1]</value>
+      <webElementGuid>85fe0736-666c-43d9-bbb4-47d7100146fb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='紙張大小:'])[1]/following::select[2]</value>
+      <webElementGuid>8b45f59f-7e61-4642-a041-1a6f402dcc48</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='直式橫式:'])[1]/preceding::select[1]</value>
+      <webElementGuid>a38ae6f7-6d2b-4c37-aca4-63e2961321cb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='字型大小:'])[1]/preceding::select[1]</value>
+      <webElementGuid>ddd2827b-6535-4d23-8b16-ff2b3a416ae3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td/div/form/table/tbody/tr[4]/td[4]/select</value>
+      <webElementGuid>9100034b-fea1-496a-bfe8-fdd8dc4aaca3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@name = 'PropertySelection_14' and @id = 'PropertySelection_14' and (text() = '
+粗體
+標準
+' or . = '
+粗體
+標準
+')]</value>
+      <webElementGuid>1fa11db2-72b5-4315-84d7-9f5272347885</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

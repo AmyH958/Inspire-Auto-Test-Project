@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>001_選擇報廢_檢視清單資料_不輸入直接點選查詢</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f49ca8b1-7ca7-4e92-ac11-d427b6c52cca</testCaseGuid>
+</TestCaseEntity>

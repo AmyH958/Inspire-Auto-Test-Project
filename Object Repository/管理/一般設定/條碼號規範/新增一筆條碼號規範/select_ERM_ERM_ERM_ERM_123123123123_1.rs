@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_ERM_ERM_ERM_ERM_123123123123_1</name>
+   <tag></tag>
+   <elementGuidId>29d1c924-bf75-4cf6-8f12-d216fb2ed661</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#PropertySelection_0</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='PropertySelection_0']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>c301ec78-10d8-4e32-9b25-5cfcb64a8977</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>PropertySelection_0</value>
+      <webElementGuid>7bc945be-6ccb-4e50-9fde-d3351dccb3df</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>PropertySelection_0</value>
+      <webElementGuid>4a9e9ace-40c9-44f5-b766-9c8c6b299c3b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onchange</name>
+      <type>Main</type>
+      <value>clickLinkSubmit('ruleForm', 'changeEvent');</value>
+      <webElementGuid>4ae2cceb-f316-4013-9300-6e59b30c9374</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+視聽資料
+圖書
+其他資料
+電子書
+期刊
+ERM_網路資源
+ERM_電子期刊
+ERM_電子書
+ERM_電子資料庫
+小冊子專用
+前置碼測試
+台北大電子資源
+123
+123
+123
+123
+</value>
+      <webElementGuid>e5a4dd7e-add4-45c7-87d3-dcf03d6774b2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;PropertySelection_0&quot;)</value>
+      <webElementGuid>763f4a7c-5707-404e-b693-a080a0cd6095</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='PropertySelection_0']</value>
+      <webElementGuid>b18b8128-c18b-40ee-bb0b-78f3ff2171bb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='ruleForm']/div[2]/table/tbody/tr/td/select</value>
+      <webElementGuid>e7b3f4ed-f7d0-47b8-a449-1f85dc665cb0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='條碼號類別篩選:'])[1]/following::select[1]</value>
+      <webElementGuid>15445230-449b-4bb3-99f9-1fa7f103dc5e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='管理 > 一般設定 > 條碼號規範'])[1]/following::select[1]</value>
+      <webElementGuid>a49d6f16-2f0a-4e57-a93b-b1e4c1bbdf95</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='館藏地篩選:'])[1]/preceding::select[1]</value>
+      <webElementGuid>2fb0d1ff-cbd5-4fa2-9c21-2b623dd58904</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='規則:'])[1]/preceding::select[2]</value>
+      <webElementGuid>52cd94f2-c3e6-46df-bb66-4c3e9f5ccd39</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td/select</value>
+      <webElementGuid>559e27ed-3d6e-4212-8a97-684f84b87b3b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@name = 'PropertySelection_0' and @id = 'PropertySelection_0' and (text() = '
+視聽資料
+圖書
+其他資料
+電子書
+期刊
+ERM_網路資源
+ERM_電子期刊
+ERM_電子書
+ERM_電子資料庫
+小冊子專用
+前置碼測試
+台北大電子資源
+123
+123
+123
+123
+' or . = '
+視聽資料
+圖書
+其他資料
+電子書
+期刊
+ERM_網路資源
+ERM_電子期刊
+ERM_電子書
+ERM_電子資料庫
+小冊子專用
+前置碼測試
+台北大電子資源
+123
+123
+123
+123
+')]</value>
+      <webElementGuid>644ff19f-922f-4039-872f-7298ca83521a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>b_Sufix</name>
+   <tag></tag>
+   <elementGuidId>37cee1f1-38ba-4bc2-98f9-c549bc11b36b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='For_3']/label/b</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#For_3 > label > b</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>b</value>
+      <webElementGuid>19df4b5c-afe3-4983-8459-5a65a79a450d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>[Sufix]</value>
+      <webElementGuid>353d4cf1-44a4-4b38-9371-5cc9656ea842</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;For_3&quot;)/label[1]/b[1]</value>
+      <webElementGuid>c614fcb1-d6c0-4d6e-8da0-157e43f8376a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='For_3']/label/b</value>
+      <webElementGuid>7e0a7dab-7f95-4332-a668-b35407f206a2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='[Prefix]'])[1]/following::b[1]</value>
+      <webElementGuid>c09120fb-a617-445c-88c0-94377a30cf0c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='選擇控制項:'])[1]/following::b[2]</value>
+      <webElementGuid>352d2b3c-c837-4882-ae90-f6897b6c344d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='[Number]'])[1]/preceding::b[1]</value>
+      <webElementGuid>9b017363-f0e4-4653-9070-9a11561da56c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='[Location]'])[1]/preceding::b[2]</value>
+      <webElementGuid>7d9c25e9-ea4e-471c-ac31-a7a20d5890c8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='[Sufix]']/parent::*</value>
+      <webElementGuid>6f121f81-6a3d-4657-a7ca-2404f587d625</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]/label/b</value>
+      <webElementGuid>f514418e-0885-4b18-94bc-4971fdda29ff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//b[(text() = '[Sufix]' or . = '[Sufix]')]</value>
+      <webElementGuid>bf77b64c-8aad-4b4b-9836-b35095ed373d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

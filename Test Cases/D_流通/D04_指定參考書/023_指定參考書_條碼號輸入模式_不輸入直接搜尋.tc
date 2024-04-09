@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>023_指定參考書_條碼號輸入模式_不輸入直接搜尋</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>925ca642-8d57-480f-8236-297b825d2602</testCaseGuid>
+</TestCaseEntity>

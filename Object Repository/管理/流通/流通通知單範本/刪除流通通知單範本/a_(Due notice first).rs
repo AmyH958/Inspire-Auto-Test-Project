@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_(Due notice first)</name>
+   <tag></tag>
+   <elementGuidId>6df729df-cccc-4932-83ba-04ecbf333516</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='DirectLink_1']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#DirectLink_1</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>f1cec59c-aeac-447a-97b9-1f83cc36a700</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>DirectLink_1</value>
+      <webElementGuid>27ee41d1-612c-492c-ad47-bc5d8c8d4358</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>bluesimple</value>
+      <webElementGuid>6b973cbc-0aba-4ce6-8fcd-b317d51971f8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/inspireapp/circulation/notices/Templates,$DirectLink.sdirect?sp=l1</value>
+      <webElementGuid>9e52da45-851e-4539-a36e-019d43a8e4a6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+				圖書即將到期提醒通知(Due notice first)</value>
+      <webElementGuid>b5a03be8-de79-4833-9744-debda8cd9a52</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;DirectLink_1&quot;)</value>
+      <webElementGuid>b77a9394-bbbd-4cf1-8039-b5758b633ee3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@id='DirectLink_1']</value>
+      <webElementGuid>3dc9166e-ca74-4f95-959e-f9111032f4bf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//tr[@id='For']/td[2]/a</value>
+      <webElementGuid>3b43124c-ea32-42cf-9ff9-59ace6665618</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'圖書即將到期提醒通知(Due notice first)')]</value>
+      <webElementGuid>f6938e71-33b3-4c0a-b9a9-ca45274ca02d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='管理 > 流通 > 流通通知單範本'])[1]/following::a[1]</value>
+      <webElementGuid>6939c42a-4677-4daa-8ada-f34c125f9c49</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='電子資源狀況報表'])[1]/following::a[1]</value>
+      <webElementGuid>546c37e3-b291-4215-a5f6-715124fa2ee6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='圖書即將到期再次提醒通知(Due notice repeat)'])[1]/preceding::a[2]</value>
+      <webElementGuid>a8c95180-5569-49f2-bae1-44af326cb6a3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='圖書逾期通知(Overdue first notice)'])[1]/preceding::a[4]</value>
+      <webElementGuid>5e7c47d9-3c56-4be2-82e6-448f81f55c92</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='圖書即將到期提醒通知(Due notice first)']/parent::*</value>
+      <webElementGuid>121252ce-77c2-453c-9017-271f2eb006e9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/inspireapp/circulation/notices/Templates,$DirectLink.sdirect?sp=l1')]</value>
+      <webElementGuid>28f4c747-1476-4a28-94aa-9694da70c9cf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[2]/a</value>
+      <webElementGuid>5061bfc3-f06f-483f-82a7-23a155a43e5e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@id = 'DirectLink_1' and @href = '/inspireapp/circulation/notices/Templates,$DirectLink.sdirect?sp=l1' and (text() = '
+				圖書即將到期提醒通知(Due notice first)' or . = '
+				圖書即將到期提醒通知(Due notice first)')]</value>
+      <webElementGuid>741e5daa-ff71-4b80-b046-1687756730b1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

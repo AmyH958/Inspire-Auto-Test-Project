@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>輸入錯誤使用者名稱或密碼</description>
+   <name>A02_使用者登入失敗</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c0e54a9f-6eb6-4d1e-a74d-0ddf9c00f2b5</testCaseGuid>
+</TestCaseEntity>

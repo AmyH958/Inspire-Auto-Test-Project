@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_MATLABPHP1</name>
+   <tag></tag>
+   <elementGuidId>9a0d5db6-1409-417a-9492-65839c24f8f8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>tr:nth-of-type(3) > td:nth-of-type(4)</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='patronEditForm']/div[5]/table/tbody/tr[3]/td[4]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>5df9cd11-d98b-4836-9ebc-40cac49af4ec</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>colspan</name>
+      <type>Main</type>
+      <value>3</value>
+      <webElementGuid>09ccfa48-080c-4f77-9b85-51431eabf5e3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+有效讀者
+離職離校
+微波通訊
+MATLAB程式設計
+無線行動網路架構
+電力電子學
+硬體描述語言設計
+電路板設計實務
+PHP程式設計
+通訊實習
+手持式裝置設計與應用
+進階數學
+半導體元件及量測實務
+科技英文
+創意與專利1
+</value>
+      <webElementGuid>8c917ffd-e75d-4826-81ed-5b6767717e46</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;patronEditForm&quot;)/div[5]/table[@class=&quot;table2&quot;]/tbody[1]/tr[3]/td[4]</value>
+      <webElementGuid>240d379d-f977-4292-9fc0-d0f60ab07d32</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='patronEditForm']/div[5]/table/tbody/tr[3]/td[4]</value>
+      <webElementGuid>b5a4e269-9c46-4692-b805-6ab73b7e1cad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='讀者狀態:'])[1]/following::td[1]</value>
+      <webElementGuid>569dd136-20d7-48b3-8c0d-37d38656c5e4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='行動電話:'])[1]/following::td[3]</value>
+      <webElementGuid>40182aa9-c956-4af4-b8d0-10a099d6aa4c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='單位所系:'])[1]/preceding::td[1]</value>
+      <webElementGuid>310b5d7f-38c0-4bb9-b7d7-ddc16d973ffd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='所系單位'])[1]/preceding::td[3]</value>
+      <webElementGuid>e6327ced-387c-4618-8b77-34023d64bd1b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[3]/td[4]</value>
+      <webElementGuid>38e4f092-423a-47b4-85ef-1711427505b6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = '
+有效讀者
+離職離校
+微波通訊
+MATLAB程式設計
+無線行動網路架構
+電力電子學
+硬體描述語言設計
+電路板設計實務
+PHP程式設計
+通訊實習
+手持式裝置設計與應用
+進階數學
+半導體元件及量測實務
+科技英文
+創意與專利1
+' or . = '
+有效讀者
+離職離校
+微波通訊
+MATLAB程式設計
+無線行動網路架構
+電力電子學
+硬體描述語言設計
+電路板設計實務
+PHP程式設計
+通訊實習
+手持式裝置設計與應用
+進階數學
+半導體元件及量測實務
+科技英文
+創意與專利1
+')]</value>
+      <webElementGuid>ae1f46bb-b26f-4142-84ef-633db3b68c5f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

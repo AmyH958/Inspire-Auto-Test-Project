@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>001_書箱作業_不輸入條件直接查詢_UI預設畫面顯示正確</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>0fd567be-ca23-4552-97a2-1fa2ea36ce09</testCaseGuid>
+</TestCaseEntity>

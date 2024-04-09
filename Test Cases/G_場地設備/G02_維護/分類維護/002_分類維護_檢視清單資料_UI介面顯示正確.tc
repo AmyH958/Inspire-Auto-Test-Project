@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>002_分類維護_檢視清單資料_UI介面顯示正確</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>cc1aac68-b64e-4bc3-ad5f-64dc9da3f1c9</testCaseGuid>
+</TestCaseEntity>

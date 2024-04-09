@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>002_電子資源-讀者點閱次數統計_檢視清單_清除區間檢索日期查詢</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c0b19923-48bb-4d6a-903d-6955f5282845</testCaseGuid>
+</TestCaseEntity>

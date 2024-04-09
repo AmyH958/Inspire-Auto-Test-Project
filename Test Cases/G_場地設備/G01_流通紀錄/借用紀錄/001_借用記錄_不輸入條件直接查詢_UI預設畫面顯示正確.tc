@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>001_借用記錄_不輸入條件直接查詢_UI預設畫面顯示正確</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>eb719d5b-a595-4539-b121-21dfb6c5b30a</testCaseGuid>
+</TestCaseEntity>

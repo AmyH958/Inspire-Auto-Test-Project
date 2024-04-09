@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>005_查詢讀者_不存在讀者</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>079f8db4-142b-4788-bc21-0ff59d0759c9</testCaseGuid>
+</TestCaseEntity>

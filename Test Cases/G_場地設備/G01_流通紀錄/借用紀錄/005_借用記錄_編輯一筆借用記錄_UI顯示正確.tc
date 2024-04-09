@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>005_借用記錄_編輯一筆借用記錄_UI顯示正確</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>79ae8d61-e71f-4391-89eb-05cdab2d4ade</testCaseGuid>
+</TestCaseEntity>

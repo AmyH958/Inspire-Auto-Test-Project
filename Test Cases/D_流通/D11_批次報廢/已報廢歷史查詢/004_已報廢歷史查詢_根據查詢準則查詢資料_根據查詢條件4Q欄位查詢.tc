@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>004_已報廢歷史查詢_根據查詢準則查詢資料_根據查詢條件4Q欄位查詢</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>42a6eb3b-ad12-4a0e-afa7-1ff88198af8c</testCaseGuid>
+</TestCaseEntity>

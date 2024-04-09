@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>010_讀者借書_借書失敗</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2ecceb73-7003-4ad7-8e8b-fc6a37db2366</testCaseGuid>
+</TestCaseEntity>

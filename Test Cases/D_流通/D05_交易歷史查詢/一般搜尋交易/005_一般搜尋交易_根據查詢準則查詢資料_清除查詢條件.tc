@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>005_一般搜尋交易_根據查詢準則查詢資料_清除查詢條件</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a34b84d1-3595-4ccd-9772-8bd6edb1f195</testCaseGuid>
+</TestCaseEntity>

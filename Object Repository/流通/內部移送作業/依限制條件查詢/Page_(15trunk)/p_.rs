@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_</name>
+   <tag></tag>
+   <elementGuidId>1a779628-d210-4659-9890-aa870806c317</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='noticeMessage']/p</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#noticeMessage > p</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>bc1cbaaa-99a7-4d7d-b398-637a27e7d384</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+				注意:若是修改的資料內容與原始內容相同，則不修改亦不顯示。
+			</value>
+      <webElementGuid>66dd2a8f-5b4f-49ce-8421-4671fe6cd1ae</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;noticeMessage&quot;)/p[1]</value>
+      <webElementGuid>14ba49c0-b8e4-4027-9398-1283df181498</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='noticeMessage']/p</value>
+      <webElementGuid>f17f48b9-e652-4502-9440-32a271c7459a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='龍華科技大學圖書館 - 龍華科技大學圖書館'])[1]/following::p[1]</value>
+      <webElementGuid>d483d4c9-35cc-4ce1-a82d-ae806b2a531f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='排序條件:'])[1]/preceding::p[1]</value>
+      <webElementGuid>45d1ca15-448e-4555-afc4-752c037e8a66</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/p</value>
+      <webElementGuid>0a62162a-0b5b-4a74-bdf8-35b7520c8a66</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = '
+				注意:若是修改的資料內容與原始內容相同，則不修改亦不顯示。
+			' or . = '
+				注意:若是修改的資料內容與原始內容相同，則不修改亦不顯示。
+			')]</value>
+      <webElementGuid>6d175ee1-e970-4e01-8daa-0c22bbe655c0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

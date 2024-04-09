@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>002_編目工作量統計(個人)_正常查詢</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ae4eaab6-680a-491e-9f2a-5f70983cf4a1</testCaseGuid>
+</TestCaseEntity>

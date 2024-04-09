@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_ERM_ERM_ERM_ERM_123123123123</name>
+   <tag></tag>
+   <elementGuidId>5b37807b-355f-40e2-a89b-a70bf38c2c0e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='PropertySelection_0_1']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#PropertySelection_0_1</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>acb6a1f5-bcf4-44e3-adf3-6ea3c0a95fe0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>PropertySelection_0_1</value>
+      <webElementGuid>0c1cfc3e-18f4-47f1-8ff0-f2a07eb80e96</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>PropertySelection_0_1</value>
+      <webElementGuid>a5b6a8a6-dfe1-42ce-b77d-f2a720f4d4d4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+
+視聽資料
+圖書
+其他資料
+電子書
+期刊
+ERM_網路資源
+ERM_電子期刊
+ERM_電子書
+ERM_電子資料庫
+小冊子專用
+前置碼測試
+台北大電子資源
+123
+123
+123
+123
+</value>
+      <webElementGuid>79a5af61-a80a-44c2-943e-a20fbf255526</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;PropertySelection_0_1&quot;)</value>
+      <webElementGuid>b55ecd24-57ac-4e61-9d9f-a9ecbeb3dc7d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='PropertySelection_0_1']</value>
+      <webElementGuid>b284e2ae-71e3-49e8-98ef-21723a9fef7d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//tr[@id='For_1_2']/td[2]/select</value>
+      <webElementGuid>ee41af31-53d0-41a4-bcc9-55e2f5d48439</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='條碼號類別:'])[1]/following::select[1]</value>
+      <webElementGuid>d881fc9f-09da-42e1-ba0b-b330414fe88a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='在OPAC上顯示:'])[1]/following::select[2]</value>
+      <webElementGuid>1ddfcecf-3cef-41de-9cdf-673a02b38088</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='館藏狀態:'])[1]/preceding::select[1]</value>
+      <webElementGuid>55b7f57f-6a43-4508-8903-639a74646cb4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='分類法:'])[1]/preceding::select[2]</value>
+      <webElementGuid>b0357762-04b2-40bd-a7dd-2d8c8afa8a97</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[5]/td[2]/select</value>
+      <webElementGuid>60b5a071-adb8-43a8-b9cc-b33cfc9a5d49</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@name = 'PropertySelection_0_1' and @id = 'PropertySelection_0_1' and (text() = '
+
+視聽資料
+圖書
+其他資料
+電子書
+期刊
+ERM_網路資源
+ERM_電子期刊
+ERM_電子書
+ERM_電子資料庫
+小冊子專用
+前置碼測試
+台北大電子資源
+123
+123
+123
+123
+' or . = '
+
+視聽資料
+圖書
+其他資料
+電子書
+期刊
+ERM_網路資源
+ERM_電子期刊
+ERM_電子書
+ERM_電子資料庫
+小冊子專用
+前置碼測試
+台北大電子資源
+123
+123
+123
+123
+')]</value>
+      <webElementGuid>385362ac-ae6c-4380-8200-847607b6450e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

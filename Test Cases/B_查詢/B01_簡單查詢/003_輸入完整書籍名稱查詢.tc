@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>003_輸入完整書籍名稱查詢</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>6a381a7a-0a29-4799-b0d1-85c3e548a03a</testCaseGuid>
+</TestCaseEntity>

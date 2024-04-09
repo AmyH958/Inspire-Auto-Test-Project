@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_</name>
+   <tag></tag>
+   <elementGuidId>97968b62-64af-4a48-a506-5a809b6b1efd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='ruleForm']/div[2]/table/tbody/tr/td/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>td > span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>f2857efb-42e0-482d-abe3-708b02a7f2a9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+			讀者身份類別:</value>
+      <webElementGuid>18ee3081-84eb-498b-b567-475ab2c6c2d4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ruleForm&quot;)/div[@class=&quot;search1 l&quot;]/table[@class=&quot;table9&quot;]/tbody[1]/tr[1]/td[1]/span[1]</value>
+      <webElementGuid>3e199c28-84b8-43b3-93da-d946df79dd79</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='ruleForm']/div[2]/table/tbody/tr/td/span</value>
+      <webElementGuid>a90df48a-249f-40f7-bf5b-51bfe81a2a43</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='管理 > 流通 > 讀者證卡原則'])[1]/following::span[1]</value>
+      <webElementGuid>c49afe5a-f23e-451b-9e00-9229ae815a02</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='電子資源狀況報表'])[1]/following::span[1]</value>
+      <webElementGuid>89f08b30-ce47-42bf-90a1-4b288850fe44</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='館藏地篩選:'])[1]/preceding::span[1]</value>
+      <webElementGuid>58207567-26b6-4c68-82f2-89b00ca05e62</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='規則:'])[1]/preceding::span[2]</value>
+      <webElementGuid>523ac96d-5bdc-438f-aeac-5bb33d6bc182</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='讀者身份類別:']/parent::*</value>
+      <webElementGuid>030c68f3-1133-4809-8868-13a0c7d59103</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td/span</value>
+      <webElementGuid>e5bf9f6c-cad8-45e2-a014-ab30353e1936</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = '
+			讀者身份類別:' or . = '
+			讀者身份類別:')]</value>
+      <webElementGuid>ccb3a49c-331d-4d2b-9d9d-9f9daafe1c22</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

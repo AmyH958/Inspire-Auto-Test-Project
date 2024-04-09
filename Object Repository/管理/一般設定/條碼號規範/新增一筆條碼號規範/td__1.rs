@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td__1</name>
+   <tag></tag>
+   <elementGuidId>83073f58-77ea-4b89-95fe-5d16ae7cc6fb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>tr:nth-of-type(2) > td.table1_right</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[(text() = '條碼號類別:' or . = '條碼號類別:')]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='Form']/table/tbody/tr[2]/td[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>7d6ab59d-a36e-4a3f-9e76-26e3430a7b6d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>table1_right</value>
+      <webElementGuid>f3fa04e2-28b4-42bc-9706-fded758ce03b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>條碼號類別:</value>
+      <webElementGuid>830995a4-43f6-4021-a38d-6c6fb5a68b98</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;Form&quot;)/table[@class=&quot;table1&quot;]/tbody[1]/tr[2]/td[@class=&quot;table1_right&quot;]</value>
+      <webElementGuid>cb707793-92f5-4089-975b-67c8b6837c2c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='Form']/table/tbody/tr[2]/td[3]</value>
+      <webElementGuid>dadff8bb-fad7-47a1-a5c3-8b145dd8e66e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='後置碼:'])[2]/following::td[2]</value>
+      <webElementGuid>03fe7c14-3a8a-46b6-bd1b-159a81073cbc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[1]/following::td[3]</value>
+      <webElementGuid>ec8c222e-4696-4014-963c-cc098b3aec0f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='碼:'])[2]/preceding::td[2]</value>
+      <webElementGuid>59eb842a-29ad-466a-972f-beea3ac90a9d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[2]/preceding::td[3]</value>
+      <webElementGuid>fa902a6b-78bd-4e5a-a7de-58c637ab509d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/table/tbody/tr[2]/td[3]</value>
+      <webElementGuid>e5393bdf-685a-4dca-a64b-4961cf30fecd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = '條碼號類別:' or . = '條碼號類別:')]</value>
+      <webElementGuid>d6877580-1486-4458-8c04-93baded3831b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_PrefixSufixNumberInventory class</name>
+   <tag></tag>
+   <elementGuidId>bf7c9fb8-5017-44be-b830-607e5cc935e6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>td:nth-of-type(2) > #Any_2</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='Any_2']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>a66cd2d1-7015-49ec-9b4c-e6b578e9a448</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>simple</value>
+      <webElementGuid>ed89bf19-a085-4a33-8232-7291bfcff4af</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>javascript:clickEditLink(0)</value>
+      <webElementGuid>d740769d-8d23-49c8-b9df-f475d4ec745a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>Any_2</value>
+      <webElementGuid>3bf405af-b77f-4b70-bb87-f23e96dc738e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>[Prefix][Sufix][Number][Inventory class]</value>
+      <webElementGuid>a2ef4989-7bd4-42e4-8e94-757aaf51d723</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;eTr_0&quot;)/td[2]/a[@id=&quot;Any_2&quot;]</value>
+      <webElementGuid>fd32aa9f-e358-4ec7-ba61-9588395ceebf</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@id='Any_2']</value>
+      <webElementGuid>e73db2b9-0f09-4bc7-bd34-edf70e39d0c7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//tr[@id='eTr_0']/td[2]/a[2]</value>
+      <webElementGuid>91fdd38e-a595-4ef0-b80e-6a06850c7c6f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'[Prefix][Sufix][Number][Inventory class]')]</value>
+      <webElementGuid>1a56678c-349b-40ee-baf4-d25238401b75</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='碼:'])[1]/following::a[2]</value>
+      <webElementGuid>db4ddb8e-d587-4e2f-b957-f923cb1f070b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='後置碼:'])[1]/following::a[2]</value>
+      <webElementGuid>5c7430fd-9c64-44f7-84d6-9e68bdcc7599</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='台中總館閱覽組'])[2]/preceding::a[1]</value>
+      <webElementGuid>59e26b91-2760-4f79-8499-56851e3e106c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='電子書'])[2]/preceding::a[1]</value>
+      <webElementGuid>a4baa2c8-58f0-4cee-ba0e-41072ea42589</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='[Prefix][Sufix][Number][Inventory class]']/parent::*</value>
+      <webElementGuid>3ba64ccf-9818-4ffd-a0f2-2dabca152200</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'javascript:clickEditLink(0)')]</value>
+      <webElementGuid>d6a75b2a-9f5f-45e2-a18a-c062585c7b76</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[2]/a[2]</value>
+      <webElementGuid>fa337473-ce00-4289-88bc-60005513a735</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'javascript:clickEditLink(0)' and @id = 'Any_2' and (text() = '[Prefix][Sufix][Number][Inventory class]' or . = '[Prefix][Sufix][Number][Inventory class]')]</value>
+      <webElementGuid>db2bbab1-f065-4e38-b5c9-f4438e60e8fd</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

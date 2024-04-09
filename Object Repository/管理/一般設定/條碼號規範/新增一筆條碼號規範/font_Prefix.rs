@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>font_Prefix</name>
+   <tag></tag>
+   <elementGuidId>db006191-087d-4ee0-8107-69a94ee2de97</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#1 > font</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[(text() = '[Prefix]' or . = '[Prefix]')]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='1']/font</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>font</value>
+      <webElementGuid>c05a6816-cd02-4537-98a6-0f7c4361df9e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>size</name>
+      <type>Main</type>
+      <value>4px</value>
+      <webElementGuid>81123f59-3c03-4465-9b36-63f1ab25a6b6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>[Prefix]</value>
+      <webElementGuid>8169af37-e857-4b84-ad70-88fd32107d9e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;1&quot;)/font[1]</value>
+      <webElementGuid>4124867b-f524-46e1-a512-4e33423bff5e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='1']/font</value>
+      <webElementGuid>d293225b-f422-4ca3-9e6e-2f816b18f34d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='(拖曳部份)'])[1]/following::font[1]</value>
+      <webElementGuid>3fafef1e-6ce2-4db1-9e67-ab9c7ded3bab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='[Sufix]'])[2]/preceding::font[1]</value>
+      <webElementGuid>73cd5583-a7b7-4b9e-a968-b716507b754c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='[Number]'])[4]/preceding::font[2]</value>
+      <webElementGuid>4b75689f-7a12-417f-b178-5560934471df</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/font</value>
+      <webElementGuid>082dedda-6d32-4868-b15a-ce1f0897ae19</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//font[(text() = '[Prefix]' or . = '[Prefix]')]</value>
+      <webElementGuid>b8211d62-db85-4c8d-9d5f-e5c58cbe990e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

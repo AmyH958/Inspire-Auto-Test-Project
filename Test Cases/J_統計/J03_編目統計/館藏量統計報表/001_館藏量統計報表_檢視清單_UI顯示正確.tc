@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>001_館藏量統計報表_檢視清單_UI顯示正確</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ce4d8b43-9bd0-487d-9d53-a683f61b366e</testCaseGuid>
+</TestCaseEntity>

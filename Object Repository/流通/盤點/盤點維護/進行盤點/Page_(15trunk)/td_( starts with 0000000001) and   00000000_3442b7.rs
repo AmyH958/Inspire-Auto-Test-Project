@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_( starts with 0000000001) and   00000000_3442b7</name>
+   <tag></tag>
+   <elementGuidId>4f2dd79a-e828-472b-b8bf-874656ff097d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//tr[@id='For_5']/td[6]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#For_5 > td:nth-of-type(6)</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>cc655bf8-8109-484b-b619-7cbf7e7bd0f5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> (條碼號 starts with '0000000001') and 條碼號 &lt;= '0000000018' order by 條碼號</value>
+      <webElementGuid>65e7c4a0-5963-4f08-b173-62f6dc849b49</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;For_5&quot;)/td[6]</value>
+      <webElementGuid>beae75e6-1ae0-47b6-ba85-b5cf6d898a9b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//tr[@id='For_5']/td[6]</value>
+      <webElementGuid>b6318819-bf19-4b7f-880a-3dfb486fef57</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='測試盤點_202403130145'])[1]/following::td[1]</value>
+      <webElementGuid>f3772757-8919-4d8a-9387-a9f261acfa8f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='啟動盤點'])[2]/following::td[2]</value>
+      <webElementGuid>2c660745-aa50-4ccd-9bf4-108792d5ff6c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='盤點母樣本數:'])[1]/preceding::td[1]</value>
+      <webElementGuid>fe71d5da-2ede-41d9-b55f-38d648047ecf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='盤點上傳數:'])[1]/preceding::td[4]</value>
+      <webElementGuid>cd300332-9f20-4ae9-b970-8ebe2279761d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[3]/td[6]</value>
+      <webElementGuid>9d4a0d00-7101-420f-b282-215dc5976bd2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = concat(&quot; (條碼號 starts with &quot; , &quot;'&quot; , &quot;0000000001&quot; , &quot;'&quot; , &quot;) and 條碼號 &lt;= &quot; , &quot;'&quot; , &quot;0000000018&quot; , &quot;'&quot; , &quot; order by 條碼號&quot;) or . = concat(&quot; (條碼號 starts with &quot; , &quot;'&quot; , &quot;0000000001&quot; , &quot;'&quot; , &quot;) and 條碼號 &lt;= &quot; , &quot;'&quot; , &quot;0000000018&quot; , &quot;'&quot; , &quot; order by 條碼號&quot;))]</value>
+      <webElementGuid>afdf9c72-4d54-4827-81e3-f35058525d25</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

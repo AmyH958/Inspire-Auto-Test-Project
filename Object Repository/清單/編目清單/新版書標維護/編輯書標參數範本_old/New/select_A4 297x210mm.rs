@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_A4 297x210mm</name>
+   <tag></tag>
+   <elementGuidId>e36665dd-8dce-494f-b1d9-456bd2e70690</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='PropertySelection_13']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#PropertySelection_13</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>73eb9dc9-170a-46d4-ad6a-97676885ace7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>PropertySelection_13</value>
+      <webElementGuid>8a5a6cf2-8bcf-4d38-9482-3d13d7ebb0de</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>PropertySelection_13</value>
+      <webElementGuid>46bd5c1a-89d7-4bd4-b47d-0d571d65011b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onchange</name>
+      <type>Main</type>
+      <value>this.form.submit();</value>
+      <webElementGuid>be3081c8-864f-48c2-a19f-52c2286c48fb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+A4 297x210mm
+</value>
+      <webElementGuid>798a0095-8577-46b8-9693-3e312ba0698a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;PropertySelection_13&quot;)</value>
+      <webElementGuid>027296c6-4787-4f4d-b058-ec51e9c44aea</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='PropertySelection_13']</value>
+      <webElementGuid>07991c78-d080-4a5b-83ec-4663be7ad0c4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='LbaleParameterFrom']/table/tbody/tr[4]/td[2]/select</value>
+      <webElementGuid>52a382d8-52fb-4f0e-8e07-1f715aa8365d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='紙張大小:'])[1]/following::select[1]</value>
+      <webElementGuid>90e3d87b-74c9-4cfc-ab18-96f14b2843ee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='字型:'])[1]/following::select[2]</value>
+      <webElementGuid>23eb3e83-2469-44ff-bdd8-990cdd4b5e01</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='樣式:'])[1]/preceding::select[1]</value>
+      <webElementGuid>e147d2b4-6327-48b5-aab6-c1c5f6179c3f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='直式橫式:'])[1]/preceding::select[2]</value>
+      <webElementGuid>fb61d033-f370-4a80-9404-1d336350c49b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[4]/td[2]/select</value>
+      <webElementGuid>adf31244-b0ac-4d46-8df3-47236a8c9c16</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@name = 'PropertySelection_13' and @id = 'PropertySelection_13' and (text() = '
+A4 297x210mm
+' or . = '
+A4 297x210mm
+')]</value>
+      <webElementGuid>112079f8-c043-41ef-a1be-58c8c254ca1b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
