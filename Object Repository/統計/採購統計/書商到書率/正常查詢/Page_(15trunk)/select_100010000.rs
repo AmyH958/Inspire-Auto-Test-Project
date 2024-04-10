@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_100010000</name>
+   <tag></tag>
+   <elementGuidId>6fc9eb51-4ac1-42c2-a4b4-b125f8d78c85</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#row</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='row']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>2c0573c7-7dad-4da5-8ca1-69300d9e0c18</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>row</value>
+      <webElementGuid>69ce5a45-4cf8-4d94-9625-eb65609c221e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>row</value>
+      <webElementGuid>392958b6-daf0-4084-91bd-c17883e06174</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+1000
+10000
+</value>
+      <webElementGuid>7aca9e78-0c1d-4081-9b9e-463fd75683ce</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;row&quot;)</value>
+      <webElementGuid>fd2eb70c-0783-48cc-aae5-a51cbef235ae</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='row']</value>
+      <webElementGuid>9221a652-b7f4-4955-9a47-121920ebe838</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='rowselect']/select</value>
+      <webElementGuid>1b8ff05e-19a3-4b1d-927e-72150a60fcdf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='顯示筆數'])[1]/following::select[1]</value>
+      <webElementGuid>b15d4116-de50-4c2d-ba43-8cb2a257d097</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='輸出選項'])[1]/following::select[2]</value>
+      <webElementGuid>edba85c0-e462-4ab4-8008-54a739031deb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='序號'])[1]/preceding::select[2]</value>
+      <webElementGuid>c7a6ffdd-a140-48a5-a0a2-e0363f084168</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[6]/td[2]/div/select</value>
+      <webElementGuid>48a5bb11-3616-4daf-8206-fd14311dcae9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@name = 'row' and @id = 'row' and (text() = '
+1000
+10000
+' or . = '
+1000
+10000
+')]</value>
+      <webElementGuid>91884d18-f2b5-44d5-9f85-71c331a2cd0a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

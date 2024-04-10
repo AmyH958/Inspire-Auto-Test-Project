@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>002_書商累計訂購次數_正常查詢</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>17317aef-8b15-4994-977b-f3d11c34a2b4</testCaseGuid>
+</TestCaseEntity>

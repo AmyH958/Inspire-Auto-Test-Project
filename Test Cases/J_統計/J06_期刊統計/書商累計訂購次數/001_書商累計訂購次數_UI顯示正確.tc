@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>001_書商累計訂購次數_UI顯示正確</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c7702200-c16d-434d-bd4b-c599e143acbc</testCaseGuid>
+</TestCaseEntity>
