@@ -25,4 +25,11 @@
       <testCaseId>Test Cases/H_管理/功能維護/特別書籍維護/查詢後確認搜尋結果符合查詢條件</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
+   <testCaseLink>
+      <guid>248f90e8-48e0-4958-9991-381112352682</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/J_統計/J06_期刊統計/期刊經費訂購統計報表/004_期刊經費訂購統計報表_報表狀態</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
 </TestSuiteEntity>
