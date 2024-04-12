@@ -15,21 +15,21 @@
       <guid>dc0c6caf-9d5b-4b02-b699-49a680949eaa</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/K_清單/編目清單/新版書標維護/書標參數範本/書標參數範本查詢</testCaseId>
+      <testCaseId>Test Cases/K_清單/K02_編目清單/新版書標維護/書標參數範本/書標參數範本查詢</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
       <guid>141e9493-f9aa-46b5-ac72-2c460a62d2b2</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/K_清單/編目清單/新版書標維護/書標參數範本/新增書標參數範本</testCaseId>
+      <testCaseId>Test Cases/K_清單/K02_編目清單/新版書標維護/書標參數範本/新增書標參數範本</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
       <guid>aed359dc-48e9-4ed9-95b9-6c220179a40f</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/K_清單/編目清單/新版書標維護/書標參數範本/編輯書標參數範本</testCaseId>
+      <testCaseId>Test Cases/K_清單/K02_編目清單/新版書標維護/書標參數範本/編輯書標參數範本</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
       <variableLink>
          <testDataLinkId></testDataLinkId>
@@ -78,7 +78,7 @@
       <guid>deb0453f-e454-4612-9434-95680f919ff3</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/K_清單/編目清單/新版書標維護/書標參數範本/刪除書標參數範本</testCaseId>
+      <testCaseId>Test Cases/K_清單/K02_編目清單/新版書標維護/書標參數範本/刪除書標參數範本</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>
