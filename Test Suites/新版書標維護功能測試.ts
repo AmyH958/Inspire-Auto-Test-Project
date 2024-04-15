@@ -4,7 +4,7 @@
    <name>新版書標維護功能測試</name>
    <tag></tag>
    <isRerun>false</isRerun>
-   <mailRecipient></mailRecipient>
+   <mailRecipient>hclee@mitac.com.tw;</mailRecipient>
    <numberOfRerun>0</numberOfRerun>
    <pageLoadTimeout>15</pageLoadTimeout>
    <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
@@ -15,21 +15,21 @@
       <guid>dc0c6caf-9d5b-4b02-b699-49a680949eaa</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/K_清單/K02_編目清單/新版書標維護/書標參數範本/書標參數範本查詢</testCaseId>
+      <testCaseId>Test Cases/K_清單/K02_編目清單/新版書標維護/書標參數範本/001_書標參數範本查詢</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
       <guid>141e9493-f9aa-46b5-ac72-2c460a62d2b2</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/K_清單/K02_編目清單/新版書標維護/書標參數範本/新增書標參數範本</testCaseId>
+      <testCaseId>Test Cases/K_清單/K02_編目清單/新版書標維護/書標參數範本/002_新增書標參數範本</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
       <guid>aed359dc-48e9-4ed9-95b9-6c220179a40f</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/K_清單/K02_編目清單/新版書標維護/書標參數範本/編輯書標參數範本</testCaseId>
+      <testCaseId>Test Cases/K_清單/K02_編目清單/新版書標維護/書標參數範本/003_編輯書標參數範本</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
       <variableLink>
          <testDataLinkId></testDataLinkId>
@@ -78,7 +78,21 @@
       <guid>deb0453f-e454-4612-9434-95680f919ff3</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/K_清單/K02_編目清單/新版書標維護/書標參數範本/刪除書標參數範本</testCaseId>
+      <testCaseId>Test Cases/K_清單/K02_編目清單/新版書標維護/書標參數範本/004_刪除書標參數範本</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>60edd8ab-d618-4844-9449-e57aa78e821f</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/K_清單/K02_編目清單/新版書標維護/列印清單維護/003_列印清單維護_正常新增</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>73edee6d-79bf-44c0-be4a-94e0ae017507</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/K_清單/K02_編目清單/新版書標維護/列印清單維護/004_列印清單維護_正常刪除</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>

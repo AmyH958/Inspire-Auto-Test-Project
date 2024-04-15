@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>確認刪除成功</description>
+   <name>004_刪除書標參數範本</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>db5ab6ec-c346-46de-9d72-2b096e2542c0</testCaseGuid>
+</TestCaseEntity>
