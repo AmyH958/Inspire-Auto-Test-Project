@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>007_借閱(逾期)清單_報表狀態</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>27fa3875-2d39-45ad-ab2a-338f256bf1d4</testCaseGuid>
+</TestCaseEntity>

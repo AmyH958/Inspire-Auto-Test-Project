@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select__1_2_3</name>
+   <tag></tag>
+   <elementGuidId>3db4d624-6856-4726-9810-baf49c3006b9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='groupbyselect_0']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#groupbyselect_0</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>d8a86a34-76c0-4746-a7ab-fe271961d5bf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>groupbyselect_0</value>
+      <webElementGuid>e6ed6f28-e699-400c-9e82-c8ff8f9038f4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>groupbyselect_0</value>
+      <webElementGuid>8af11d21-71c4-4cc3-bb92-a8e1a5c9fdce</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+依單位
+依館藏地
+依身份
+</value>
+      <webElementGuid>25bf64a4-ab8f-4b30-9eca-d7cd352f2772</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;groupbyselect_0&quot;)</value>
+      <webElementGuid>2d471d7c-dd72-4e17-80ed-d37167113982</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='groupbyselect_0']</value>
+      <webElementGuid>45653bb1-3c7d-411b-a253-b7ecad20c939</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='groupbyselect']/select</value>
+      <webElementGuid>aa993a7c-3e73-4d40-9f85-e6019b6fe0d4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='輸出選項'])[1]/following::select[1]</value>
+      <webElementGuid>9d5a54a9-d269-40dd-afa7-55b25138759d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='排序條件'])[1]/following::select[2]</value>
+      <webElementGuid>e73755fa-d072-4703-8b5e-01467fc89645</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='已發催還通知'])[1]/preceding::select[1]</value>
+      <webElementGuid>7715b97f-5f55-446f-aafa-f3fca0f8d343</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='動態報表欄位'])[1]/preceding::select[1]</value>
+      <webElementGuid>b2ee7e08-e611-43df-9e45-c7e560876863</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[6]/td[2]/div/select</value>
+      <webElementGuid>13ece8a2-b2c7-4548-a8f5-d8b6acae6cc7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@name = 'groupbyselect_0' and @id = 'groupbyselect_0' and (text() = '
+依單位
+依館藏地
+依身份
+' or . = '
+依單位
+依館藏地
+依身份
+')]</value>
+      <webElementGuid>1aa0bfa8-b45a-46e0-868b-dc5104df6936</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_</name>
+   <tag></tag>
+   <elementGuidId>6336bc9c-014b-45f0-b971-5ca782eb5990</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='classification']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#classification</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>1af277a3-932f-42c1-b165-9a866722e1e3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>classification</value>
+      <webElementGuid>4cf80366-06bb-417a-bfaf-cc9e09cd7170</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>classification</value>
+      <webElementGuid>905b3621-e91c-4e03-ab56-91a6c7b01ef3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+
+中文圖書分類法
+美國國會圖書分類法
+杜威分類法
+美國國家醫學圖書館分類法
+何日章中國圖書十進分類法
+</value>
+      <webElementGuid>e97ca5d0-3dca-45bf-afde-fe013c4a4fff</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;classification&quot;)</value>
+      <webElementGuid>baf24c73-ed45-4ced-a949-eae752c32578</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='classification']</value>
+      <webElementGuid>d198d16e-bec9-4f5e-8a47-82661e30f427</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='searchForm']/div[3]/table/tbody/tr[5]/td[2]/select</value>
+      <webElementGuid>4941aaee-552c-4572-b926-f556b092e5fe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='分類法'])[1]/following::select[1]</value>
+      <webElementGuid>9d15d37f-5263-467b-9c4b-f3193bbc5c15</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='起訖分類號'])[1]/preceding::select[1]</value>
+      <webElementGuid>fd4d5306-f39e-4d82-8e1c-1b16b8d3da72</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[2]/select</value>
+      <webElementGuid>8f3f29ee-f701-40b7-867b-69fe94a94ab2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@name = 'classification' and @id = 'classification' and (text() = '
+
+中文圖書分類法
+美國國會圖書分類法
+杜威分類法
+美國國家醫學圖書館分類法
+何日章中國圖書十進分類法
+' or . = '
+
+中文圖書分類法
+美國國會圖書分類法
+杜威分類法
+美國國家醫學圖書館分類法
+何日章中國圖書十進分類法
+')]</value>
+      <webElementGuid>412bd5be-bc58-454d-aec9-d6617a6689f6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

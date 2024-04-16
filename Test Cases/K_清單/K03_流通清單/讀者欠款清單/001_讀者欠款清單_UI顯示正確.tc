@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>001_讀者欠款清單_UI顯示正確</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d8b61c60-6d02-400a-b836-f5d6fc4cbba7</testCaseGuid>
+</TestCaseEntity>

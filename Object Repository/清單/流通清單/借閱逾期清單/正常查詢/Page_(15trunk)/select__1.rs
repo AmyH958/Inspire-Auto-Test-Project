@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select__1</name>
+   <tag></tag>
+   <elementGuidId>300c955a-17b9-4c1b-b1bc-245010a08c44</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='orderby2_0']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#orderby2_0</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>9bba6a48-8272-4657-90dc-395ca5b2c280</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>orderby2_0</value>
+      <webElementGuid>b139443c-0d7d-4c76-bebf-357ff5d41f55</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>orderby2_0</value>
+      <webElementGuid>3881bda2-f1ba-4336-8281-9819985de76f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+
+依單位別
+依館藏地
+依讀者類型
+依逾期天數
+</value>
+      <webElementGuid>28110da9-56f5-48ef-b2ba-936d41362422</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;orderby2_0&quot;)</value>
+      <webElementGuid>8a17e85d-efc4-4a4b-ad9c-34606baaa6da</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='orderby2_0']</value>
+      <webElementGuid>e64b07ee-896b-42fa-b922-c08403e00243</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='orderby2']/select</value>
+      <webElementGuid>32631e33-5618-4433-914b-2640797a28f2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='第二排序'])[1]/following::select[1]</value>
+      <webElementGuid>109be082-b8aa-43e9-ad4c-ff52dbfd2bc6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='第一排序'])[1]/following::select[2]</value>
+      <webElementGuid>74787334-c0b7-4891-b6aa-2061311114be</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='排序條件'])[1]/preceding::select[1]</value>
+      <webElementGuid>044a95ca-3bd0-4651-8068-3f7350975560</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='輸出選項'])[1]/preceding::select[2]</value>
+      <webElementGuid>6d0a2340-702e-4a65-b58f-019fb3035689</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[4]/td[2]/div/select</value>
+      <webElementGuid>a2d5e5ba-c8b0-4ab3-8ac2-882888d24650</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@name = 'orderby2_0' and @id = 'orderby2_0' and (text() = '
+
+依單位別
+依館藏地
+依讀者類型
+依逾期天數
+' or . = '
+
+依單位別
+依館藏地
+依讀者類型
+依逾期天數
+')]</value>
+      <webElementGuid>a61d9434-4643-421e-90e0-ddb5a64d6687</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
