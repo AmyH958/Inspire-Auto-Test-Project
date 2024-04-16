@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>001_條碼產生清單_UI顯示正確</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d4cd0b9d-9416-40f2-a292-bf87c3d065a2</testCaseGuid>
+</TestCaseEntity>

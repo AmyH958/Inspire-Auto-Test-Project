@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>001_單位科系館藏設定清單_UI顯示正確</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b4289d5e-6113-4cd8-a76e-9e7b60024883</testCaseGuid>
+</TestCaseEntity>

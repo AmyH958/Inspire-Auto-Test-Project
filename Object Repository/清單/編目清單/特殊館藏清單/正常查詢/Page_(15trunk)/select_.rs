@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_</name>
+   <tag></tag>
+   <elementGuidId>05c2e091-50aa-44b7-8685-4994ec7c7d52</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#sort_0</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='sort_0']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>265aa064-16ac-496d-8f15-282147a29469</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>sort_0</value>
+      <webElementGuid>4e30652e-d4b6-47ee-8c48-039ac29e8769</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>sort_0</value>
+      <webElementGuid>5aee74a3-2b98-4d3b-872b-e962b1836178</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+升冪
+降冪
+</value>
+      <webElementGuid>f90fb753-6c85-4cc9-940c-30fdb1c915f8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;sort_0&quot;)</value>
+      <webElementGuid>1a3f86fe-3863-4d81-8cea-a22e68bcf453</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='sort_0']</value>
+      <webElementGuid>2b581ed1-55f8-49dc-a2a7-145a637ce16f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='sort']/select</value>
+      <webElementGuid>399d673f-7d1c-467f-b878-ba4fb283508a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='排序條件'])[1]/following::select[1]</value>
+      <webElementGuid>c7b68286-6fa4-4022-ba73-9d25fbc5b015</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='第二排序'])[1]/following::select[2]</value>
+      <webElementGuid>2b73a7b7-6233-4cdd-9250-9cd8a6940110</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='動態報表欄位'])[1]/preceding::select[1]</value>
+      <webElementGuid>5c2d60e2-d85f-4966-bb60-960d6641219b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ALL'])[1]/preceding::select[1]</value>
+      <webElementGuid>ab10e6d0-4cc3-4d04-ad99-ba2898b6ce2c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[7]/td[2]/div/select</value>
+      <webElementGuid>df84c742-5524-4d68-939e-6c011858dfd6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@name = 'sort_0' and @id = 'sort_0' and (text() = '
+升冪
+降冪
+' or . = '
+升冪
+降冪
+')]</value>
+      <webElementGuid>7a3f8a24-ca23-47de-a1d8-9d1e090f7777</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

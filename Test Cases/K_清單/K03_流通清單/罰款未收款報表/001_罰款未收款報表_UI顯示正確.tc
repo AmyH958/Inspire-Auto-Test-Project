@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>001_罰款未收款報表_UI顯示正確</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>dce46f8a-dabd-4995-a51d-af6d8ef6f9d9</testCaseGuid>
+</TestCaseEntity>

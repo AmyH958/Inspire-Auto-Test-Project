@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select__1_2</name>
+   <tag></tag>
+   <elementGuidId>9a6f7128-e7f8-4dfe-855f-04eb2ec2cb2e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='amercementType']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#amercementType</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>0eefabb2-d86c-47b2-b07c-414ed86e902b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>amercementType</value>
+      <webElementGuid>79c3acae-f75c-41d1-90e4-94a37651be0d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>amercementType</value>
+      <webElementGuid>ebecb48d-8467-4997-8bc6-128506871368</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+
+遺失罰款
+逾期
+自動停權轉罰款
+其他罰款
+</value>
+      <webElementGuid>cfaa07a7-442d-4f24-8043-29df94d384f8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;amercementType&quot;)</value>
+      <webElementGuid>22111799-412d-4acb-9da6-cb759e2a2f5d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='amercementType']</value>
+      <webElementGuid>7703bebd-2ddd-40fa-a6e7-3731fe0a5a83</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='searchForm']/table/tbody/tr[8]/td[2]/select</value>
+      <webElementGuid>d4c4f581-c989-4464-ac9f-ddc0f263d035</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='罰款原因'])[1]/following::select[1]</value>
+      <webElementGuid>606edc1a-bccf-4746-8fc5-e94198f6c6b6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='排序條件'])[1]/following::select[3]</value>
+      <webElementGuid>d2850b82-257b-4f3f-aaf1-150bd9ba57b5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='動態報表欄位'])[1]/preceding::select[1]</value>
+      <webElementGuid>c6d92f19-f224-41ee-87e6-cb02c26452c3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ALL'])[1]/preceding::select[1]</value>
+      <webElementGuid>fc8afa5b-d20d-43d1-a1bf-5631c27e6349</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[8]/td[2]/select</value>
+      <webElementGuid>163a6298-5a0b-4512-82ee-24212097820e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@name = 'amercementType' and @id = 'amercementType' and (text() = '
+
+遺失罰款
+逾期
+自動停權轉罰款
+其他罰款
+' or . = '
+
+遺失罰款
+逾期
+自動停權轉罰款
+其他罰款
+')]</value>
+      <webElementGuid>8248490b-25ee-45ef-8552-77a9f8b8b453</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
