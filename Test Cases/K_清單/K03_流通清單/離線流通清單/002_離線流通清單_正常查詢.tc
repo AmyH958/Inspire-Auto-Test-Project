@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>002_離線流通清單_正常查詢</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5ddeb80a-7bb3-4103-80e0-e98cf82add95</testCaseGuid>
+</TestCaseEntity>

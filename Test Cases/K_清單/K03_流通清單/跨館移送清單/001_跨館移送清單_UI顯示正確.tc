@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>001_跨館移送清單_UI顯示正確</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>bd940e1b-3e14-48ab-9be1-05454678b5f7</testCaseGuid>
+</TestCaseEntity>

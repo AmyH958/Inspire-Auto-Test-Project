@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>001_離線流通清單_UI顯示正確</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e0d7a069-f62c-44b6-83bd-43d0cb222f9c</testCaseGuid>
+</TestCaseEntity>
