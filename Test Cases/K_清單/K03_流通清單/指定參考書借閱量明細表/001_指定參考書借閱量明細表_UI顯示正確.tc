@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>001_指定參考書借閱量明細表_UI顯示正確</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>110b7ec9-f557-4452-83f8-969f17f916bc</testCaseGuid>
+</TestCaseEntity>
