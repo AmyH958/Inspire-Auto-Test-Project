@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>003_重複讀者比對報表_報表狀態</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>de2c0419-f278-4d50-bce0-d0298dceb2b4</testCaseGuid>
+</TestCaseEntity>

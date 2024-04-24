@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>002_指定參考書借閱量明細表_正常查詢</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>26f35fe7-7b12-425c-bf3f-3d3932385246</testCaseGuid>
+</TestCaseEntity>

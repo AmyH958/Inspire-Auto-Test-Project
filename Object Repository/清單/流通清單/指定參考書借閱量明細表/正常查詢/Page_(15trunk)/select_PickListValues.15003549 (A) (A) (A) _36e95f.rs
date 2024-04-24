@@ -1,0 +1,481 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_PickListValues.15003549 (A) (A) (A) _36e95f</name>
+   <tag></tag>
+   <elementGuidId>ffacd76e-0088-43e3-9a75-8ece35df6064</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='classes']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#classes</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>75dfdf82-af24-4dc3-b6d4-b7cbaba60af1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>classes</value>
+      <webElementGuid>508a64bb-ef38-4d73-b71f-c0e604b486df</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>classes</value>
+      <webElementGuid>a68074e9-0903-490e-bd7e-af7022977485</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+
+基礎數學
+PickListValues.15003549
+微生物學及免疫學實驗 (A)微生物學及免疫學實驗 (A)微生物學及免疫學實驗 (A)微生物學及免疫學實驗 (A)PickListValues.15003628
+PickListValues.15003568
+PickListValues.15003561
+PickListValues.15003560
+PickListValues.15003557
+test2
+PickListValues.15003555
+PickListValues.15003550
+PickListValues.15003551
+PickListValues.15003552
+PickListValues.15003553
+PickListValues.15003554
+管理會計
+進階第二外語(二)– 日文
+進階第二外語(二) – 西班牙文
+字彙學習
+觀光活動行銷與接待實務
+實用英文寫作(二)
+新聞英文(二)
+商業英文書信寫作
+會議英文
+english
+ABC
+口譯(二)
+電子商務與實習
+經貿英文
+管理學(人力資源管理)專業英文
+行銷學專業英文
+商用微積分（二）
+應用統計學（二）
+應用經濟學
+貨幣銀行學（二）
+中級會計學（二）
+會計學(二)
+商事法
+財務管理（二）
+保險學
+中文
+期貨與選擇權
+專題製作(二)
+金融業行銷
+PickListValues.15003508
+沒
+職場倫理個案研討
+專業證照
+財務數學
+國際金融與匯兌
+進階經濟學
+經濟政策
+管理會計學
+銀行會計與實務
+財務會計實務
+稅務法規
+國際財務管理
+投資組合管理
+企業評價
+風險管理
+貨幣市場暨交易實務
+營運資金管理
+保險實務
+金融行銷實務
+管理學
+金融創新
+職場倫理實作
+財金專業英文
+銀行徵信與授信實務
+財富管理實務
+產業界實習
+財務金融資訊系統
+風險管理
+公司治理
+財富管理實務
+職涯分析與規劃
+英語導覽人才口語溝通(二)
+英語導覽人才口語溝通(四)
+菁英人才閱讀與寫作(二)
+菁英人才閱讀與寫作(四)
+國際商務英文（二）
+商用英語會話
+國際商務英文(二)
+商用英語會話
+實用英語
+商用微積分(二)
+電子商務應用
+全球產業分析
+管理經濟學
+電子商務應用
+管理經濟學
+應用統計學(二)
+專題製作(二)
+應用統計學(二)
+國際企業管理
+行銷管理
+全球行銷管理
+國貿實務(二)
+行銷管理
+會計學（二）
+會計學(二)
+財務管理
+國際金融
+國際金融
+經貿英語導讀
+產業組織
+亞太經貿分析
+商業應用軟體
+國際經貿關係
+國際市場開發實務
+商事法
+全球產業分析
+大陸市場
+整合行銷溝通
+測試課程
+台灣
+PickListValues.15003559
+高齡社會與老年生活[Aged Society And Elderly Life]95U000749
+</value>
+      <webElementGuid>13561a2f-793f-4422-8860-4658792b163f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;classes&quot;)</value>
+      <webElementGuid>41b76bf1-a9e4-40f6-984e-8daa9a1a7756</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='classes']</value>
+      <webElementGuid>8f6dd44c-3fd7-4246-86db-ad5ca71c2097</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='searchForm']/table/tbody/tr[3]/td[2]/select</value>
+      <webElementGuid>3b36944c-988f-4acf-b4f8-028f5b9c001a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='課程名稱:'])[1]/following::select[1]</value>
+      <webElementGuid>da506059-39c9-4994-a69c-7991f7b28beb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='教師姓名'])[1]/following::select[1]</value>
+      <webElementGuid>ab9fb457-a597-446f-b4e0-6f13ee70512c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='課程代碼'])[1]/preceding::select[1]</value>
+      <webElementGuid>e8b787da-ad6f-4303-86be-d66d74021218</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='指定有效日期(起)'])[1]/preceding::select[1]</value>
+      <webElementGuid>add65011-2fa3-48bc-a770-0ed01bfa16de</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[2]/select</value>
+      <webElementGuid>e5694674-a8d3-497b-90ef-b7592bab4669</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@name = 'classes' and @id = 'classes' and (text() = '
+
+基礎數學
+PickListValues.15003549
+微生物學及免疫學實驗 (A)微生物學及免疫學實驗 (A)微生物學及免疫學實驗 (A)微生物學及免疫學實驗 (A)PickListValues.15003628
+PickListValues.15003568
+PickListValues.15003561
+PickListValues.15003560
+PickListValues.15003557
+test2
+PickListValues.15003555
+PickListValues.15003550
+PickListValues.15003551
+PickListValues.15003552
+PickListValues.15003553
+PickListValues.15003554
+管理會計
+進階第二外語(二)– 日文
+進階第二外語(二) – 西班牙文
+字彙學習
+觀光活動行銷與接待實務
+實用英文寫作(二)
+新聞英文(二)
+商業英文書信寫作
+會議英文
+english
+ABC
+口譯(二)
+電子商務與實習
+經貿英文
+管理學(人力資源管理)專業英文
+行銷學專業英文
+商用微積分（二）
+應用統計學（二）
+應用經濟學
+貨幣銀行學（二）
+中級會計學（二）
+會計學(二)
+商事法
+財務管理（二）
+保險學
+中文
+期貨與選擇權
+專題製作(二)
+金融業行銷
+PickListValues.15003508
+沒
+職場倫理個案研討
+專業證照
+財務數學
+國際金融與匯兌
+進階經濟學
+經濟政策
+管理會計學
+銀行會計與實務
+財務會計實務
+稅務法規
+國際財務管理
+投資組合管理
+企業評價
+風險管理
+貨幣市場暨交易實務
+營運資金管理
+保險實務
+金融行銷實務
+管理學
+金融創新
+職場倫理實作
+財金專業英文
+銀行徵信與授信實務
+財富管理實務
+產業界實習
+財務金融資訊系統
+風險管理
+公司治理
+財富管理實務
+職涯分析與規劃
+英語導覽人才口語溝通(二)
+英語導覽人才口語溝通(四)
+菁英人才閱讀與寫作(二)
+菁英人才閱讀與寫作(四)
+國際商務英文（二）
+商用英語會話
+國際商務英文(二)
+商用英語會話
+實用英語
+商用微積分(二)
+電子商務應用
+全球產業分析
+管理經濟學
+電子商務應用
+管理經濟學
+應用統計學(二)
+專題製作(二)
+應用統計學(二)
+國際企業管理
+行銷管理
+全球行銷管理
+國貿實務(二)
+行銷管理
+會計學（二）
+會計學(二)
+財務管理
+國際金融
+國際金融
+經貿英語導讀
+產業組織
+亞太經貿分析
+商業應用軟體
+國際經貿關係
+國際市場開發實務
+商事法
+全球產業分析
+大陸市場
+整合行銷溝通
+測試課程
+台灣
+PickListValues.15003559
+高齡社會與老年生活[Aged Society And Elderly Life]95U000749
+' or . = '
+
+基礎數學
+PickListValues.15003549
+微生物學及免疫學實驗 (A)微生物學及免疫學實驗 (A)微生物學及免疫學實驗 (A)微生物學及免疫學實驗 (A)PickListValues.15003628
+PickListValues.15003568
+PickListValues.15003561
+PickListValues.15003560
+PickListValues.15003557
+test2
+PickListValues.15003555
+PickListValues.15003550
+PickListValues.15003551
+PickListValues.15003552
+PickListValues.15003553
+PickListValues.15003554
+管理會計
+進階第二外語(二)– 日文
+進階第二外語(二) – 西班牙文
+字彙學習
+觀光活動行銷與接待實務
+實用英文寫作(二)
+新聞英文(二)
+商業英文書信寫作
+會議英文
+english
+ABC
+口譯(二)
+電子商務與實習
+經貿英文
+管理學(人力資源管理)專業英文
+行銷學專業英文
+商用微積分（二）
+應用統計學（二）
+應用經濟學
+貨幣銀行學（二）
+中級會計學（二）
+會計學(二)
+商事法
+財務管理（二）
+保險學
+中文
+期貨與選擇權
+專題製作(二)
+金融業行銷
+PickListValues.15003508
+沒
+職場倫理個案研討
+專業證照
+財務數學
+國際金融與匯兌
+進階經濟學
+經濟政策
+管理會計學
+銀行會計與實務
+財務會計實務
+稅務法規
+國際財務管理
+投資組合管理
+企業評價
+風險管理
+貨幣市場暨交易實務
+營運資金管理
+保險實務
+金融行銷實務
+管理學
+金融創新
+職場倫理實作
+財金專業英文
+銀行徵信與授信實務
+財富管理實務
+產業界實習
+財務金融資訊系統
+風險管理
+公司治理
+財富管理實務
+職涯分析與規劃
+英語導覽人才口語溝通(二)
+英語導覽人才口語溝通(四)
+菁英人才閱讀與寫作(二)
+菁英人才閱讀與寫作(四)
+國際商務英文（二）
+商用英語會話
+國際商務英文(二)
+商用英語會話
+實用英語
+商用微積分(二)
+電子商務應用
+全球產業分析
+管理經濟學
+電子商務應用
+管理經濟學
+應用統計學(二)
+專題製作(二)
+應用統計學(二)
+國際企業管理
+行銷管理
+全球行銷管理
+國貿實務(二)
+行銷管理
+會計學（二）
+會計學(二)
+財務管理
+國際金融
+國際金融
+經貿英語導讀
+產業組織
+亞太經貿分析
+商業應用軟體
+國際經貿關係
+國際市場開發實務
+商事法
+全球產業分析
+大陸市場
+整合行銷溝通
+測試課程
+台灣
+PickListValues.15003559
+高齡社會與老年生活[Aged Society And Elderly Life]95U000749
+')]</value>
+      <webElementGuid>9c97975f-2748-41c9-badf-ac7671b49044</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
